@@ -1,0 +1,11 @@
+subject,topic,question,a,b,c,d,correct
+chemistry,elements,Символ химического элемента кислород?,O,Ox,K,Ok,A
+chemistry,elements,Атомный номер водорода?,1,2,3,4,A
+chemistry,elements,Самый легкий газ?,Кислород,Водород,Азот,Гелий,B
+chemistry,reactions,H2 + O2 = ?,H2O,CO2,O2,NO,A
+chemistry,reactions,2H2 + O2 = ?,2H2O,H2O,CO2,O3,A
+chemistry,reactions,Продукт горения углерода?,CO2,H2O,O2,CH4,A
+chemistry,acids,Формула соляной кислоты?,HCl,H2SO4,HNO3,CH3COOH,A
+chemistry,acids,Формула серной кислоты?,H2SO4,HCl,HNO3,NaOH,B
+chemistry,bases,Формула гидроксида натрия?,NaOH,KOH,Ca(OH)2,Mg(OH)2,A
+chemistry,bases,Щелочная среда имеет pH?,<7,=7,>7,=0,C

@@ -1,0 +1,11 @@
+subject,topic,question,a,b,c,d,correct
+math_literacy,algebra,2+2=?,3,4,5,6,B
+math_literacy,algebra,3*5=?,10,15,20,25,B
+math_literacy,algebra,10-3=?,5,7,8,6,A
+math_literacy,geometry,Площадь квадрата со стороной 4?,8,12,16,20,C
+math_literacy,geometry,Периметр квадрата со стороной 5?,15,20,25,30,B
+math_literacy,fractions,1/2 + 1/4=?,2/4,3/4,4/4,1/6,B
+math_literacy,fractions,3/4 - 1/2=?,1/4,2/4,1/2,1/8,A
+math_literacy,percent,10% от 200?,10,20,30,40,B
+math_literacy,percent,25% от 80?,15,20,25,30,B
+math_literacy,equations,Реши: x+5=10,3,4,5,6,C
