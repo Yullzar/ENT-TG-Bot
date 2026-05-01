@@ -59,22 +59,31 @@ def start_command(message):
 
 @bot.message_handler(commands=['help'])
 def help_command(message):
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
+    btn_back = types.KeyboardButton('🔙 Назад')
+    markup.add(btn_back)
     help_text = (
         "🤖 *Помощь по боту*\n\n"
         "Этот бот поможет вам подготовиться к ЕНТ.\n\n"
         "Доступные команды:\n"
         "/start - Главное меню\n"
         "/help - Справка\n\n"
-
+        "/subjects - Выбор предмета для подготовки\n"
+        "/probent - Пробный ЕНТ\n"
+        "/stats - Статистика\n"
     )
-    bot.send_message(message.chat.id, help_text, parse_mode='Markdown')
+    bot.send_message(message.chat.id, help_text, parse_mode='Markdown', reply_markup=markup)
 
 @bot.message_handler(commands=['stats'])
 def stats_command(message):
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
+    btn_back = types.KeyboardButton('🔙 Назад')
+    markup.add(btn_back)
     bot.send_message(
         message.chat.id,
         "📊 *Ваша статистика*\n\n",
-        parse_mode='Markdown'
+        parse_mode='Markdown',
+        reply_markup=markup
     )
 
 
@@ -255,12 +264,12 @@ def callback_handler(call):
         current_question = session['questions'][session['current_index']]
         correct_answer = current_question['correct'].upper()
         
-
+        result_text = "Ваш ответ: " + user_answer
         if user_answer == correct_answer:
             session['correct_answers'] += 1
-            result_text = "✅ Правильно!"
+            result_text += "\n✅ Правильно!"
         else:
-            result_text = f"❌ Неправильно! \nПравильный ответ: {correct_answer}"
+            result_text += f"\n❌ Неправильно! \nПравильный ответ: {correct_answer}"
         
         original_text = call.message.text
         new_text = original_text + f"\n\n{result_text}"
