@@ -1,0 +1,1627 @@
+{
+  "Математическая грамотность": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Найдите сумму простых чисел первых двух десятков",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "76",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "77",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "79",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Новая логическая операция & для которой выполняется тогда, равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q2_0.png",
+          "media/Математическая грамотность/questions/q2_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "61",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "54",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "55",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "49",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B магазине выписали размеры остатков летней обуви и получили следующий ряд: 34; 38; 39; 43; 35; 45; 40; 36; 35; 34; 38; 37; 42; 35; 39; 43. Mода данного ряда равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "34",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "43",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "35",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "39",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Kаждая буква слова «глобус» написана на отдельной карточке. Карточки перемешали и наугад вытащили одну карточку. Какова вероятность, того что на карточке гласная буква?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q4_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q4_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q4_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q4_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Для изготовления элементов мозаики используют детали в форме прямоугольника. Из куска проволоки длиной 10 см изготовили контур прямоугольника, длины сторон которого выражены целыми числами в сантиметрах. Какое наибольшее значение может иметь ширина, если она меньше длины?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "4 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3 см",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Aсхат в первый день прочитал 25 % всей книги, во второй день – 40 % остатка, оставшую часть книги 18 страниц прочитал в третий день. Сколько страниц в книге?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "45 стр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "50 стр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "30 стр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "40 стр",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Сколько пятизначных чисел можно составить, используя без повторений цифры 6; 2; 3; 0; 5",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "48",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "96",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "24",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "120",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "B детском саду кабинеты последовательно пронумерованы. Все двери кабинетов (кроме № 13) окрасили: № 1 - в голубой цвет, № 2 – в сиреневый, № 3 – в розовый, № 4 в салатный и далее цвета окрашивания дверей следуют в том же порядке. Цвет двери кабинета № 30",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "голубой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "салатный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сиреневый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "розовый",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "B магазине компания из 8 друзей купила для каждого по: a пирожков по 150 тенге, b бутылок напитка по 350 тенге, с булочек по 100 тенге. Выражение стоимости всей покупки для компании имеет вид",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8abс + 600",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "150a + 350b + 100с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8(a + b + с)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "400(3a + 7b + 2с)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Kонтейнер в форме прямоугольного параллелепипеда с высотой больше 1 см и квадратным дном заполнили полностью 100 кубиками с ребром 1 см, тогда площадь наибольшего основания контейнера равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q10_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q10_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q10_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q10_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "11": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Ученики выстроились в шеренгу по одному человеку. Айдана – десятая, если считать с начала, и двенадцатая, если считать с конца ряда. Сколько человек в ряду?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "21",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "23",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "24",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "22",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "12": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Eсли 5А = 12 и 4В = 18, то отношение равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q12_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q12_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q12_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q12_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q12_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "13": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B садоводческом хозяйстве с трех участков по 1 га собрали винограда 5,6 ц, 5,9 ц и 5,3 ц. Средняя урожайность с трех участков равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5,7 ц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5,6 ц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5,4 ц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "5,5 ц",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "14": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "B коробке 3 белых, 5 красных и 2 зелёных шара. Марат наугад выбирает один шар из коробки. Вероятность выбора красного или зелёного шара равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q14_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q14_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q14_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q14_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "15": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Фермер решил огородить забором земельный участок прямоугольной формы. Найдите периметр забора, если длина и ширина земельного участка выражены простыми числами, а площадь равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q15_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "68 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "32 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "56 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "44 м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "16": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "B канцелярском магазине из привезённых тетрадей 60% в клетку, а остальные в линию. Из тетрадей в линию 70% тетрадей 12-листовые, а остальные 48 тетрадей это 24-листовые. Количество 24-листовых тетрадей в линию от общего количества привезённых тетрадей составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "15%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "18%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10%",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "17": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "А – множество букв в слове «квадрат», В – множество букв в слове «круг». Найдите буквы множества .",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q17_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q17_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q17_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q17_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q17_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "18": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Используя данные таблицы, определите массу Берика",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q18_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "34 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "28 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "30 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "26 кг",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "19": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Mасса конфет в пяти больших коробках и в десяти маленьких коробочках равна 3,5 кг. Сколько граммов конфет в маленькой коробочке, если её масса в 3 раза меньше, чем масса конфет в большой коробке?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "130 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "120 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "140 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "150 г",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "20": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Длины измерений упаковочной коробки в форме прямоугольного параллелепипеда выражены простыми числами, произведение которых равно 105. Найдите площадь полной поверхности упаковочной коробки.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "86",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "142",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "107",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "121",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Kакова вероятность того, что наугад выбранное натуральное число от 1 до 20 включительно будет простым?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q21_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q21_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q21_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q21_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Из бидона отлили часть молока, а потом еще 0,5 л. После этого в бидоне осталось 8,5 л молока. Сколько литров молока было в бидоне первоначально?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q22_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "15 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "11 л",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "23": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Kусок проволоки длиной 120 см разрезали на равные части так, чтобы из этих частей можно было изготовить один куб. Площадь поверхности этого куба равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q23_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q23_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q23_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q23_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "24": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Для экологической акции были куплены футболки различных размеров: 42; 44; 42; 46; 48; 44; 50; 42; 44; 48; 48; 44. Мода полученного ряда равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "44",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "42",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "48",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "46",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "25": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Cкорость катера по течению реки 18,5 км/ч, а против течения реки 14,3 км/ч. Найдите собственную скорость катера.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "15,8 км/ч",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "14,9 км/ч",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "16,4 км/ч",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "17,2 км/ч",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "26": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Pяд многоугольников, который начинается с многоугольника с наименьшим количеством сторон, последовательно окрашен в красный, желтый, зеленый, синий цвета. Определите цвет двенадцатиугольника, если последовательность цветов сохраняется.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "желтый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "зеленый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "синий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "красный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "27": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Из чисел 1; 13; 295; 639; 838 выберите числа: a – простое, b – кратное 5, с – кратное 3. Вычислите какой цифрой оканчивается значение выражения a+ bс.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "28": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Cколькими способами можно распределить 7 водителей на каждый из 7 автобусов?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "49",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "720",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "5040",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "29": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Площадь клумбы квадратной формы равна площади клумбы в форме прямоугольника со сторонами 16 дм и 4 дм. Найдите периметр клумбы квадратной формы.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "28 дм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "32 дм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "36 дм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "16 дм",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "30": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Hа диаграмме представлены виды цветов в магазине «Флористика». Сколько хризантем и гвоздик вместе выставлено на продажу, если всего в магазине 5000 цветов?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q30_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2000",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1750",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2500",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "250",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Число без остатка делится на 9? Чему равно значение цифры a?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q31_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hа 3D принтере, работающем с постоянной скоростью, изготавливают деталь за 19 часов. Сегодня 3D принтер начал изготавливать такую же деталь в 14:00. Когда будет готова эта деталь, если принтер работает непрерывно?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "завтра 12:00",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сегодня 21:00",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "завтра 9:00",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "завтра 7:00",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B газетном киоске за неделю сделали выручку: 27560 тенге, 34100 тенге, 19450 тенге, 29600 тенге, 89780 тенге, 107580 тенге, 76930 тенге. Найдите среднюю выручку за неделю",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "55 000 тенге",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "57 450 тенге",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "54 750 тенге",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "53 620 тенге",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "B коробке с новогодними елочными игрушками 10 зеленых, 12 красных и 15 желтых шаров. Найдите вероятность того, что первый наугад вынутый шар будет зеленым.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q34_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q34_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q34_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q34_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Для покрытия пола комнаты квадратной формы ушло линолеума. Сколько метров плинтуса понадобится для этой комнаты? Размерами двери пренебречь. (Плинтус – это планка, закрывающая щель между полом и стеной).",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q35_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "20 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "25 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10 м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Hа диаграмме показано количество школ города по обеспеченности компьютерами. Определите процент школ с наилучшим обеспечением компьютерами",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математическая грамотность/questions/q36_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q36_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q36_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q36_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q36_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Из 100 подарочных наборов в 50 находятся шоколад, в 40 – фрукты, в 38 – соки, в 12 – шоколад и фрукты, в 8 – фрукты и соки, в 13 – шоколад и соки, в 5 – шоколад, соки и фрукты. В скольких наборах отсутствуют соки?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "62",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "55",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "37",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "90",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Aрман написал на доске натуральные числа от 1 до 50 включительно. Потом он начал зачёркивать все числа, делящиеся на 2, на 3, на 7. Сколько чисел он не зачеркнул?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "14",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "13",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "17",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "B трех сосудах находится 48 л жидкости. Сначала из первого сосуда перелили в два другие столько, сколько было в каждом из них. Затем из второго перелили в два другие столько, сколько стало в каждом из них после первого переливания. В результате в каждом сосуде оказалось одинаковое количество жидкости. Сколько жидкости было первоначально в первом сосуде ?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "26 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "28 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "24 л",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "30 л",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Hайдите наименьшую площадь полной поверхности тела, склеенного из пяти одинаковых кубиков с ребрами равными 1 см.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q40_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q40_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q40_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математическая грамотность/answers/q40_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      }
+    }
+  }
+}

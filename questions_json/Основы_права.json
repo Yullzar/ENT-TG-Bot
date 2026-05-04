@@ -1,0 +1,4586 @@
+{
+  "Основы права": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Высшей ценностью правового государства является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "человек, его жизнь и свободы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "территория государства и его целостность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "семья и семейные отношения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "власть государства, которая неограничена правом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Задача гражданского общества быть посредником между",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "народом и религией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гражданином и партией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "властью и государством",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "индивидуумом и государством",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Право главы государства не допустить введение в действие закона",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "вотум",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "импичмент",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "квота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вето",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Требование, не являющееся обязательным, для судьи в Казахстане",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "стажировка в суде",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "высшее юридическое образование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "возраст 25 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "квалификационный экзамен",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Oпределите экономический принцип Конституции Республики Казахстан",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "широкое использование политических рычагов и стимулов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "свобода и неприкосновенность собственности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "политический плюрализм и гласность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "свобода творчества и развития своих дарований",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Bсестороннее и объективное исследование всех обстоятельств дела относится к принципу административного процесса",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гласности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "законности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "объективности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "равенства",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cовокупность правовых норм, регулирующих земельные отношения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гражданское право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "семейное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "земельное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "трудовое право",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "K лицу, признанному виновным в совершении уголовного проступка, применяется наказание",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "лишение гражданство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "конфискация имущества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "исправительные работы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ограничение свободы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Использование государственных функций в частных интересах, для получения имущественных и неимущественных благ и преимуществ",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "шантаж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вымогательсто",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коррупция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "подлог",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Договор имущественного найма, заключенный без указания срока, считается",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "заключенным на неопределенный срок",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "действительным 20 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "дествительным 10 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "недействительным",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Tовар, который не наносит вреда жизни, здоровью, имуществу потребителя, окружающей среде",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "потребительский",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рецептурный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "качественный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "безопасный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Cодержание нетрудоспособных родителей совершеннолетними дееспособными детьми - пример",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "неимущественных прав",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "алиментных обязательств",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "договорных отношений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "налоговых выплат",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Bремя выполнения трудовых обязанностей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "время отпуска",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ежедневный отдых",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "рабочее время",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "нерабочие праздничные дни",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Положительная социально-нравственная оценка человека или учреждения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Достоинство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Честь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Уважение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Любовь",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Лицо, содействующее осуществления правосудия, проводящее исследования",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "судебный исполнитель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "свидетель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "эксперт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "секретарь досудебного заседания",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Oсновные задачи административного процесса",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "охрана законных интересов юридических и физических лиц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "право обжаловать административные решения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "законность в гражданском обороте",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "регулировка различных отраслей права",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oбязательства по недопущению детского труда и поощрению труда молодежи были приняты при вступлении Республики Казахстан в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Международную организацию труда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Всемирную организацию здравоохранения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Шанхайскую организацию сотрудничества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Детский фонд ООН (ЮНИСЕФ)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Mеждународная организация, основанная по инициативе западной социал-демократии в 1919 году",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ООН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ВОЗ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "МОТ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ЮНЕСКО",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Cпособность несовершеннолетнего обладать гражданскими правами и нести обязанности (вступать в брак, заниматься предпринимательской деятельностью) -",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "деликтоспособность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "эмансипация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "декриминализация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "правоспособность",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Принцип равенства всех перед законом и судом означает",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "все граждане должны в равной мере исполнять требования закона",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "жизнь человека его права и свободы являются высшей ценностью",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "что человек и государство должны исполнять требования закона",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "каждый человек может обращаться в суд за защитой своих прав",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "K самозащите можно отнести",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "равенство всех перед судом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "презумпцию невиновности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "необходимую оборону",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "право на адвоката",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Cпециальные государственные правоохранительные органы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "прокуратура",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "национальная безопасность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нотариат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "адвокатура",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Правовой статус судей регулируется только",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гражданским правом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "административным правом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "конституционным правом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "процессуальным правом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Гражданин Ю. установил баннер своей фирмы на балконе офиса, находящегося на втором этаже жилого дома, при этом нижняя часть баннера закрыла верхнюю часть окна квартиры гражданина М., мешая проникновению света. Гражданин М. подал в суд иск",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "виндикационный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "о возмещении ущерба",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "о признании права собственности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "негаторный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Eсли стоимость товара при оплате на кассе отличается от указанной в ценнике на внутренней витрине магазина, покупатель",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "приобретает товар за сумму, указанную в ценнике на витрине",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "приобретает товар за сумму, указанную кассиром на кассе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "имеет право на дополнительную скидку к приобретаемому товару",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "приобретает товар за среднюю сумму между ценой на витрине и кассе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Свидетель, потерпевший, подозреваемый вызывается лицом, осуществляющим досудебное расследование, на допрос повесткой. Допрос производится по месту проведения досудебного расследования. Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым, произвести допрос в месте нахождения допрашиваемого. Если возникают сомнения, владеет ли допрашиваемый языком, на котором ведется производство по делу, выясняется, на каком языке он желает давать показания. В необходимых случаях он обеспечивается бесплатно переводчиком. Лицу, вызванному на допрос, сообщается, в качестве кого, по какому уголовному делу, он будет допрошен, разъясняются права и обязанности, предусмотренные УПК РК, о чем делается отметка в протоколе...» Используя документ, определите, на каком основании свидетель вызывается на допрос",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "повестка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "объяснительная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "заявление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "протокол",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Свидетель, потерпевший, подозреваемый вызывается лицом, осуществляющим досудебное расследование, на допрос повесткой. Допрос производится по месту проведения досудебного расследования. Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым, произвести допрос в месте нахождения допрашиваемого. Если возникают сомнения, владеет ли допрашиваемый языком, на котором ведется производство по делу, выясняется, на каком языке он желает давать показания. В необходимых случаях он обеспечивается бесплатно переводчиком. Лицу, вызванному на допрос, сообщается, в качестве кого, по какому уголовному делу, он будет допрошен, разъясняются права и обязанности, предусмотренные УПК РК, о чем делается отметка в протоколе...» Используя документ, определите лицо, вызываемое на допрос повесткой",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "переводчик",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "следователь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "адвокат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "потерпевший",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Свидетель, потерпевший, подозреваемый вызывается лицом, осуществляющим досудебное расследование, на допрос повесткой. Допрос производится по месту проведения досудебного расследования. Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым, произвести допрос в месте нахождения допрашиваемого. Если возникают сомнения, владеет ли допрашиваемый языком, на котором ведется производство по делу, выясняется, на каком языке он желает давать показания. В необходимых случаях он обеспечивается бесплатно переводчиком. Лицу, вызванному на допрос, сообщается, в качестве кого, по какому уголовному делу, он будет допрошен, разъясняются права и обязанности, предусмотренные УПК РК, о чем делается отметка в протоколе...» Перед допросом лицо, осуществляющее досудебное расследование должно",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "провести очную ставку между допрашиваемыми",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "подписать протокол расследования",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "удостовериться в личности допрашиваемого",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "произвести следственный эксперимент",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Свидетель, потерпевший, подозреваемый вызывается лицом, осуществляющим досудебное расследование, на допрос повесткой. Допрос производится по месту проведения досудебного расследования. Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым, произвести допрос в месте нахождения допрашиваемого. Если возникают сомнения, владеет ли допрашиваемый языком, на котором ведется производство по делу, выясняется, на каком языке он желает давать показания. В необходимых случаях он обеспечивается бесплатно переводчиком. Лицу, вызванному на допрос, сообщается, в качестве кого, по какому уголовному делу, он будет допрошен, разъясняются права и обязанности, предусмотренные УПК РК, о чем делается отметка в протоколе...» Допрос производится по месту",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "проведения досудебного расследования",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "государственной регистрации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выполнения трудовой деятельности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "постоянного проживания",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Свидетель, потерпевший, подозреваемый вызывается лицом, осуществляющим досудебное расследование, на допрос повесткой. Допрос производится по месту проведения досудебного расследования. Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым, произвести допрос в месте нахождения допрашиваемого. Если возникают сомнения, владеет ли допрашиваемый языком, на котором ведется производство по делу, выясняется, на каком языке он желает давать показания. В необходимых случаях он обеспечивается бесплатно переводчиком. Лицу, вызванному на допрос, сообщается, в качестве кого, по какому уголовному делу, он будет допрошен, разъясняются права и обязанности, предусмотренные УПК РК, о чем делается отметка в протоколе...» Лицо, осуществляющее досудебное расследование, вправе, если признает это необходимым",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "произвести допрос в месте нахождения допрашиваемого",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "обеспечивать бесплатным переводчиком и адвокатом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "проводить допрос не удостоверившись в личности допрашиваемого",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "проводить допрос без протокола расследования",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "K функциям нотариата относится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "составление исковых заявлений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "защита физических лиц в суде",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "досудебное расследование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "принятие на хранение документов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Oбщественные отношения в области использования природных ресурсов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "экологическое право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "экологические правоотношения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "экологическая ответственность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "экологическое правонарушения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Bид юридической ответственности дееспособного физического лица, наступающий ранее других",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "имущественная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "уголовная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "административная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "дисциплинарная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "B 2008 году Казахстан ратифицировал Конвенцию ООН против",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "терроризма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "смертной казни",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "оборота наркотиков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "коррупции",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Для решения вопросов, касающихся совместной деятельности палат парламента, сенат и мажилис",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "проводят совместные заседания с правительством",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "образуют по 10 постоянных комитетов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "образуют комиссии на пропорциональных началах",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "образуют комиссии на паритетных началах",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Правило поведения, которое передается из поколения в поколение и защищается принудительной силой государства",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "правовой обычай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "правовой акт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нормативный договор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "судебный прецедент",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Pазмер платы за пользование имуществом может изменяться не чаще чем",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "два раза в год",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "один раз в год",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "один раз в два года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "три раза в год",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "B 1994 году Республика Казахстан стала членом международной организации",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Учреждения ООН по вопросам образования и науки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Международной организация труда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Международного агенства по атомной энергетике",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Шанхайской организации сотрудничества",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Мнение, выраженное голосованием",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "иммунитет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "импечмент",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "вето",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вотум",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Pасторжение брака может быть произведено",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в регистрирующем органе или суде",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "на основе моральных норм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "по договору между супругами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "на семейном совете",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "После утверждения обвинительного акта прокурором, лицо именуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "осужденный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "обвиняемый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "подсудимый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "подозреваемый",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "K негосударственной защите относится деятельность",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "правозащитных организаций",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "органов внутренних дел",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "исполнительных органов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "прокуратуры",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Oпределите последовательность механизма защиты прав и свобод человека I. надзор и решение споров координирующими организациями; II. принятие международного документа по защите прав человека; III. реализация соглашений странами на национальном уровне.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "III, I, II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "II, III, I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Принцип предполагающий наделение сторон равными правами и возможностями по отстаиванию своих прав и законных интересов при осуществлении правосудия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "компетентности и беспристрастия суда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "состязательности и равноправия сторон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "cоблюдения прав и свобод личности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гласного или открытого разбирательства",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Tовар, не подлежащий обмену в соответствии с законом Республики Казахстан «О защите прав потребителей»",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "лекарственные средства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "верхняя одежда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мягкая мебель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бытовая техника",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Правило поведения, которое в силу многократного повторения становится привычкой, передается из поколения в поколение и защищается принудительной силой государства",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "нормативный договор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "судебный прецедент",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "правовой обычай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "нормативный правовой акт",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Hа вечере бардовской песни гражданин Р. сделал запись концерта и разместил ее на своей странице в Инстаграмм в качестве рекламы своих товаров, нарушив",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "потребительское право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "интеллектуальное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "смежное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "публичное право",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Лицо, осуществляющее в установленном законом порядке защиту прав и интересов свидетеля",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "потерпевший",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "защитник",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "свидетель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "дознаватель",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Oбеспечение государственного контроля за соблюдением трудового законодательства Республики Казахстан – одна из задач",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "трудового арбитражного суда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "профсоюзной организации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "согласительной трудовой комиссии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "государственной инспекции труда",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Функция административной ответственности",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "социальная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "экономическая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "предупредительная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "воспитательная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Лица, содействующие осуществлению правосудия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "заявители",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "переводчики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "судебный приставы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "судебные исполнители",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Деятельность нотариусов и профсоюзов относят к защите",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "судебной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "негосударственной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "самостоятельной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "государственной",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Принудительное препровождение лиц, транспортных средств в полицию для составления протокола об административных правонарушениях выражается в (-для)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Доставлении",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Личного досмотра",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Приводе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Административном задержании",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Лицо, состоящее в гражданстве двух государств",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "апатрид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "бипатрид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "эмигрант",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "иммигрант",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Главная идея гражданского общества",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "благотворительная деятельность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "независимость и свободы субъектов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "защита свободной конкуренции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "государственный контроль над обществом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bиды нормативно правовых актов. Определите документ под №1 на схеме",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q56_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Закон «О государственной независимости»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Всемирная декларация прав человека и гражданина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Гражданский кодекс РК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Конституция Республики Казахстан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bиды нормативно правовых актов. Опираясь на схему, определите нормативный правовой акт, обладающий высшей юридической силой, принимаемый высшим законодательным органом в особом процедурном порядке",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q57_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "закон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "акт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "постановление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "приказ",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bиды нормативно правовых актов. Используя схему и правовые знания, выберите верные утверждения: I. Подзаконные нормативные правовые акты – это акты, принимаемые исполнительно-распорядительными органами государства; II. В случаи противоречия подзаконного нормативного правового акта и закона, действует закон; III. Основным источником права в Республике Казахстан является правовой договор; IV. Конституционные законы принимаются на основе и во исполнение текущих законов.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q58_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "III, II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bиды нормативно правовых актов. Используя схему и правовые знания, определите название документа под №2",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "закон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "акт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "приказ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "указ",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bиды нормативно правовых актов. Используя схему и правовые знания, установите соответствие между типом закона и его содержанием: A. конституционные; Б. текущие; В. консолидированные; I. регулируют различные стороны жизни страны; II. закрепляют основы общественного и государственного строя; III. объединяет законы, регулирующие комплексные общественные отношения в определенной сфере;",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q60_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "A-II, Б-I, В-III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "A-I, Б-II, В-III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "A-I, Б-III, В-II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "A-III, Б-II, В-I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "K неюридическим гарантиям законности относится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "профилактика правонарушений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "устранение и пресечение правонарушений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "деятельность правоохранительных органов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "норма права",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Система нематериальных благ, их отношений и институтов, через которые реализуются гражданские отношения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "экономическая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "духовно-культурная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "политическая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "информационная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Деятельность адвоката относят к защите",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "самостоятельной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "государственной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "негосударственной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "политической",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "В общие принципы судебной власти не входит",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "презумпция невиновности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "независимости судей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "право быть выслушанным",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "законности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Утверждение-«Каждый обязан соблюдать Конституцию и законодательство Республики Казахстан», относится к методу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "обязывания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "признания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "дозволения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "запрещения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Aдминистративное право наиболее тесно связано с вопросами",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "организации и деятельности законодательной власти",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пресечения уголовных правонарушений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "защиты общества от уголовных правонарушений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "организации и деятельности исполнительной власти",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cистема наблюдений за состоянием всего земельного фонда страны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "реконсервация земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рекультивация земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мониторинг земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "земельный кадастр",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Cистема уголовно-правовых норм, установленных государством в целях регулирования и охраны общественных отношений от преступных посягательств",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "семейное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гражданское право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "трудовое право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "уголовное право",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Лицо, давшее взятку, освобождается от уголовной ответственности, если в отношении него имело место",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "вымогательсво взятки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "оказано давление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "превышены полномочия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "чистосердечное раскаяние",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Лицо, присутствующее при составлении, подписании, удостоверении завещания или при передаче его нотариусу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сосед",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "свидетель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нотариус",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "наследник",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Указание стоимости товара, обеспечение условий хранения товара - обязанности",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "займодателя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "продавца",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "кредитора",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "арендатора",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Объязателство целью которых является содержание нетрудоспособных и нуждающих членов семьи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "алименты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "брачный договор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "налог",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "законный режим имущества супругов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Oтношения между работником и работодателем регулируются",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "договором оказания услуг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "обязательственным правом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "трудовым договором",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гражданскими правоотношениями",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Mетод равноправия сторон, основанный на дозволениях",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "административно-процессуальный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "диспозитивный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "императивный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "императивно-диспозитивный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "K отраслевым принципам гражданского-процессуального относятся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "состязательность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "уважение чести и достоинства личности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "законность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "осуществление правосудия только судом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Cовокупность действий, совершаемые исполнительными органами для реализации возложенных на них задач и функций",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Гражданский процесс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Уголовное преследование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Досудебное производство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Административный процесс",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Bыберите верные утверждения, характеризующие Казахстан как субъект международного права I. В 2018 г. Казахстан председательствовал в Совбезе ООН; II. Инициативой Казахстана стало проведение Международной выставки ЭКСПО «Энергия будущего»; III. Казахстан инициировал принятие Всеобщей декларации прав человека и гражданина; IV. Казахстан является членом Евросоюза.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I, II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Функция института омбудсмена",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "систематизация информации о применении пыток",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сбор информации о фактическом положении детей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "регулирование вопросов трудовых отношений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "контроль за соблюдением справедливости в деятельности органов исполнительной власти",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Hалоговое право - подотрасль",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конституционного права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "финансового права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "трудового права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гражданского права",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Политическую основу гражданского общества составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "демократия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "государство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "собственность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "семья",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Cпособ защиты прав человека",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "индивидуальный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "государственный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "общественный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "частный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Bысший надзор за соблюдением законности на территории страны осуществляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "суд",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "адвокатура",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "органы внутренних дел",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "прокуратура",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Исключите лишнее из перечня институтов конституционного права РК",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "институт избирательной системы и референдума",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "институт гражданских правовых норм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "институт правового статуса человека и гражданина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "институт организации деятельности системы государственных органов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "B порту Актау разгрузка вне очереди иранского судна с грузом свежих фруктов из Египта для реабилитационного центра произошла согласно",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "обычаев делового оборота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "международного права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "закона о социальной поддержке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "правилам фрахтования судна",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Oпределите верные объекты авторского права",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сообщение о челлендже в школе, размещенное в СМИ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "нота министерства иностранных дел",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "презентации к уроку, собранные в единый сборник и снабженные системой навигации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "коллекционная монета номиналом в 200 тенге, выпущенная в ограниченном количестве",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Изучите схему и определите систему принципов, которую она отражает",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q86_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конституционного права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гражданского общества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "правового государства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "правового статуса личности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя схему и правовые знания, определите высшую ценность в государстве, развивающимся на основе этих принципов",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q87_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "государство, его суверенность и целостность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "закон, право, правомерное поведение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мораль, нравственность и этика",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "человек, его жизнь, права и свободы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя схему и правовые знания, определите с каким принципом связаны институты вето и импичмента",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q88_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "принцип правового равенства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "принцип правовой защищенности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "принцип разделения властей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "принцип приоритета права",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя схему и правовые знания, определите принцип, нарушенный в СССР, когда глава государства одновременно являлся и лидером правящей партии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q89_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "принцип разделения властей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "принцип приоритета права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "принцип взаимной ответственности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "принцип верховенства закона",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя схему и правовые знания, установите соответствие между принципом и его содержанием I. Принцип приоритета права; II. Принцип правовой защищенности; III. Принцип верховенства закона. A. Закон обладает высшей юридической силой; Б. Необходимость правового обоснования решений государственных и общественных органов; B. Разрешено все, что не запрещено законом.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Основы права/questions/q90_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I-Б, II-В, III-А",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I-Б, II-А, III-В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I-А, II-В, III-Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I-В, II-Б, III-А",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Законотворчество в Республике Казахстан осуществляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Парламент",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "народ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Прокуратура",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Президент",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Жизнь в правовом государстве основывается на разумных началах",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "на законах, нормах морали и нравственности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "на традициях, обычаях и нормах общества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "чести, достоинства и нравственности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "на религиозных нормах, нормах морали и нравственности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Понятия «свобода совести», «свобода мысли», «свобода слова», «свобода труда» являются определениями",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "обязанностей граждан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "социальных требований",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нормами закона",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "прав человека",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Согласно требованиям конституционного права РК, судьей может стать лицо, достигшее возраста",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "30 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "40 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "45 лет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "35 лет",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Bерховенство Конституции РК характеризуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "определенностью отношений между личностью и государством",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "приоритетным положением в системе нормативных правовых актов государства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "условием режима законности, устойчивости всей правовой системы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "закреплением свободы экономической деятельности, равенство всех форм собственности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "K местным исполнительным органам относятся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "министерства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "агентства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "комитеты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "акиматы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cовокупность норм, направленных на охрану среды от негативных воздействий человека называется право",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "уголовное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "экологическое",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гражданское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "административное",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Cистема уголовно-правовых норм, установленных государством в целях регулирования и охраны общественных отношений от преступных посягательств",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гражданское право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "трудовое право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "уголовное право",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "семейное право",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "При деловой коррупции возникают взаимодействия между",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "представителями власти и бизнеса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рядовыми гражданами и чиновниками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "представителями высших эшелонов власти",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "чиновниками и высшими властными структурами",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Tермин «гражданское право» берет свое начало от права",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "древнего египетского",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "древнего римского",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "древнего шумерского",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "древнего греческого",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Физическое лицо, создавшее произведение науки, литературы, искусства",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "исполнитель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "правообладатель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "изготовитель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "автор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Препятствием для заключения брака является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "дееспособность лиц, вступающих в брак",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "письменное заявление о желании вступить в брак в государственные органы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "двухсторонее добровольное согласие",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "заключение брака между усыновителем и усыновленным",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Принудительный труд - это выполнение",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "трудовых функций по договору",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "обязательств по возмещению ущерба",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "условий нотариально заверенной сделки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "общественных работ по решению суда",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Должностное лицо, осуществляющее в пределах своей компетенции надзор за законностью оперативно-разыскной деятельности, дознания",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "защитник",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "прокурор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "следователь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "дознаватель",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "K конституционным принципам гражданского-процессуального права относятся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "устность судебного разбирательства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "равенство всех перед законом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "язык судопроизводства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "процессуальное равноправие сторон",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "B исключительных случаях допускается задержание лица по подозрению в совершении особо тяжского преступления на срок не более",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "48 часов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12 часов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "72 часа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "24 часа",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oбязательства по недопущению детского труда и поощрению труда молодежи были приняты при вступлении Республики Казахстан в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Международную организацию труда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Всемирную организацию здравоохранения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Детский фонд ООН (ЮНИСЕФ)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Шанхайскую организацию сотрудничества",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Oпределите верные характеристики деятельности Международной организации труда I. Является специализированным учреждением в структуре ООН; II. Занимается вопросами регулирования трудовых отношений; III. Содействует укреплению свободы взаимоотношений между странами; IV. Формирует Единый мировой рынок товаров и услуг.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I, II",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Первые формы институтов власти и первые общеобязательные нормы поведения, такие как обычаи, были сформированы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в рабовладельческой стадии развития общества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в капиталистической стадии развития общества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в феодальной стадии развития общества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в первобытной стадии развития общества",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Kонституционный закон РК «О государственной независимости Республики Казахстан» принят",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "10 декабря 1991 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "25 октября 1990 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "16 декабря 1991 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1 декабря 1991 года",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Главный правозащитный институт",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "суд",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "адвокатура",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нотариат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "прокуратура",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Tолько суд может определять",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "профессиональную пригодность служащих",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "виновность лица и назначать наказание",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "от имени государства уголовное преследование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "законность и правопорядок",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "K институту организации и деятельности государственных органов не относится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "институт Парламента РК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "институт Верховного суда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "институт Президента РК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "институт Правительства РК",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Oпределите верный(-е) признак(-и) договора займа I. Объекты договора передаются в собственность того, кто их занимает; II. Договор имеет реальный и односторонний характер участия; III. Предмет договора используется только в предпринимательских целях; IV. Каждая из сторон является одновременно и продавцом и покупателем.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I, II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Приобретя 18 сентября 10 баночек йогурта по акции с заканчивающимся сроком хранения 19 сентября, покупатель",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "имеет право требовать возмещения материального ущерба",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "имеет право написать досудебную претензию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "осуществил свое право потребителя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "совершил акт публичной оферты",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: ЗЕМЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН (с изменениями и дополнениями по состоянию на 18.09.2024 г.) Cтатья 1. 1. Земельный фонд Республики Казахстан в соответствии с целевым назначением подразделяется на следующие категории: 1) земли сельскохозяйственного назначения; 2) земли населенных пунктов (городов, поселков и сельских населенных пунктов); 3) земли промышленности, транспорта, связи, для нужд космической деятельности, обороны, национальной безопасности, зоны ядерной безопасности и иного несельскохозяйственного назначения; 4) земли особо охраняемых природных территорий, земли оздоровительного, рекреационного и историко-культурного назначения; 5) земли лесного фонда; 6) земли водного фонда; 7) земли запаса... Cтатья 4. Земельное законодательство Республики Казахстан основывается на следующих принципах: 1) целостности, неприкосновенности и неотчуждаемости территории Республики Казахстан; 2) сохранения земли как природного ресурса, основы жизни и деятельности народа Республики Казахстан; 3) охраны и рационального использования земель; 4) обеспечения экологической безопасности; 5) целевого использования земель; 6) приоритета земель сельскохозяйственного назначения; 7) обеспечения информацией о состоянии земель и ее доступности; 8) государственной поддержки мероприятий по использованию и охране земель; 9) предотвращения нанесения ущерба земле или устранения его последствий; 10) платности использования земли... Cтатья 6. 1. Земельное законодательство в Республике Казахстан основывается на Конституции Республики Казахстан и состоит из настоящего Кодекса и принимаемых в соответствии с ним нормативных правовых актов Республики Казахстан. Используя контекст, определите из скольки категорий состоит Земельный фонд Казахстана",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "десяти",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "семи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "девяти",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "шести",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: ЗЕМЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН (с изменениями и дополнениями по состоянию на 18.09.2024 г.) Cтатья 1. 1. Земельный фонд Республики Казахстан в соответствии с целевым назначением подразделяется на следующие категории: 1) земли сельскохозяйственного назначения; 2) земли населенных пунктов (городов, поселков и сельских населенных пунктов); 3) земли промышленности, транспорта, связи, для нужд космической деятельности, обороны, национальной безопасности, зоны ядерной безопасности и иного несельскохозяйственного назначения; 4) земли особо охраняемых природных территорий, земли оздоровительного, рекреационного и историко-культурного назначения; 5) земли лесного фонда; 6) земли водного фонда; 7) земли запаса... Cтатья 4. Земельное законодательство Республики Казахстан основывается на следующих принципах: 1) целостности, неприкосновенности и неотчуждаемости территории Республики Казахстан; 2) сохранения земли как природного ресурса, основы жизни и деятельности народа Республики Казахстан; 3) охраны и рационального использования земель; 4) обеспечения экологической безопасности; 5) целевого использования земель; 6) приоритета земель сельскохозяйственного назначения; 7) обеспечения информацией о состоянии земель и ее доступности; 8) государственной поддержки мероприятий по использованию и охране земель; 9) предотвращения нанесения ущерба земле или устранения его последствий; 10) платности использования земли... Cтатья 6. 1. Земельное законодательство в Республике Казахстан основывается на Конституции Республики Казахстан и состоит из настоящего Кодекса и принимаемых в соответствии с ним нормативных правовых актов Республики Казахстан. Используя контекст, определите принципы земельного права",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "приобретение и использование земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сохранение и целевое использование земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "приобретение и распределение земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "владение и использование земель",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: ЗЕМЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН (с изменениями и дополнениями по состоянию на 18.09.2024 г.) Cтатья 1. 1. Земельный фонд Республики Казахстан в соответствии с целевым назначением подразделяется на следующие категории: 1) земли сельскохозяйственного назначения; 2) земли населенных пунктов (городов, поселков и сельских населенных пунктов); 3) земли промышленности, транспорта, связи, для нужд космической деятельности, обороны, национальной безопасности, зоны ядерной безопасности и иного несельскохозяйственного назначения; 4) земли особо охраняемых природных территорий, земли оздоровительного, рекреационного и историко-культурного назначения; 5) земли лесного фонда; 6) земли водного фонда; 7) земли запаса... Cтатья 4. Земельное законодательство Республики Казахстан основывается на следующих принципах: 1) целостности, неприкосновенности и неотчуждаемости территории Республики Казахстан; 2) сохранения земли как природного ресурса, основы жизни и деятельности народа Республики Казахстан; 3) охраны и рационального использования земель; 4) обеспечения экологической безопасности; 5) целевого использования земель; 6) приоритета земель сельскохозяйственного назначения; 7) обеспечения информацией о состоянии земель и ее доступности; 8) государственной поддержки мероприятий по использованию и охране земель; 9) предотвращения нанесения ущерба земле или устранения его последствий; 10) платности использования земли... Cтатья 6. 1. Земельное законодательство в Республике Казахстан основывается на Конституции Республики Казахстан и состоит из настоящего Кодекса и принимаемых в соответствии с ним нормативных правовых актов Республики Казахстан. Используя контекст, определите как называют все земли, расположенные на территории Республики Казахстан",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "земельные правоотношения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "земельный запас",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "земельные отношения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "земельный фонд",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: ЗЕМЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН (с изменениями и дополнениями по состоянию на 18.09.2024 г.) Cтатья 1. 1. Земельный фонд Республики Казахстан в соответствии с целевым назначением подразделяется на следующие категории: 1) земли сельскохозяйственного назначения; 2) земли населенных пунктов (городов, поселков и сельских населенных пунктов); 3) земли промышленности, транспорта, связи, для нужд космической деятельности, обороны, национальной безопасности, зоны ядерной безопасности и иного несельскохозяйственного назначения; 4) земли особо охраняемых природных территорий, земли оздоровительного, рекреационного и историко-культурного назначения; 5) земли лесного фонда; 6) земли водного фонда; 7) земли запаса... Cтатья 4. Земельное законодательство Республики Казахстан основывается на следующих принципах: 1) целостности, неприкосновенности и неотчуждаемости территории Республики Казахстан; 2) сохранения земли как природного ресурса, основы жизни и деятельности народа Республики Казахстан; 3) охраны и рационального использования земель; 4) обеспечения экологической безопасности; 5) целевого использования земель; 6) приоритета земель сельскохозяйственного назначения; 7) обеспечения информацией о состоянии земель и ее доступности; 8) государственной поддержки мероприятий по использованию и охране земель; 9) предотвращения нанесения ущерба земле или устранения его последствий; 10) платности использования земли... Cтатья 6. 1. Земельное законодательство в Республике Казахстан основывается на Конституции Республики Казахстан и состоит из настоящего Кодекса и принимаемых в соответствии с ним нормативных правовых актов Республики Казахстан. Используя контекст, определите виды собственности на землю",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "государственная и коллективная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "государственная и частная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коллективная и частная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "государственная и кооперативная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: ЗЕМЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН (с изменениями и дополнениями по состоянию на 18.09.2024 г.) Cтатья 1. 1. Земельный фонд Республики Казахстан в соответствии с целевым назначением подразделяется на следующие категории: 1) земли сельскохозяйственного назначения; 2) земли населенных пунктов (городов, поселков и сельских населенных пунктов); 3) земли промышленности, транспорта, связи, для нужд космической деятельности, обороны, национальной безопасности, зоны ядерной безопасности и иного несельскохозяйственного назначения; 4) земли особо охраняемых природных территорий, земли оздоровительного, рекреационного и историко-культурного назначения; 5) земли лесного фонда; 6) земли водного фонда; 7) земли запаса... Cтатья 4. Земельное законодательство Республики Казахстан основывается на следующих принципах: 1) целостности, неприкосновенности и неотчуждаемости территории Республики Казахстан; 2) сохранения земли как природного ресурса, основы жизни и деятельности народа Республики Казахстан; 3) охраны и рационального использования земель; 4) обеспечения экологической безопасности; 5) целевого использования земель; 6) приоритета земель сельскохозяйственного назначения; 7) обеспечения информацией о состоянии земель и ее доступности; 8) государственной поддержки мероприятий по использованию и охране земель; 9) предотвращения нанесения ущерба земле или устранения его последствий; 10) платности использования земли... Cтатья 6. 1. Земельное законодательство в Республике Казахстан основывается на Конституции Республики Казахстан и состоит из настоящего Кодекса и принимаемых в соответствии с ним нормативных правовых актов Республики Казахстан. По уровню землеобеспеченности на душу населения Казахстан занимает третье место в мире. Используя свои знания, определите после каких стран мира",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Австралии и Канады",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Канады и России",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Канады и США",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Китая и Австралии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,4936 @@
+{
+  "Информатика": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Tип топологии, в котором все компьютеры объединены в сеть с помощью одного кабельного соединения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Дерево",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Кольцо",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Шина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Звезда",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Bыберите результат данной программы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q2_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1 2 3 4 5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1 4 3 6 7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3 4 5 6 7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3 2 5 4 7",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Oпределите таблицу истинности для выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q3_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q3_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q3_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q3_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q3_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Bыражение для данной логической схемы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q4_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q4_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q4_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q4_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q4_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Oпределите число, которое является максимальным среди следующих чисел:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q5_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q5_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q5_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q5_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q5_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Bыберите теги для форматирования текста в HTML",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "; ;",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q6_A_0.png",
+              "media/Информатика/answers/q6_A_1.png",
+              "media/Информатика/answers/q6_A_2.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "; ;",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q6_B_0.png",
+              "media/Информатика/answers/q6_B_1.png",
+              "media/Информатика/answers/q6_B_2.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "; ;",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q6_C_0.png",
+              "media/Информатика/answers/q6_C_1.png",
+              "media/Информатика/answers/q6_C_2.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "; ;",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q6_D_0.png",
+              "media/Информатика/answers/q6_D_1.png",
+              "media/Информатика/answers/q6_D_2.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cовокупность данных, которые представляются в виде таблицы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Реляционная БД",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Древовидная БД",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Иерархическая БД",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сетевая БД",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Языки и системы программирования по функциональности относятся к категории",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Системное ПО",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Функционально ПО",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Инструментальное ПО",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Прикладное ПО",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Pазновидность оперативного запоминающего устройства, в котором хранятся закодированные изображения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "CMOS-память",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "видеопамять",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "постоянная память",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "память процессора",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "При вызове rec(5) получится",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q10_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 3 4 5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5 4 3 2 1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1 2 3 4 5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4 3 2 1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Tекстовый файл размером 15 Кбайт содержит 15360 различных знаков и символов. Определите мощность алфавита.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "150",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "256",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "264",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "125",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Kакая формула введена в ячейку C2",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q12_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "=РАЗН(69-В2)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "=СРЗНАЧ(A2:B2;C3)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "=СУММ(A2:B2)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "=СУММ(B2;C2+7)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Cсылка, при использовании которой не изменяется одна из составляющей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Абсолютная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Смешанная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Сравнительная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Внедренная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Число в двоичной, восьмиричной и шестнадцатиричной системах счисления",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q14_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q14_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q14_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q14_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q14_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Pезультат ниже приведеннного HTML кода на web-странице",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q15_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q15_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q15_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q15_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q15_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Kоманда SQL, определяющая таблицы содержащие поля, указанные в запросе SELECT",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ORDER BY",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "WHERE",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "FROM",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "HAVING",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Для IP-адреса и маски 215.128.255.142/29 определите адрес подсети",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "215.128.255.136",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "215.128.255.128",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "215.128.255.10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "215.128.255.45",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Oпределите SQL-запрос для таблицы Students",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q18_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT Students FROM First_Name WHERE Teacher=”Math”;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT First_Name WHERE Teacher=”Math” FROM Students;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT First_Name FROM Students WHERE Math=” Teacher”;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT First_Name FROM Students WHERE Subject=”Math”;",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Oпределите результат кода при n=8",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q19_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "54",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "38",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "28",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "42",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Pезультат функции =СТРОЧН(ПСТР(\"АбраКаДабРа\";5;6))",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кадабр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "аДабР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "КаДабР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "адабр",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Oпределите результат программного кода",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q21_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "mation",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "infor",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "information",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "formation",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Oпределите тип данных поля «Имя» в реляционной базе данных",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q22_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "str",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "varchar",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "date",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "float",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Двоичное число в восьмеричной и шестнадцатеричной системах счисления",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q23_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1001, 3FE",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1333, 2DB",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3214, 1FC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2101, 6AC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Дана таблица «Виды шоколада». Из данной таблицы вывести цену шоколада, отсортировав ее по возрастанию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q24_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT Price FROM Виды шоколада ORDER BY Price ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT Price FROM Виды шоколада GROUP BY Price DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT Price FROM Виды шоколада GROUP BY Price ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT Price FROM Виды шоколада ORDER BY Price DESC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Электронный дневник содержит 128 страниц, на каждой странице 10 строк, в каждой строке 25 символов. Определите информационный объем дневника",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "256000 байт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4000 байт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "32000 бит",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "31,25 Кбайт",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Oтслеживание маршрута Aлишер разработал приложение для отслеживания времени прибытия общественного транспорта. Пользователь вводит номер автобуса и программа выдает время прибытия этого автобуса. Для имитации деятельности приложения программа генерирует время случайным образом в диапазоне от 2 до 15 минут. Aвтобус номер 45 в списке bus имеет индекс",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q26_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "45",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Oтслеживание маршрута Aлишер разработал приложение для отслеживания времени прибытия общественного транспорта. Пользователь вводит номер автобуса и программа выдает время прибытия этого автобуса. Для имитации деятельности приложения программа генерирует время случайным образом в диапазоне от 2 до 15 минут. Kоличество элементов в списке time[] после выполнения цикла",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q27_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "13",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Oтслеживание маршрута Aлишер разработал приложение для отслеживания времени прибытия общественного транспорта. Пользователь вводит номер автобуса и программа выдает время прибытия этого автобуса. Для имитации деятельности приложения программа генерирует время случайным образом в диапазоне от 2 до 15 минут. Укажите код программы для вывода списка bus[] из пяти элементов, который заполняется случайными числами от 1 до 100",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q28_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q28_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q28_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q28_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q28_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Oтслеживание маршрута Aлишер разработал приложение для отслеживания времени прибытия общественного транспорта. Пользователь вводит номер автобуса и программа выдает время прибытия этого автобуса. Для имитации деятельности приложения программа генерирует время случайным образом в диапазоне от 2 до 15 минут. Oпределите результат программы, если значение переменной q=30",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q29_0.png",
+          "media/Информатика/questions/q29_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Автобус прибудет через 14 минут",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Автобус прибудет через 12 минут",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Такого маршрута нет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Автобус прибудет через 9 минут",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Oтслеживание маршрута Aлишер разработал приложение для отслеживания времени прибытия общественного транспорта. Пользователь вводит номер автобуса и программа выдает время прибытия этого автобуса. Для имитации деятельности приложения программа генерирует время случайным образом в диапазоне от 2 до 15 минут. Укажите код программы, который сортирует элементы списка time[] по возрастанию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q30_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q30_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q30_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q30_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q30_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Bнешние устройства персонального компьютера подразделяются на следующие группы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Устройства ввода, устройства вывода, устройства хранения и устройства обмена",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Устройства ввода, устройства вывода, устройства обновления и устройства обмена",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Устройства ввода, устройства вывода, устройства обновления и устройства передачи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Устройства ввода, устройства вывода, устройства хранения и устройства передачи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Для обеспечения безопасности конфиденциальной информации необязательно знать",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "содержание информации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "то кого защищать",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "методы защиты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "как защищать",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Cообщение включает в себя 512 символов, которое составлено с помощью 16-символьного алфавита. Информационный объем сообщения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 Кбайт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "16384 Кбайт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "262144 Кбайт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0.25 Кбайта",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Переведите 2 Кбайта в байт",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3072",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2048",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1024",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1536",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "B десятичной системе счисления число",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q35_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "145",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "19",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "154",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "91",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Укажите устройство виртуальной реальности, представленное на изображении:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q36_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "комнатаVR",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "шлем",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "перчатки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "очки",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Логическое выражение, которое принимает значение 1 при наборе X=1, Y=0, Z=1",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q37_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q37_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q37_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q37_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oпределите результат кода при значениях переменных n=12 и m=20",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q38_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12 14 16 18 20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "13 15 17 19",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "11 13 15 17",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "14 16 18",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Для ввода строки с клавиатуры используется функция",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "insert",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "insite",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "input",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "image",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "При выходе из строя, повреждении или удалении батарейки все данные удаляются из памяти",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "VRAM",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "RAM",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "BIOS",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "CMOS",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дайте определение разновидности связи между таблицами «один-ко-многим»",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "предполагается, что несколько атрибутов первой таблицы соответсвуют нескольким атрибутам второй таблицы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "предполагается, что одному атрибуту первой таблицы соответсвует только один атрибут второй таблицы и наоборот",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "предполагается, что одному атрибуту первой таблицы соответсвует несколько атрибутов второй таблицы и наоборот",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "предполагается, что одному атрибуту первой таблицы соответсвует несколько атрибутов второй таблицы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Из таблицы R25 удалить товар «Свитер» и обновить дату изготовления «Пальто» с 1.10.2023 на 1.11.2023",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q42_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "DELETE FROM R25 WHERE Name = “Свитер”; UPDATE SET type Data = “1.10.2023” WHERE ID=”7”",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "DELETE FROM R25 WHERE Name = “Свитер”; UPDATE SET Data = “1.11.2023” WHERE Name=”Пальто”",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "DELETE FROM R25 WHERE Name = “Свитер”; UPDATE SET Data = “1.10.2023” WHERE name ID=”7”",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "DELETE FROM R25 WHERE Name = “Пальто”; UPDATE SET Data type= “1.10.2023” WHERE ID=”7”",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Bыберите запрос для вывода столбцов ФИО и рост учеников из базы данных Класс, выведите имена учеников по возрастанию роста",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT Класс.[ФИО], Класс.[рост] FROM Класс ORDER BY Класс.[рост] DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT Класс.[ФИО], Класс.[рост] FROM Класс ORDER BY Класс.[рост] ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT ФИО.[Класс], рост.[Класс] FROM Класс ORDER BY рост.[Класс] DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT ФИО.[Класс], рост.[Класс] FROM Класс ORDER BY рост.[Класс] ASC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "B соответствии данной таблицы в ячейке D3 записана формула для подсчета окончания урока, при копировании в ячейке D5 будет записана формула",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q44_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "$B$5+$D$10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "C5+$D$10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "B5+D$10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "C4+$D10",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Bидимый текст «10 «А» класс предмет Информатика», написанный в HTML, выглядит так",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q45_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "<B> 10 \"А\" класс предмет Информатика </B>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "<i> 10 \"А\" класс предмет Информатика </i>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "<S> 10 \"А\" класс предмет Информатика </S>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "<U> 10 \"А\" класс предмет Информатика </U>",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Eдиница измерения пропускной способности",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Бит в минуту",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Бит в секунду",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Бит в час",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Кбит в минуту",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Bыберите максимальное число среди следующего ряда:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q47_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q47_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q47_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q47_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q47_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Приложение дополненной реальности, которое при сканировании виртуального объекта камерой выдает информацию",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Дополненная реальность на основе маркеров",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Дополненная реальность на основе проекций",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Дополненная реальность на основе суперпозиции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Позиционная дополненная реальность",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Bыполнение программного кода при a= -24",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q49_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "-96",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "24",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-120",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дана таблица «Виды шоколада». Из данной таблицы вывести id, название шоколада и дату изготовления по убыванию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q50_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада ORDER BY Data DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада GROUP BY Price ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада ORDER BY Data ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада GROUP BY Data DESC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Значение в ячейке А3, полученное после выполнения формулы, скопированной из ячейки A2=$D$1-3",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q51_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Oпределите SQL запрос результатом которого является информация о жителях городов Astana, Almaty, Semey",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT City ORDER BY Astana, Almaty, Semey (‘Astana’, ‘Almaty’, ‘Semey’) FROM Customers",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT * FROM Customers WHERE City IN (‘Astana’, ‘Almaty’, ‘Semey’)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT City IN (‘Astana’, ‘Almaty’, ‘Semey’) FROM Customers",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT Astana, Almaty, Semey From Customers",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Bыберите диапазон значений целого типа SMALLINT данных в MySQL",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "от -32768 до 32767",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "от -32767 до 32766",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "от -128 до 127",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "от -127 до 128",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Oпределите график функции , построенный в интервале [-5; 5] с шагом 1",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q54_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q54_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q54_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q54_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q54_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Aтрибут тега <AUDIO>",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "mute",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "controls",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "play",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "looping",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Перестановка чисел Hа уроке информатики Дархан изучил тему перестановка элементов. Ему очень понравилось решать задачи по данной теме, и он попросил у учителя дополнительное задание на дом. После выполнения домашнего задания и проверки его учителем, у Дархана были сомнения в правильности кода. Помогите ему разобраться с кодом программы Oпределите как диапазон значений используется при заполнении массива",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q56_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1-100",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0-99",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1-20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "20-100",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Перестановка чисел Hа уроке информатики Дархан изучил тему перестановка элементов. Ему очень понравилось решать задачи по данной теме, и он попросил у учителя дополнительное задание на дом. После выполнения домашнего задания и проверки его учителем, у Дархана были сомнения в правильности кода. Помогите ему разобраться с кодом программы Oпределите размер массива в данном коде программы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q57_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "00",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Перестановка чисел Hа уроке информатики Дархан изучил тему перестановка элементов. Ему очень понравилось решать задачи по данной теме, и он попросил у учителя дополнительное задание на дом. После выполнения домашнего задания и проверки его учителем, у Дархана были сомнения в правильности кода. Помогите ему разобраться с кодом программы Pезультатом выполнения программы если вместо int(random()*100), будет int(random()*10)",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q58_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Массив будет содержать случайные числа от 0 до 10 включительно",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Массив будет содержать случайные числа от 0 до 9 включительно",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Массив будет содержать случайные числа от 10 до 100 включительно",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Массив будет содержать случайные числа от 0 до 100 включительно",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Перестановка чисел Hа уроке информатики Дархан изучил тему перестановка элементов. Ему очень понравилось решать задачи по данной теме, и он попросил у учителя дополнительное задание на дом. После выполнения домашнего задания и проверки его учителем, у Дархана были сомнения в правильности кода. Помогите ему разобраться с кодом программы Oпределите цель выполнения print (array[i],end= \" \")",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Вывести все элементы массива с заданным шагом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Вывести все отрицательные элементы массива",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Вывести все элементы массива на экран без переноса строки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Вывести все положительные элементы массива",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Перестановка чисел Hа уроке информатики Дархан изучил тему перестановка элементов. Ему очень понравилось решать задачи по данной теме, и он попросил у учителя дополнительное задание на дом. После выполнения домашнего задания и проверки его учителем, у Дархана были сомнения в правильности кода. Помогите ему разобраться с кодом программы Oпределите изменения в программном коде",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q60_0.png",
+          "media/Информатика/questions/q60_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q60_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q60_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q60_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q60_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Bнутреннее устройство, входящее в состав системного блока с базовой конфигурацией",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Процессор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Флеш-накопитель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Веб-камера",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Микрофон",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "K преимуществам использования ЭЦП не относится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "возможность получения электронных услуг в любое рабочее время",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гарантия достоверности документации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "значительное сокращение времени на оформление сделок",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "минимизация риска финансовых потерь",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Bо сколько раз информация в 3 Мбайт больше информации в 32 Кбайт",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в 78 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в 92 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в 82 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в 96 раз",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Переведите 1 байт в бит",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Число в двоичной, восьмеричной и шестнадцатеричной системе счисления",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q65_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": ",,",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q65_A_0.png",
+              "media/Информатика/answers/q65_A_1.png",
+              "media/Информатика/answers/q65_A_2.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": ",,",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q65_B_0.png",
+              "media/Информатика/answers/q65_B_1.png",
+              "media/Информатика/answers/q65_B_2.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": ", ,",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q65_C_0.png",
+              "media/Информатика/answers/q65_C_1.png",
+              "media/Информатика/answers/q65_C_2.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": ",,",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q65_D_0.png",
+              "media/Информатика/answers/q65_D_1.png",
+              "media/Информатика/answers/q65_D_2.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Преимущество технологии Blockchain, соответствующее следующему описанию: любой участник может отследить все транзакции, проходившие в системе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конфедициальность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "прозрачность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "надежность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "децентрализация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Bыберите логическую схему конъюнктора",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q67_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q67_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q67_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q67_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Даны целые числа a и b. Если число a – четное то возведите его в квадрат, и отнимите число b. Если же число a – нечетное, то отнимите число b. Определите значение а, при а=8 и b=2",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "62",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "32",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "64",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Oпределите верный результат программного кода, используя функцию для нахождения минимального числа из чисел a,b,c",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q69_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q69_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q69_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q69_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Kритерий качества современного программного обеспечения, при котором возможен перенос из одной среды в другую",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Эргономичность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Мобильность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Эффективность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Надежность",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Bспомогательная таблица, которая служит для ускорения поиска в основной таблице",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ключ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "список",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "адрес",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "индекс",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "SQL команда для добавления новой строки в таблицу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "INSERT INTO",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ALTER TABLE",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "CREATE TABLE",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "CREATE DATABASE",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Bыберите запрос для вывода столбцов ФИО и вес учеников из базы данных Класс, выведите имена учеников, чей вес находится между значениями 45кг и 60кг",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT Класс.[ФИО], Класс.[рост] FROM Класс WHERE Класс.[рост] BETWEEN 45 AND 60",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT Класс.[ФИО], Класс.[вес] FROM Класс ORDER BY Класс.[вес] DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT Класс.[ФИО], Класс.[вес] FROM Класс WHERE Класс.[вес] BETWEEN 45 AND 60",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT ФИО.[Класс], вес.[Класс] FROM Класс WHERE вес.[Класс] BETWEEN 45 AND 60",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Oператор WHERE в запросе MySQL",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Определяет записи, соответствующие заданным условиям",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Определяет столбцы, которые должны быть включены в результирующий набор запроса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Сортирует строки окончательного результирующего набора по одному или более столбцам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ограничивает число строк в окончательном результирующем наборе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Bыберите тег для отображения изображения относительно текста снизу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q75_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q75_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q75_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q75_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Фактор не относящийся к пропускной способности сети",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Получатель информации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Количество пользователей в сети",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Характеристики компьютера пользователя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Наличие других устройств в сети",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oпределите максимальное число",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q77_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q77_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q77_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q77_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q77_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Приложение дополненной реальности, которое при сканировании виртуального объекта камерой выдает информацию",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Дополненная реальность на основе маркеров",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Позиционная дополненная реальность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Дополненная реальность на основе проекций",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Дополненная реальность на основе суперпозиции",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Mеханизм сортировки результирующего набора на основе данных столбцов или выражений, использующих данные столбцов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Блок having",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Блок where",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Блок order by",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Блок group by",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Найдите несуществующее свойство в реляционной базе данных:",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "В таблице должно быть две одинаковые записи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Порядок следования строк произвольный и характеризуется количеством полей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Каждый элемент таблицы является одним из элементов данных",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Все данные в одном поле имеют один тип",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Oпределите результат при копировании формулы из ячейки D1 в ячейку D2",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q81_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Фрагментом программы, записывающим список [1,2,3,3] в файл doc.txt, является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q82_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q82_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q82_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q82_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Из таблицы RT1 нужно выбрать изделия из хлопка, вывести название и дату изготовления, отсортировав дату изготовления по возрастанию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q83_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT Name, Data FROM RT1 WHERE type= «Хлопок» WHERE data type= WHERE ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT Name, Data FROM RT1 WHERE type= «Хлопок» ORDER BY Data type=DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT Name, ORDER BY Data type=ASC Data FROM RT1 WHERE type= «Хлопок»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT Name, Data FROM RT1 WHERE type= «Хлопок» ORDER BY Data ASC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Oпределите таблицу к которой применили Правила отбора для первых пяти элементов условного форматирования по убыванию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q84_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q84_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q84_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q84_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q84_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Для создания ниже приведенного списка web-страницы укажите верный HTML код",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q85_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q85_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q85_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q85_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q85_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bолейбольный мир B школе на уроке информатики учитель дал Тимуру задание решить задачу в Python. В Волейбольной команде «Север1» N-количество игроков. Дан рост волейболистов, если он составляет меньше 180 см, то он относится к игрокам низкого роста. Напишите программный код, определяющий, сколько игроков в команде низкого роста. Tимур сделал задание, но в коде программы допущены ошибки, помогите ему исправить программный код B цикле k+=1 подразумевает краткую запись выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q86_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "k = k + 2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "k = k + 1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "k = 1 + 1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "k = 0 + 1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bолейбольный мир B школе на уроке информатики учитель дал Тимуру задание решить задачу в Python. В Волейбольной команде «Север1» N-количество игроков. Дан рост волейболистов, если он составляет меньше 180 см, то он относится к игрокам низкого роста. Напишите программный код, определяющий, сколько игроков в команде низкого роста. Tимур сделал задание, но в коде программы допущены ошибки, помогите ему исправить программный код Oпределите количество переменных в программном коде",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q87_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bолейбольный мир B школе на уроке информатики учитель дал Тимуру задание решить задачу в Python. В Волейбольной команде «Север1» N-количество игроков. Дан рост волейболистов, если он составляет меньше 180 см, то он относится к игрокам низкого роста. Напишите программный код, определяющий, сколько игроков в команде низкого роста. Tимур сделал задание, но в коде программы допущены ошибки, помогите ему исправить программный код Hайдите ошибки программного кода в нескольких строках",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q88_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3,4 строка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4,5 строка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2,3 строка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "5,6 строка",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bолейбольный мир B школе на уроке информатики учитель дал Тимуру задание решить задачу в Python. В Волейбольной команде «Север1» N-количество игроков. Дан рост волейболистов, если он составляет меньше 180 см, то он относится к игрокам низкого роста. Напишите программный код, определяющий, сколько игроков в команде низкого роста. Tимур сделал задание, но в коде программы допущены ошибки, помогите ему исправить программный код B цикле программного кода рrint (str (i), end=” ”) используется в",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q89_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "чтобы указать порядковый номер сравнения чисел",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "чтобы указать порядковый номер игрока",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "чтобы указать порядковый номер переменной вывода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "чтобы указать порядковый номер цикла",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bолейбольный мир B школе на уроке информатики учитель дал Тимуру задание решить задачу в Python. В Волейбольной команде «Север1» N-количество игроков. Дан рост волейболистов, если он составляет меньше 180 см, то он относится к игрокам низкого роста. Напишите программный код, определяющий, сколько игроков в команде низкого роста. Tимур сделал задание, но в коде программы допущены ошибки, помогите ему исправить программный код Hапишите программный код, который определяет средний рост игроков в команде, при N=7 (190,175,180,188,186,179,198)",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q90_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q90_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q90_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q90_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q90_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Память, которая предназначена для длительного хранения программ и данных",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "внутренняя память",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "видеопамять",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "постоянная память",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "внешняя память",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "K угрозам информационной безопасности работы в сети не относится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кибербулинг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ботнет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фишинг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "итерация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Bо сколько раз 4МБ информации больше, чем 256 Кб информации",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "26",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "56",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Pадиолюбитель получил сообщение, состоящее из 78 символов. Данное сообщение несет в себе 546 бит информации. Мощность данного алфавита",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "14",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "64",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "128",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Oпределите количество участников олимпиады по информатике, если оно закодировано в двоичной системе счисления как 1111101",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q95_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q95_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q95_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q95_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Oдной из xарактеристик Startup является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "поиск инвестора",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "создание прототипа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "интенсивный рост",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "продажа корпорации",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Логическая операция, которая выдает результат двух высказываний истинным, если хотя бы одно из входящих утверждений истинно",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конъюнкция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "дизъюнкция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "инверсия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "импликация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oпределите, сколько раз будет выполнен цикл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q98_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Cледующая подпрограмма является",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q99_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "процедурой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рекурсией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "циклом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "функцией",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Cовокупность программ, решающих определенные задачи для конкретных групп пользователей компьютера",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "прикладное программное обеспечение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "разновидности инструментальных программ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "инструментальное программное обеспечение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "системное программное обеспечение",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Примером первичного ключа в таблице может быть",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "город проживания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "номер паспорта",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фамилия человека",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "модель автомобиля",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Bсе переменные в PHP начинаются с символа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "$",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "#",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "@",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "!",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Запрос для вывода всех записей таблицы «store»",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT * FROM store;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT * FROM store WHERE ALL;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT store FROM *;",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT all FROM store;",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Bыберите форматирование, примененное в таблице",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q104_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q104_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q104_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q104_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q104_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Чтобы поместить сценарий JavaScript в текст web-страницы, необходимо использовать дескриптор",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "<script>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "<javascript>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "<header>",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "<footer>",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Oпределите класс IP-адреса 192.246.25.106",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "класс D",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "класс С",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "класс А",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "класс В",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "При переводе числа 010111000110 из двоичной в шестнадцатеричную систему счисления, получим",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q107_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q107_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q107_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q107_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Crowdfunding – это инструмент, используя который автор проекта может",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "объявить о банкротстве своего предприятия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "получить предзаказы на свой продукт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "оплатить владельцам платформы рекламную компанию своего продукта",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "использовать контакты клиентов других пользователей",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Bыполнение программного кода при a=7, b=16, c=3",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q109_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дана таблица «Виды шоколада». Из данной таблицы вывести id, название шоколада и дату изготовления по убыванию",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q110_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада GROUP BY Price ASC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада ORDER BY Data DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада GROUP BY Data DESC",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT ID, Name, Data FROM Виды шоколада ORDER BY Data ASC",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Формулу ячейки С2 «=B2+$C$1» скопировали в ячейку D2. Результатом ячейки D2 будет",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q111_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "44",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "34",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "39",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "24",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Укажите матрицу смежности для заданного графа",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q112_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q112_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q112_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q112_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q112_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Oтсортируйте сайты казахстанских университетов по количеству студентов",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q113_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "SELECT ‘%.kz’ FROM Universities IN Site SORT BY Students",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "SELECT ‘%.kz’ FROM Universities SORT BY Students WHERE Site = ‘%.kz’",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "SELECT * FROM Universities FIND ‘%.kz’ IN Site ORDER BY Students",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "SELECT * FROM Universities ORDER BY Students WHERE Site LIKE ‘%.kz’",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Cпециализированный физико-математический лицей принимает учащихся на конкурсной основе. В таблице приведены результаты тестирования учащихся. В лицей зачисляются учащиеся набравшие баллы выше 40 или сумма баллов по физике и математике превышает 30 баллов.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q114_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "И(ИЛИ(C3+D3>30; F3>40);\"Да\";\"Нет\")",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ЕСЛИ(И(C3+D3>30; F3>40);\"Да\";\"Нет\")",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ЕСЛИ(ИЛИ(C3+D3>40; F3>40);\"Да\";\"Нет\")",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ЕСЛИ(ИЛИ(C3+D3>30; F3>40);\"Да\";\"Нет\")",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Для создания ниже приведенного списка web-страницы укажите верный HTML код",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q115_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q115_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q115_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q115_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q115_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Kвадратная матрица Kвадратная матрица – это двумерный массив с равным количеством строк и столбцов. У квадратной матрицы есть диагонали: главная и побочная. Учащиеся на уроках информатики решают задачи на заполнение различными способами элементов квадратной матрицы. По теме «Квадратная матрица» учащимся учитель предложил задание на суммативную работу заполнить элементы массива по заданному шаблону. По условию задачи необходимо главную диагональ матрицы заполнить единицами, верхние элементы нулями и ниже главной диагонали двойками. Aрман допустил ошибки в коде. Учитель предложил Мади помочь ему. Ниже приведен код с ошибками Армана. Мади предстоит разобраться в коде и исправить ошибки Армана. Bвод данных: Bводится целое число n – размер квадратной матрицы Bывод данных: Заполнение различными способами элементов квадратной матрицы Oпределите результат вывода кода",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q116_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "[0, 0, 0, 5, 4]",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0 0 0 5 4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "[0 0 0 0 0]",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "[0, 0, 0, 5] 4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Kвадратная матрица Kвадратная матрица – это двумерный массив с равным количеством строк и столбцов. У квадратной матрицы есть диагонали: главная и побочная. Учащиеся на уроках информатики решают задачи на заполнение различными способами элементов квадратной матрицы. По теме «Квадратная матрица» учащимся учитель предложил задание на суммативную работу заполнить элементы массива по заданному шаблону. По условию задачи необходимо главную диагональ матрицы заполнить единицами, верхние элементы нулями и ниже главной диагонали двойками. Aрман допустил ошибки в коде. Учитель предложил Мади помочь ему. Ниже приведен код с ошибками Армана. Мади предстоит разобраться в коде и исправить ошибки Армана. Bвод данных: Bводится целое число n – размер квадратной матрицы Bывод данных: Заполнение различными способами элементов квадратной матрицы B Python имеется возможность сокращать запись кода, например a =[[0] * n for i in range(n)], что означает",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "создание одномерного массива из n элементов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "создание квадратной матрицы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "одномерный массив заполняется нулями",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "создание прямоугольной матрицы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Kвадратная матрица Kвадратная матрица – это двумерный массив с равным количеством строк и столбцов. У квадратной матрицы есть диагонали: главная и побочная. Учащиеся на уроках информатики решают задачи на заполнение различными способами элементов квадратной матрицы. По теме «Квадратная матрица» учащимся учитель предложил задание на суммативную работу заполнить элементы массива по заданному шаблону. По условию задачи необходимо главную диагональ матрицы заполнить единицами, верхние элементы нулями и ниже главной диагонали двойками. Aрман допустил ошибки в коде. Учитель предложил Мади помочь ему. Ниже приведен код с ошибками Армана. Мади предстоит разобраться в коде и исправить ошибки Армана. Bвод данных: Bводится целое число n – размер квадратной матрицы Bывод данных: Заполнение различными способами элементов квадратной матрицы Результат компиляции кода",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q118_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q118_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q118_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q118_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q118_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Kвадратная матрица Kвадратная матрица – это двумерный массив с равным количеством строк и столбцов. У квадратной матрицы есть диагонали: главная и побочная. Учащиеся на уроках информатики решают задачи на заполнение различными способами элементов квадратной матрицы. По теме «Квадратная матрица» учащимся учитель предложил задание на суммативную работу заполнить элементы массива по заданному шаблону. По условию задачи необходимо главную диагональ матрицы заполнить единицами, верхние элементы нулями и ниже главной диагонали двойками. Aрман допустил ошибки в коде. Учитель предложил Мади помочь ему. Ниже приведен код с ошибками Армана. Мади предстоит разобраться в коде и исправить ошибки Армана. Bвод данных: Bводится целое число n – размер квадратной матрицы Bывод данных: Заполнение различными способами элементов квадратной матрицы Pезультат компиляции кода учащихся",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q119_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q119_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q119_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q119_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q119_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Kвадратная матрица Kвадратная матрица – это двумерный массив с равным количеством строк и столбцов. У квадратной матрицы есть диагонали: главная и побочная. Учащиеся на уроках информатики решают задачи на заполнение различными способами элементов квадратной матрицы. По теме «Квадратная матрица» учащимся учитель предложил задание на суммативную работу заполнить элементы массива по заданному шаблону. По условию задачи необходимо главную диагональ матрицы заполнить единицами, верхние элементы нулями и ниже главной диагонали двойками. Aрман допустил ошибки в коде. Учитель предложил Мади помочь ему. Ниже приведен код с ошибками Армана. Мади предстоит разобраться в коде и исправить ошибки Армана. Bвод данных: Bводится целое число n – размер квадратной матрицы Bывод данных: Заполнение различными способами элементов квадратной матрицы Bывод ниже приведенного кода, n=4",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Информатика/questions/q120_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q120_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q120_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q120_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Информатика/answers/q120_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      }
+    }
+  }
+}

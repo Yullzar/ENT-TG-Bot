@@ -1,0 +1,3096 @@
+{
+  "История Казахстана": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "B годы Великой Отечественной войны Казахстан занимал ведущее место в СССР по добыче",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "свинца, полиметалических и медных руд",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "газа, нефти, золота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "золота, серебра, угля",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "угля, цинка, черных металлов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Государством кочевых узбеков называли",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ногайскую Орду",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Сибирское ханство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Государство Тимура",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ханство Абулхаира",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Kазахское ханство при Касым хане было полностью государством",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "светским и президентским",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "демократическим и правовым",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "унитарным и демократическим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "независимым и суверенным",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "В 1980 году энеолитическое поселение Ботай открыл",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А.Х. Маргуллан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "К.М. Байпаков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "К.А. Акишев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "В. Зайберт",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Cоциально-экономическое положение в Казахстане в начале ХХ века",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "проводились реформы по таможенным пошлинам для местных жителей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "отменена переселенческая политика царской России",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "усилился переход семиреченских казаков на различные промыслы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "проводились массовые изъятия земель у коренного населения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "C введением административных реформ 60-90-гг. XIX века ослабли позиции сословия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "купцов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "султанов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "шаруа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мещан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "B эпоху железа в Северном и Центральном Казахстане была распространена Tасмолинская культура",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кангюев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "саков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "уйсуней",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гуннов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oпределите хронологическую последовательность событий I. Обнаружены залежи карагандинского угля; II. Открыт первый в Казахстане общественный банк в Петропавловске; III. Открыта Кояндинская ярмарка; IV. Составлена Каркаралинская петиция.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, II, IV, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "III, IV, I, II/",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "IV, II, I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I, III, II, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Cвою первую продукцию дал свинцово-цинковый комбинат в Казахстане город",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Экибастуз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Караганда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Усть-Каменогорск",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Актюбинск",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "B начале ХVІ века Шибаниды захватили Хорезм и создали ханство",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Хивинское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Бухарское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Кокандское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сибирское",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя портрет №2, определите историческую личность",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q11_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А. Бокейханов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "М. Шокай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "М. Дулатов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "М. Тынышпаев",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя портрет №1 определите историческую личность, окончил Верненскую гимназию с золотой медалью, избран депутатом во II Государственную думу",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q12_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Мухаметжан Тынышпаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Бахытжан Каратаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Мустафа Шокай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Алихан Букейханов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите верный факт из жизни личности, изображенной на портрете № 2",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q13_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "первый инженер-железнодорожник из числа казахов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "получил звание «народного учителя»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "внес вклад в развитие здравоохранения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "получил сразу два диплома ­­­­– ученого-лесовода и юриста",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите верный факт из общественно-политической деятельности, изображенной на портрете №3",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q14_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "был инициатором выхода книг со стихами Абая и «Қырық мысал» («Сорок басен»)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "выпускал свои статьи под различными псевдонимами «Сын степей», «Киргиз-Кайсак»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "издавал газету «Серке» в качестве приложения к газете «Ульфат»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "был издателем и редактором первого казахского журнала «Айкап»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя портрет и исторические знания, соотнесите историческую личность и его деятельность I. 1909 году в Казани в издательстве «Шарк» вышел сборник стихов «Оян, қазақ!»; II. Работал в составе статистической экспедиции под руководством Ф. Щербины; III. Окончил в 1906 году Санкт-Петербургский институт инженеров путей сообщения; A. Портрет № 1; Б. Портрет № 2; В. Портрет № 3.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q15_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I-А; II-Б; III-В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I-В; II-А; III-Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I-А; II-В; III-Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I-В; II-Б; III-А",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «На обширной территории Казахстана издревне выделяются крупные историко-культурные области развития оседлой и городской культуры. Одной из них был Южный Казахстан и Семиречье, в которой выделяются три района-Южный Казахстан (долина Сырдарьи), юго-западное Семиречье (междуречье Таласа и Чу), северо-восточное Семиречье (Илийская долина). Область находится на стыке земледельческих оазисов и кочевой степи. B контактных зонах земледелия и скотоводства наиболее отчетливо проявляется взаимодействие земледельцев и скотоводов, оседлости и кочевничества, города и степи. Эти взаимодействия были многообразны: политические, экономические, культурные, этнические. Взгляды исследователей на эти контакты были неоднозначны. Так в начале ХХ в. писали о кочевниках, находившихся в состоянии постоянной борьбы с оседлыми земледельцами... Кочевники Востока, в том числе Казахстана и Средней Азии рассматриваются как носители закоснелой культуры, а их влияние на развитие цивилизации губительное... Oднако сейчас преобладает мнение о тесной органичной связи между кочевниками и земледельцами. Принято говорить о единой экономической системе, охватывающей как оседлую, так и кочевую часть хозяйственной жизни не могли нормально функционировать без постоянного взаимообмена» .... Tорговый обмен между городом и степью - это взаимоотношения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "культурные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "экономические",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "политические",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "этнические",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «На обширной территории Казахстана издревне выделяются крупные историко-культурные области развития оседлой и городской культуры. Одной из них был Южный Казахстан и Семиречье, в которой выделяются три района-Южный Казахстан (долина Сырдарьи), юго-западное Семиречье (междуречье Таласа и Чу), северо-восточное Семиречье (Илийская долина). Область находится на стыке земледельческих оазисов и кочевой степи. B контактных зонах земледелия и скотоводства наиболее отчетливо проявляется взаимодействие земледельцев и скотоводов, оседлости и кочевничества, города и степи. Эти взаимодействия были многообразны: политические, экономические, культурные, этнические. Взгляды исследователей на эти контакты были неоднозначны. Так в начале ХХ в. писали о кочевниках, находившихся в состоянии постоянной борьбы с оседлыми земледельцами... Кочевники Востока, в том числе Казахстана и Средней Азии рассматриваются как носители закоснелой культуры, а их влияние на развитие цивилизации губительное... Oднако сейчас преобладает мнение о тесной органичной связи между кочевниками и земледельцами. Принято говорить о единой экономической системе, охватывающей как оседлую, так и кочевую часть хозяйственной жизни не могли нормально функционировать без постоянного взаимообмена» .... Определите по тексту область, находящуюся на стыке земледельческих оазисов и кочевой степи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Южный Казахстан и Семиречье",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Северный Казахстан и Сибирь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Восточный Казахстан и Сарыарка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Западный Казахстан и Приуралье",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «На обширной территории Казахстана издревне выделяются крупные историко-культурные области развития оседлой и городской культуры. Одной из них был Южный Казахстан и Семиречье, в которой выделяются три района-Южный Казахстан (долина Сырдарьи), юго-западное Семиречье (междуречье Таласа и Чу), северо-восточное Семиречье (Илийская долина). Область находится на стыке земледельческих оазисов и кочевой степи. B контактных зонах земледелия и скотоводства наиболее отчетливо проявляется взаимодействие земледельцев и скотоводов, оседлости и кочевничества, города и степи. Эти взаимодействия были многообразны: политические, экономические, культурные, этнические. Взгляды исследователей на эти контакты были неоднозначны. Так в начале ХХ в. писали о кочевниках, находившихся в состоянии постоянной борьбы с оседлыми земледельцами... Кочевники Востока, в том числе Казахстана и Средней Азии рассматриваются как носители закоснелой культуры, а их влияние на развитие цивилизации губительное... Oднако сейчас преобладает мнение о тесной органичной связи между кочевниками и земледельцами. Принято говорить о единой экономической системе, охватывающей как оседлую, так и кочевую часть хозяйственной жизни не могли нормально функционировать без постоянного взаимообмена» .... Oпределите по тексту верное соответствие A. Южный Казахстан; Б. Юго-Западное Семиречье; В. Северо-Восточное Семиречье. I. Междуречье Чу и Таласа; II. Илийская долина; III. Долина Сырдарьи.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А-III; Б-I; В-II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "А-I; Б-III; В-II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "А-II; Б-I; В-III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "А-II; Б-III; В-I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «На обширной территории Казахстана издревне выделяются крупные историко-культурные области развития оседлой и городской культуры. Одной из них был Южный Казахстан и Семиречье, в которой выделяются три района-Южный Казахстан (долина Сырдарьи), юго-западное Семиречье (междуречье Таласа и Чу), северо-восточное Семиречье (Илийская долина). Область находится на стыке земледельческих оазисов и кочевой степи. B контактных зонах земледелия и скотоводства наиболее отчетливо проявляется взаимодействие земледельцев и скотоводов, оседлости и кочевничества, города и степи. Эти взаимодействия были многообразны: политические, экономические, культурные, этнические. Взгляды исследователей на эти контакты были неоднозначны. Так в начале ХХ в. писали о кочевниках, находившихся в состоянии постоянной борьбы с оседлыми земледельцами... Кочевники Востока, в том числе Казахстана и Средней Азии рассматриваются как носители закоснелой культуры, а их влияние на развитие цивилизации губительное... Oднако сейчас преобладает мнение о тесной органичной связи между кочевниками и земледельцами. Принято говорить о единой экономической системе, охватывающей как оседлую, так и кочевую часть хозяйственной жизни не могли нормально функционировать без постоянного взаимообмена» .... В тексте содержится информация о",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "процессе формирования городской культуры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "взаимодействии земледельцев и кочевников",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "возникновении кочевого скотоводства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "развитии промышленных регионов Казахстана",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «На обширной территории Казахстана издревне выделяются крупные историко-культурные области развития оседлой и городской культуры. Одной из них был Южный Казахстан и Семиречье, в которой выделяются три района-Южный Казахстан (долина Сырдарьи), юго-западное Семиречье (междуречье Таласа и Чу), северо-восточное Семиречье (Илийская долина). Область находится на стыке земледельческих оазисов и кочевой степи. B контактных зонах земледелия и скотоводства наиболее отчетливо проявляется взаимодействие земледельцев и скотоводов, оседлости и кочевничества, города и степи. Эти взаимодействия были многообразны: политические, экономические, культурные, этнические. Взгляды исследователей на эти контакты были неоднозначны. Так в начале ХХ в. писали о кочевниках, находившихся в состоянии постоянной борьбы с оседлыми земледельцами... Кочевники Востока, в том числе Казахстана и Средней Азии рассматриваются как носители закоснелой культуры, а их влияние на развитие цивилизации губительное... Oднако сейчас преобладает мнение о тесной органичной связи между кочевниками и земледельцами. Принято говорить о единой экономической системе, охватывающей как оседлую, так и кочевую часть хозяйственной жизни не могли нормально функционировать без постоянного взаимообмена» .... Используя текст и исторические знания, определите часть казахского кочевого общества, вынужденно перешедшая к оседлому образу жизни",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "басмачи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "жатаки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "баскаки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "беки",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Завоеватель, разбивший в 331 г. до н.э. войско персидского царя Дария III в битве при Гавгамелах",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Македонский",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Модэ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Атилла",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ишпакай",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hогайская Орда занимала территорию междуречья",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Тобола и Ишима",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Шу и Или",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Волги и Урала",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сырдарьи и Амударьи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "23": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B начале XVIII в. для охраны границ от джунгар были возведены крепости",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "на левобережье Сырдарьи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "на правобережье Иртыша",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в междуречье Волги и Урала",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в Семиречье",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "24": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Bосстание 1916 года в Тургайской области продлилось до периода",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Октябрьской революции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Февральской революции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Военного коммунизма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Гражданской войны",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "25": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Ядерный полигон в Казахстане охватывал районы областей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Cемипалатинска и Павлодара",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Уральска и Сырдарьи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Акмолинска и Жетису",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Уральска и Тургая",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "26": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "В 1869 году поступил на службу в Тургайское уездное управление на должность делопроизводителя",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ш. Уалиханов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "А. Кунанбаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ш. Кудайбердиев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "И. Алтынсарин",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "27": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Kангюи заключили союз с Китаем против",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сарматов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "саков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гуннов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "усуней",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "28": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oпределите описание сражения в местности Орбулак",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«Засадный полк был спрятан в лесу и именно его удар смял атаку ойратов и принес победу...»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«Сражение продолжалось семь дней и ночей, все города в окрестности были разрушены до основания...»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Когда ойраты вошли в ущелье, их встретил шквальный оружейный огонь, а попытку обойти с флангов отбивали казахские батыры...»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«Лил дождь, земля превратилась в грязное месиво, копыта лошадей скользили и конница казахов не смогла оказать сопротивление...»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "29": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Исатай Тайманов убеждал царскую администрацию в возможности мирного разрешения конфликта для того, чтобы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "возвыситься над другими чингизидами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "избежать наказания за организацию восстания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выиграть время и уйти в Зауральские степи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "объединиться с ханом Арынгазы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "30": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "P. Кошкарбаев и Г. Булатов совершили подвиг",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "направили горящий самолет на вражескую колонну",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вывели свое подразделение из окружения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "закрыли телом амбразуру дзота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "установили знамя над Рейхстагом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "31": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя историческую карту, определите руководителя восстания",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q31_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Кенесары",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Махамбет",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Агыбай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сырым",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "32": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя историческую карту, определите основной район восстания С.Датулы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q32_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Средний жуз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Младший жуз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "весь Казахстан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Старший жуз",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "33": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите государство, с которым С.Датулы проводил переговоры о предоставлении убежища в случае поражения восстания",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q33_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Хивинское ханство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Российская империя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Кокандское ханство",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Цинская империя",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "34": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите место атаки С. Датулы в 1792 году",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q34_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Астрахань",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Омск",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Илецкая Защита",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Усть-Каменогорская линия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "35": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите правильное утверждение о результатах восстания С. Датулы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q35_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "возвращение к кочеванию на правом берегу Урала и снижение набегов уральских казаков на казахов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "возвращение к кочеванию на левом берегу Урала и увеличение набегов кокандцев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "были созданы предпосылки для захвата Бухары, Коканда и Хивы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хан Жангир был вынужден пойти на некоторые уступки",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "36": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: В 1730 г. бии Младшего жуза поручили хану договориться с Россией о заключении военного союза. Однако ... нарушил обещание и переговоры приняли совершенно иной характер. С целью сближения с российскими властями в сентябре 1730 г. в Петербург прибыло посольство ... с посланием к императрице Анне Иоанновне о принятии Младшего жуза в подданство России. ... императрицей Анной Иоанновной была посдписана грамота о принятии казахов Младшего жуза в российское подданство. Оно имело фиктивный характер, но с формальной точки зрения стало отправным пунктом для постепенного присоединения Казахского ханства к Российской империи. Ему было поручено любыми способами склонить правителей Младшего жуза к подданству. Также не исключалась и возможность прямого подкупа верхушки жуза.... Вручались они при условии присяги на Коране и получения подписи на документе о принятии в подданство. Используя текст и исторические знания, определите хана Младшего жуза принявший подданство Российской империи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Айшуак",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Нуралы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Абулхаир",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ералы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "37": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: В 1730 г. бии Младшего жуза поручили хану договориться с Россией о заключении военного союза. Однако ... нарушил обещание и переговоры приняли совершенно иной характер. С целью сближения с российскими властями в сентябре 1730 г. в Петербург прибыло посольство ... с посланием к императрице Анне Иоанновне о принятии Младшего жуза в подданство России. ... императрицей Анной Иоанновной была посдписана грамота о принятии казахов Младшего жуза в российское подданство. Оно имело фиктивный характер, но с формальной точки зрения стало отправным пунктом для постепенного присоединения Казахского ханства к Российской империи. Ему было поручено любыми способами склонить правителей Младшего жуза к подданству. Также не исключалась и возможность прямого подкупа верхушки жуза.... Вручались они при условии присяги на Коране и получения подписи на документе о принятии в подданство. Используя текст и исторические знания, определите год принятия присяги хана Младшего жуза на подданство Российской империи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1731 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1741 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1730 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1733 г.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "38": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: В 1730 г. бии Младшего жуза поручили хану договориться с Россией о заключении военного союза. Однако ... нарушил обещание и переговоры приняли совершенно иной характер. С целью сближения с российскими властями в сентябре 1730 г. в Петербург прибыло посольство ... с посланием к императрице Анне Иоанновне о принятии Младшего жуза в подданство России. ... императрицей Анной Иоанновной была посдписана грамота о принятии казахов Младшего жуза в российское подданство. Оно имело фиктивный характер, но с формальной точки зрения стало отправным пунктом для постепенного присоединения Казахского ханства к Российской империи. Ему было поручено любыми способами склонить правителей Младшего жуза к подданству. Также не исключалась и возможность прямого подкупа верхушки жуза.... Вручались они при условии присяги на Коране и получения подписи на документе о принятии в подданство. Используя текст и исторические знания, укажите междуречье рек в котором приняли присягу хан Младшего жуза и его сподвижники",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Урал и Волга",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Иргиз и Тобол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Сырдарья и Амударья",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Талас и Чу",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "39": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: В 1730 г. бии Младшего жуза поручили хану договориться с Россией о заключении военного союза. Однако ... нарушил обещание и переговоры приняли совершенно иной характер. С целью сближения с российскими властями в сентябре 1730 г. в Петербург прибыло посольство ... с посланием к императрице Анне Иоанновне о принятии Младшего жуза в подданство России. ... императрицей Анной Иоанновной была посдписана грамота о принятии казахов Младшего жуза в российское подданство. Оно имело фиктивный характер, но с формальной точки зрения стало отправным пунктом для постепенного присоединения Казахского ханства к Российской империи. Ему было поручено любыми способами склонить правителей Младшего жуза к подданству. Также не исключалась и возможность прямого подкупа верхушки жуза.... Вручались они при условии присяги на Коране и получения подписи на документе о принятии в подданство. Используя текст и исторические знания, определите знак верности хана Младшего жуза к российскому престолу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "помог превратить ханов и султанов в послушных царских чиновников",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "стал помогать в сборе разведывательных сведений на территорий Младшего жуза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "обязывался отправлять в Россию своих сыновей в качестве аманатов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "согласовал строительство военных укреплений по всей казахско-российской границе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "40": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: В 1730 г. бии Младшего жуза поручили хану договориться с Россией о заключении военного союза. Однако ... нарушил обещание и переговоры приняли совершенно иной характер. С целью сближения с российскими властями в сентябре 1730 г. в Петербург прибыло посольство ... с посланием к императрице Анне Иоанновне о принятии Младшего жуза в подданство России. ... императрицей Анной Иоанновной была посдписана грамота о принятии казахов Младшего жуза в российское подданство. Оно имело фиктивный характер, но с формальной точки зрения стало отправным пунктом для постепенного присоединения Казахского ханства к Российской империи. Ему было поручено любыми способами склонить правителей Младшего жуза к подданству. Также не исключалась и возможность прямого подкупа верхушки жуза.... Вручались они при условии присяги на Коране и получения подписи на документе о принятии в подданство. Используя текст и исторические знания, определите верное утверждение I. Тевкелев прибыл в Младший жуз для приведения казахов к присяге; II. Императрица Екатерина II передала Абулхаиру дорогие подарки; III. В составе миссии был старшина и батыр Таймас Шаимов; IV. для подкупа верховки жуза разрешалось истратить до трех миллиона российских рублей.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "41": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Эпоху бронзы на территории Казахстана называют",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пазырыкской",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "андроновской",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ботайской",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "уюкской",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "42": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "B XIII в. хан Кучлук правил",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "керейтами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "кыпчаками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "жалаирами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "найманами",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "43": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B начале XVIII в. для охраны границ от джунгар были возведены крепости",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "на левобережье Сырдарьи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в междуречье Волги и Урала",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в Семиречье",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "на правобережье Иртыша",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "44": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Образование правительства Алаш-Орда",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1919 г. апрель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1918 г. январь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1917 г. декабрь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1916 г. май",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "45": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "B четвертой пятилетки (1946-1950 гг.) основной объем капиталовложений был направлен на развитие",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сельского хозяйства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рыночной экономики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "тяжелой промышленности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "пищевой промышленности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "46": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Cаки считали, что порядок в Космосе связан с движением солнечной колесницы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Агни",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Велеса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ягмы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Митры",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "47": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "По словам исследователя И. Кравта, «... он умел, смотря по обстоятельствам, казаться преданным то России, то Китаю, то Джунгарии, но в действительности не подчинялся никому» - говорится о хане",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Абылай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Тауке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Абулхаир",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Есим",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "48": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Главное направление внешней политики Тауекел-хана",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "закрепление за собой земель Северного Приаралья и Жайыка и союз правителем Ташкента с Баба-султаном",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "овладение присырдарьинскими городами и борьба с сибирским ханом Кучумом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "устанавление связи с Московским государством и урегулирование отношении с Цинской империи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "распространение сферы влияния Казахского ханства на джунгар и приграничные земли Киевской Руси",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "49": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Oпределите верные утверждения, относящиеся к восстанию 1836-1838 гг. в Бокеевской Орде I. Восстание охватило территорию Младшего и Среднего жузов; II. Причиной восстания было недовольство политикой Жангир хана; III. Воссташими была захвачено и сожжено Акмолинское укрепление; IV. Лидеры восстания были выходцами из рода берш, отделения жаик.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I, II",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "50": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Oпределите особенность не относящуюся к индустриализации в Казахстане",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "высокие, форсированные темпы индустриального развития Казахстана",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "активно развивалась машиностроение, станкостроение, черная металлургия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "развитие добывающих отраслей тяжелой промышленности: угольной, нефтяной, цветной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "преобладало строительство новых предприятий, причем одних из самых крупных в СССР",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "51": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя кaрту и исторические знания, определите исторический период",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q51_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "вторая половина XVIII в.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "первая половина XIX в.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "начало XX века",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "начало XIX в.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "52": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите процесс, изображенный на карте",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q52_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "казахско-джунгарские войны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "колонизация казахских земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "административно-территориальные реформы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "национально-освободительное движение",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "53": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите главную цель восстаний",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q53_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сохранение независимости земель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "захват территории Кокандского ханства",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "упразднение округов Хивинском ханстве",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "захват территории Цинской империи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "54": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите хронологическую последовательность событий 1. Вдохновленные победой основные силы Кенесары атаковали Екатеринскую станицу; 2. Восставшие осадили и сожгли хорошо защищенный Акмолинское укрепление; 3. Кенесары вторгся на территорию кыргызов, столкновения происходили верховьях р. Шу; 4. Кенесары на голову разгромил отряд под командованием хорунжего Рытова.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q54_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4, 2, 1, 3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3, 2, 1, 4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2, 4, 1, 3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1, 2, 4, 3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "55": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите верные утверждения I. События, изображенные на карте охватили всю территорию Казахстана; II. В событиях, изображенных на карте принимали участие Российская империя и Кокандское ханство; III. На исторической карте изображен процесс колонизации Старшего жуза Российской империей; IV. Историческая карта отражает процесс джунгарского нашествия.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q55_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I, ІI",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, IІI",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "56": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: На портрете №3 изображён основоположник казахской письменной литературы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q56_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ш. Кудайбердиев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "А. Кунанбаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ш. Уалиханов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "И. Алтынсарин",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "57": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hа портрете №1 изображен учёный - исследователь",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q57_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А. Кунанбаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "И. Алтынсарин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ш. Кудайбердиев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ш. Уалиханов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "58": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Просветитель, изображённый на портрете №3 – автор",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q58_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "статьи «О кочевых киргизах»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пособия «Киргизская хрестоматия»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "труда «Дневник поездки на Иссык - Куль»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "поэмы «Искандер»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "59": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Просветитель, изображённый на портрете №2 – автор",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "статьи «О мусульманстве в степи»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пособия «Киргизская хрестоматия»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "труда «Слова назидания»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "поэмы «Манас»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "60": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Учёные – просветители, изображённые на портретах №1 и №2",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q60_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "изучали этнографию казахского народа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "описывали историю Оренбургского края",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "служили в Семиреченском казачьем войске",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "открывали учебные заведения в Тургае",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "В эпоху бронзы на территории Мургабского оазиса существовала оседло-земледельческая и городская культура",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Шаш",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Хорезм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Маргуш",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Фергана",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Cоюзник огузов в борьбе с Хазарским каганатом",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Волжская Булгария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Кимакский каганат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Киевская Русь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "государство Караханидов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Представитель высшего сословия кара суйек",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ходжа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "султан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "бай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бий",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "B июле 1917 года прошел первый Всеказахский съезд в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Верном",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Уральске",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Акмолинске",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Оренбурге",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Kазахстан-первое государство в мире",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "добровольно отказавшееся от ядерного оружия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "внедрившее систему инновационной экономики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "установившее дипломатические отношения с Албанией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "провозгласившее курс на демократизацию",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "A. Жубанов – создатель",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Уйгурского драматического театра",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Театра оперы и балета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Государственного музея искусств",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Казахского музыкального театра",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Tитул правителя гуннов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "царь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "шаньюй",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гуньмо",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Правители рода катаган в период правления Есима",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "усилились и вошли в курултай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "получили право управления улусами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "отказались подчиняться хану",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "покинули земли Приаралья",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "B связи с введением единого налога по реформам 60-х гг. XIX века, кибиточная подать",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "была одинаковой для всех территорий империи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "взималась раз в три года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "различалась в зависимости от территорий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "не взималась с коренного населения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Причина голода 1921-1922 годов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "индустриализация промышленности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "политика «военного коммунизма»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Первая мировая война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "насильственная коллективизация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите столицу государства № 1",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q71_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Суяб",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Тараз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Алмалык",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сыгнак",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите месторасположение государства № 1",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q72_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Улус Чагатая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Улус Джучи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Улус Тулуя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Улус Угэдэя",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите основателя государства № 1",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q73_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Бумын",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Мукан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Абулхаир",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Пуладчи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и сведения «Тарих-и-Рашиди», определите территорию государства № 1 в XIV - начале XVI вв.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q74_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Мавераннахр и Алтай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Семиречье и современный Кыргызстан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Сырдарья и современный Узбекистан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Таджикистан и Хорезм",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите историческую роль государства №1, изображенного на карте",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/История Казахстана/questions/q75_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "завершился процесс объединения племен Семиречья",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в государстве впервые были введены единые законы «Яса»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ослабление позиции Мамая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "от Золотой Орды окончательно отделились потомки Орда-Еджена",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Области, населенные казахами, объединятся в целое, будут самоуправляться и станут одним из членов Федерации Российской республики. Казахская автономия, если удастся, будет пока вместе с дружественными народами. Как бы то ни было, принять современное земство. Партия «Алаш» будет стремиться к тому, чтобы служащие в таких казахских органах, как бии, волостные старшины, были людьми полезными населению. Готовыми всей душой служить людям. Всем существующим религиям равные права. Свобода собрания, слова, выпуска газет, издание книг... За вскрытие чужого письма-штраф, за чтение – наказание. Бии и судьи не должны освобождаться от должности без расследования. Преступления, за которые предусматривается суровое наказание будут рассматриваться судом присяжных. В местности, где казахов большинство языком суда будет казахский язык..» Используя документ, определите форму государственности казахов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конфедерация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "империя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "республика",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "автономия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Области, населенные казахами, объединятся в целое, будут самоуправляться и станут одним из членов Федерации Российской республики. Казахская автономия, если удастся, будет пока вместе с дружественными народами. Как бы то ни было, принять современное земство. Партия «Алаш» будет стремиться к тому, чтобы служащие в таких казахских органах, как бии, волостные старшины, были людьми полезными населению. Готовыми всей душой служить людям. Всем существующим религиям равные права. Свобода собрания, слова, выпуска газет, издание книг... За вскрытие чужого письма-штраф, за чтение – наказание. Бии и судьи не должны освобождаться от должности без расследования. Преступления, за которые предусматривается суровое наказание будут рассматриваться судом присяжных. В местности, где казахов большинство языком суда будет казахский язык..» Используя текст проекта программы, определите партию",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«Азат»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«Уш жуз»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Алаш»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«Шуро-ислами»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Области, населенные казахами, объединятся в целое, будут самоуправляться и станут одним из членов Федерации Российской республики. Казахская автономия, если удастся, будет пока вместе с дружественными народами. Как бы то ни было, принять современное земство. Партия «Алаш» будет стремиться к тому, чтобы служащие в таких казахских органах, как бии, волостные старшины, были людьми полезными населению. Готовыми всей душой служить людям. Всем существующим религиям равные права. Свобода собрания, слова, выпуска газет, издание книг... За вскрытие чужого письма-штраф, за чтение – наказание. Бии и судьи не должны освобождаться от должности без расследования. Преступления, за которые предусматривается суровое наказание будут рассматриваться судом присяжных. В местности, где казахов большинство языком суда будет казахский язык..» Используя документ, определите политическое право граждан",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "свобода слова",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "издание книг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "свобода совести",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "частная собственность",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Области, населенные казахами, объединятся в целое, будут самоуправляться и станут одним из членов Федерации Российской республики. Казахская автономия, если удастся, будет пока вместе с дружественными народами. Как бы то ни было, принять современное земство. Партия «Алаш» будет стремиться к тому, чтобы служащие в таких казахских органах, как бии, волостные старшины, были людьми полезными населению. Готовыми всей душой служить людям. Всем существующим религиям равные права. Свобода собрания, слова, выпуска газет, издание книг... За вскрытие чужого письма-штраф, за чтение – наказание. Бии и судьи не должны освобождаться от должности без расследования. Преступления, за которые предусматривается суровое наказание будут рассматриваться судом присяжных. В местности, где казахов большинство языком суда будет казахский язык..» Используя документ, определите обязательное условие освобождения от должности биев и судей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "личное заявление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "всенародное голосование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "расследование",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "тайный донос",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Области, населенные казахами, объединятся в целое, будут самоуправляться и станут одним из членов Федерации Российской республики. Казахская автономия, если удастся, будет пока вместе с дружественными народами. Как бы то ни было, принять современное земство. Партия «Алаш» будет стремиться к тому, чтобы служащие в таких казахских органах, как бии, волостные старшины, были людьми полезными населению. Готовыми всей душой служить людям. Всем существующим религиям равные права. Свобода собрания, слова, выпуска газет, издание книг... За вскрытие чужого письма-штраф, за чтение – наказание. Бии и судьи не должны освобождаться от должности без расследования. Преступления, за которые предусматривается суровое наказание будут рассматриваться судом присяжных. В местности, где казахов большинство языком суда будет казахский язык..» Используя документ и исторические знания, определите принцип подоходного налога в сфере налогооблажения в программе партии «Алаш»",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«Не должно быть права о продаже земли»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«Налог устанавливается всем одинаково»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Богатый платит больше, бедный – меньше»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«Рабочие будут находиться под защитой закона»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      }
+    }
+  }
+}

@@ -1,0 +1,4845 @@
+{
+  "Химия": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Bодород образует ковалентную полярную связь с элементами",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кремний, барий, углерод",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "азот, гелий, натрий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сера, хлор, фтор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фосфор, калий, кислород",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Cродство к электрону увеличивается в ряду",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q2_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q2_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q2_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q2_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Cтепень окисления атома хрома равна +6 в соединении",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q3_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q3_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q3_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q3_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Условия, смещающие равновесие в сторону продуктов реакции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q4_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "катализатор, повышение концентрации водорода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "повышение температуры, повышение концентрации ацетилена",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "понижение давления,понижение температуры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "понижение концентрации этана, повышение давления",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Aмфолитом является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q5_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q5_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q5_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q5_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Mеталл, обладающий наибольшей тепло- и электропроводностью",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q6_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q6_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q6_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q6_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Роль кальция для человека",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "участвует в работе щитовидной железы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "переносчик кислорода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "основной источник энергии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "участвует в процессах свертывания крови",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Элемент с электронной конфигурацией в возбужденном состоянии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q8_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кислород",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "углерод",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "галлий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фосфор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Бесцветный газ с резким запахом, легче воздуха",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q9_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q9_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q9_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q9_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Cырьё для производства серной кислоты",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "серный колчедан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сульфит железа (II)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "оксид серы (VI)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "глауберовая соль",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Pеактив, для обнаружения хлорид-ионов в растворе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q11_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q11_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q11_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q11_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "По типу лиганд соединение классифицируется, как",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q12_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "аммиакаткомплекс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ацидокомплекс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гидроксокомплекс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "аквакомплекс",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Pеакция превращения этена в этан",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гидратации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "изомеризации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гидрирования",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "замещения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Bещества, X и Y, необходимые для осуществления превращений",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q14_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "хлороводород, вода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "атомарный хлор, кислород",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "хлор, гидроксид натрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "соляная кислота, атомарный кислород",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Kоличество пептидных связей в глицилаланилцистеине",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Kоличество атомов углерода в непредельном углеводороде, полученном в результате симметричного крекинга гексадекана",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "B реакции , равновесие смещается в сторону продуктов",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q17_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "понижение давления, понижение концентрации водорода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "повышение давления, повышение концентрации азота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "понижение давления, понижение концентрации аммиака",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "повышение давления, повышение концентрации аммиака",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Mасса (г) 15% раствора азотной кислоты, которая потребуется для нейтрализации 9,5 г гидроксида лития",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "249,40",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "216,15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "199,52",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "166,25",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Hа сжигание 3 л (н.у.) алкина израсходовано 16,5 л кислорода. Молекулярная формула алкина",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q19_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q19_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q19_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q19_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "K 250 г 5%-го водного раствора гидроксида натрия добавили 34,5 г оксида натрия. Массовая доля вещества (%) в полученном растворе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "25,0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "20,0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "18,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "13,8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Mасса эфира (г), образованного при взаимодействии 8 г метанола и 12 уксусной кислоты",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "14,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "13,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "12,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "11,4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Mассовая доля железа (%), если 20 г смеси кальция и железа обработали избытком соляной кислоты, с образованием 50 г соли",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "54",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "65",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "35",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "46",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "При нейтрализации 33,2 г смеси муравьиной и уксусной кислоты с раствором гидроксида калия образовалось 10,8 г воды. Количество вещества (моль) муравьиной кислоты в исходной смеси равно",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Mассовая доля алюминия (%),если при действии уксусной кислоты на 27 г смеси серебра, алюминия и кальция, выделилось 21,28 л газа (н.у) и не растворилось 5,5 г вещества",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "85",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "60",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Oбъем водорода (л) (н.у), который образуется при взаимодействии 2 моль металлического натрия с 96%-ным (по массе) раствором этанола в воде, объемом 100 мл и с относительной плотностью 0,8 г/мл",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "20,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "32,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "25,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "18,6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещество А – неметалл, в свободном виде не встречается, имеет 2 аллотропные модификации. При комнатной температуре вещество A реагирует только с самым электроотрицательным элементом, при этом образуется вещество В. При взаимодействии с простым веществом, содержание которого в воздухе составляет 21%, вещество А будет реагировать только при высокой температуре, образуя при этом соединение C с атомной кристаллической решеткой. В результате реакции взаимодействия соединения C с кислотой D, получится вещество В. Данную реакцию используют для нанесения рисунков на стекле. При вещество C взаимодействует с веществом черного цвета, образуя при этом прочное, вещество E, уступающее по твердости только алмазу. Tип окислительно-восстановительной реакции получения вещества E",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q26_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "конпропорционирования",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "диспропорционирования",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "межмолекулярный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "внутримолекулярный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещество А – неметалл, в свободном виде не встречается, имеет 2 аллотропные модификации. При комнатной температуре вещество A реагирует только с самым электроотрицательным элементом, при этом образуется вещество В. При взаимодействии с простым веществом, содержание которого в воздухе составляет 21%, вещество А будет реагировать только при высокой температуре, образуя при этом соединение C с атомной кристаллической решеткой. В результате реакции взаимодействия соединения C с кислотой D, получится вещество В. Данную реакцию используют для нанесения рисунков на стекле. При вещество C взаимодействует с веществом черного цвета, образуя при этом прочное, вещество E, уступающее по твердости только алмазу. Bещество D",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q27_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q27_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q27_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q27_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q27_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещество А – неметалл, в свободном виде не встречается, имеет 2 аллотропные модификации. При комнатной температуре вещество A реагирует только с самым электроотрицательным элементом, при этом образуется вещество В. При взаимодействии с простым веществом, содержание которого в воздухе составляет 21%, вещество А будет реагировать только при высокой температуре, образуя при этом соединение C с атомной кристаллической решеткой. В результате реакции взаимодействия соединения C с кислотой D, получится вещество В. Данную реакцию используют для нанесения рисунков на стекле. При вещество C взаимодействует с веществом черного цвета, образуя при этом прочное, вещество E, уступающее по твердости только алмазу. Свойства, которыми будет обладать вещество С",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q28_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ковкое, быстро растворяется в воде",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "твердое с высокой температурой плавления",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пластичное, термически устойчивое",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хрупкие кристаллы, которые не проводят ток",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещество А – неметалл, в свободном виде не встречается, имеет 2 аллотропные модификации. При комнатной температуре вещество A реагирует только с самым электроотрицательным элементом, при этом образуется вещество В. При взаимодействии с простым веществом, содержание которого в воздухе составляет 21%, вещество А будет реагировать только при высокой температуре, образуя при этом соединение C с атомной кристаллической решеткой. В результате реакции взаимодействия соединения C с кислотой D, получится вещество В. Данную реакцию используют для нанесения рисунков на стекле. При вещество C взаимодействует с веществом черного цвета, образуя при этом прочное, вещество E, уступающее по твердости только алмазу. Oбъем газа (л), полученного при взаимодействии 12 г вещества A с 30г 20%-ного раствора гидроксида натрия",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q29_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "11,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3,36",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2,24",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещество А – неметалл, в свободном виде не встречается, имеет 2 аллотропные модификации. При комнатной температуре вещество A реагирует только с самым электроотрицательным элементом, при этом образуется вещество В. При взаимодействии с простым веществом, содержание которого в воздухе составляет 21%, вещество А будет реагировать только при высокой температуре, образуя при этом соединение C с атомной кристаллической решеткой. В результате реакции взаимодействия соединения C с кислотой D, получится вещество В. Данную реакцию используют для нанесения рисунков на стекле. При вещество C взаимодействует с веществом черного цвета, образуя при этом прочное, вещество E, уступающее по твердости только алмазу. Kоличество вещества (моль) соединения C, содержащего 32% примесей которое вступит в реакцию с молекул оксида кальция",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q30_0.png",
+          "media/Химия/questions/q30_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,39",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,13",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,05",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,09",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Kристаллическая решетка, характерная для пластичного вещества, обладающего высокой температурой плавления и хорошей проводимостью",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ионная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "атомная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "молекулярная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "металлическая",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Aтомный номер химического элемента показывает",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "число протонов в ядре атома",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "количество энергетических уровней",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "число валентных электронов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "атомную массу элемента",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Hа катоде выделятся металл и водород при электролизе растворов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q33_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q33_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q33_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q33_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Для смещения химического равновесия реакции влево,уравнение которой необходимо",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q34_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "повышение температуры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "повышение давления",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "понижение температуры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "понижение давления",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Pеакция, протекающая до конца между веществами",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "нитрат натрия и гидроксид калия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "соляная кислота и нитрат натрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "серная кислота и хлорид бария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сульфат натрия и гидроксид лития",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Aктивные металлы встречаются в природе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в свободном виде",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в виде оксидов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в виде солей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в виде кислот",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Элемент с электронной конфигурацией",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q37_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "галлий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "натрий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "калий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "радий",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Газ, образуемый при взаимодействии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q38_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q38_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q38_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q38_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q38_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Вещество, которое образуется при взаимодействии 2 моль аммиака и 1 моль углекислого газа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "нитрид углерода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "карбонат аммония",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "карбид азота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "карбамид",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Электроотрицательный халькоген",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "фтор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "кислород",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фосфор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "азот",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Bосстановитель в реакции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q41_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кислород",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "фторид кремния (IV)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "оксид кремния (IV)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фтор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Cильный окислитель",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q42_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q42_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q42_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q42_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Bулканизацию каучука проводят нагреванием в присутствии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q43_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q43_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q43_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q43_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Mежклассовый изомер вещества 2-метилпропаналь",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "бутаналь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пентанон-2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пропанон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бутанон-2`",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Пептидная группа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q45_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q45_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q45_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q45_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "При термическом крекинге гексадекана одним из компонентов является октан.Молекулярная масса второго компонента",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "114",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "110",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "108",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "112",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "B реакции , равновесие смещается в сторону продуктов",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q47_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "повышение давления, повышение концентрации оксида серы (VI)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "понижение давления, повышение концентрации оксида серы (VI)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "понижение давления, повышение концентрации оксида серы (IV)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "повышение давления, повышение концентрации оксида серы (IV)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Из 72 г пирита была получена серная кислота, причем на 1 и 2 этапах выход продукта составил 75%. Масса (г) 90%-ного раствора полученной кислоты равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "73,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "98,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "33,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "88,2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "54 г глюкозы подвергли брожению. При этом получили 16,56 г спирта. Массовая доля выхода продукта (%) от теоретически возможного",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "60",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "90",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "80",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Mасса (г) гидросульфата аммония, которая получится при взаимодействии 100 г 70%-ного раствора серной кислоты и 15 л аммиака (н.у.)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "77",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "39",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "99",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "50",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Mасса пропилпропионата (г), образованного при взаимодействии 10 г спирта и 10 г карбоновой кислоты, если выход реакции составил 80 %",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "15,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "17,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "19,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "12,5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Mасса (г) 40%-ного раствора гидроксида натрия, необходимого для нейтрализации вещества, полученного при электролизе 400 г 16%-ного раствора сульфата меди (+2)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "80",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "60",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "25",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Cмесь газов этилена и ацетилена массой 4,97 г прореагировало с бромом массой 48 г. Массовые доли (%) углеводородов в смеси",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "80; 20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "60; 40",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "30; 70",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "50; 50",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Mасса осадка (г), образованного при взаимодействии хлорида алюминия со вторичным продуктом электролиза раствора хлорида натрия, если на аноде выделился хлор объемом 2,24 л (н.у)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4,9",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6,5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "8,7 г паров метанола и этанола пропустили над нагретым оксидом меди (+2) массой 20 г. Масса (г) метанола в исходной смеси составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6,4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hеорганическое соединение A, полученное при термическом разложении известняка, используется для получения карбида кальция. При обработке карбида кальция с водой выделяется углеводород C с плотностью по кислороду, равной 0,8125. При гидратации углеводорода С образуется вещество D. В результате реакции D с аммиачным раствором оксида серебра получается соединение E, широко применяющееся в производстве пластмасс, искуственного волокна; раствор этого вещества также используется в пищевой промышленности и в быту. Уравнение реакции термического разложения известняка",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q56_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q56_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q56_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q56_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hеорганическое соединение A, полученное при термическом разложении известняка, используется для получения карбида кальция. При обработке карбида кальция с водой выделяется углеводород C с плотностью по кислороду, равной 0,8125. При гидратации углеводорода С образуется вещество D. В результате реакции D с аммиачным раствором оксида серебра получается соединение E, широко применяющееся в производстве пластмасс, искуственного волокна; раствор этого вещества также используется в пищевой промышленности и в быту. При гидратации углеводорода С образуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q57_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q57_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q57_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q57_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hеорганическое соединение A, полученное при термическом разложении известняка, используется для получения карбида кальция. При обработке карбида кальция с водой выделяется углеводород C с плотностью по кислороду, равной 0,8125. При гидратации углеводорода С образуется вещество D. В результате реакции D с аммиачным раствором оксида серебра получается соединение E, широко применяющееся в производстве пластмасс, искуственного волокна; раствор этого вещества также используется в пищевой промышленности и в быту. Mасса вещества D (г), образующегося при гидратации 10,4 г углеводорода С с относительной плотностью по кислороду, равной 0,8125, если массовая доля выхода продукта составляет 80% от теоретически возможного",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "14,08",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "14,72",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10,04",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "17,06",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hеорганическое соединение A, полученное при термическом разложении известняка, используется для получения карбида кальция. При обработке карбида кальция с водой выделяется углеводород C с плотностью по кислороду, равной 0,8125. При гидратации углеводорода С образуется вещество D. В результате реакции D с аммиачным раствором оксида серебра получается соединение E, широко применяющееся в производстве пластмасс, искуственного волокна; раствор этого вещества также используется в пищевой промышленности и в быту. Cумма всех коэффициентов в уравнении реакции равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Hеорганическое соединение A, полученное при термическом разложении известняка, используется для получения карбида кальция. При обработке карбида кальция с водой выделяется углеводород C с плотностью по кислороду, равной 0,8125. При гидратации углеводорода С образуется вещество D. В результате реакции D с аммиачным раствором оксида серебра получается соединение E, широко применяющееся в производстве пластмасс, искуственного волокна; раствор этого вещества также используется в пищевой промышленности и в быту. При взаимодействии 20 г 30%-ного раствора E с 40 г 92%-ного раствора этанола образуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8,8 г этилацетата",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4,6 г метилформиата",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "4,8 г диэтилэфира",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "7,4 г этилформиата",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Массовая доля (%) щелочи в растворе, если при электролизе 200 г раствора с массовой долей хлорида натрия 17,55% выделилось 3,36 л хлора (н.у)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "6,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "4,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "7,2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Mасса (г) гипохлорита натрия, полученного при пропускании через холодный раствор гидроксида натрия хлора (л) (н.у.), образованного при электролизе раствора, содержащего 35 г хлорида натрия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "33,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "44,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "22,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "66,9",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "При сгорании углеводорода X было получено 12,57 г углекислого газа и 5,14 г воды. Относительная плотность углеводорода по гелию равна 10,5. Количество атомов водорода в веществе Х",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Газ, образуемый при взаимодействии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q64_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q64_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q64_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q64_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q64_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Pаствор йода обнаруживается с помощью",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "крахмала",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "этанола",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "лакмуса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "глюкозы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Электролизом раствора можно получить",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q66_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q66_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q66_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q66_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cтепень полимеризации полиэтилена со средней относительной молекулярной массой, равной 250000",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5208",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3676",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8928",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4629",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Aлкадиены с кумулированными связями",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "бутадиен-1,3, гексадиен–1,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пентадиен–1,2, бутадиен-1,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пентадиен-1,3, пентадиен–1,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "пентадиен-1,4, бутадиен–1,2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Mасса осадка (г), образованного при взаимодействии гидроксида бария со вторичным продуктом электролиза раствора сульфата меди (II), если на аноде выделился газ объемом 6,72 л (н.у)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "174,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "186,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "153,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "139,8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Элемент с конфигурацией внешнего уровня",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q70_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "хром",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "медь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "цинк",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "железо",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Функциональные группы аминокислот",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q71_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q71_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "`",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q71_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q71_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Процесс называется",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q72_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "фотосинтезом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "полимеризацией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "поликонденсацией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "брожением",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Mасса уксусной кислоты (г), которая была получена из 44,8 л ацетилена (н.у), если потери на каждой стадии получения составляют в среднем 20 %",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "92,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "63,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "82,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "76,8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Элементы с одинаковым набором атомных частиц",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кальций, калий, бор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "магний, цинк, бром",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гелий, хлор, натрий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "неон, кремний, сера",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Ионы, образуемые на I ступени диссоциации дигидрофосфата калия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q75_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q75_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q75_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q75_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "При электролизе раствора нитрата меди (II) образуются продукты",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q76_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q76_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q76_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q76_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Cамая твердая аллотропная модификация углерода",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "карбин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "алмаз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "графит",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фуллерен",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Pеакция относится к",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q78_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "обратимым, экзотермическим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "необратимым, экзотермическим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "необратимым, эндотермическим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "обратимым, эндотермическим",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Выход продукта реакции (в %) от теоретически возможного, если при взаимодействии 2,24 л (н.у.) оксида серы (VI) избытком воды получено 5 г серной кислоты",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "46",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "62",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "55",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "51",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Электронную конфигурацию … имеет атом",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q80_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q80_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q80_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q80_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q80_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Cульфид - и сульфат-ионы соответственно можно обнаружить с помощью",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "карбоната кальция, нитрата бария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "нитрата свинца, гидроксида бария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ацетата свинца, фосфата бария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "силиката калия, хлорида бария",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Ближайший гомолог продукта реакции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q82_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гексанол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "этанол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пропанол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бутанол",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Через смесь метаналя и метанола, содержащую равные количества веществ, пропустили 4,48 л (н.у.) водорода. Масса (г) спирта после окончания реакции",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "16,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "10,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "11,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "12,8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "При электролизе водного раствора сульфата меди (II) масса катода увеличилась на 1,28г. Масса кислоты (г), которая образуется в результате электролиза",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1,96",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,71",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2,62",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1,34",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Элемент, образующий основной оксид",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q85_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q85_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q85_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q85_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещества, в состав которых входит атом углерода, называют органическими. Углеводороды – органические соединения, состоящие только из атомов углерода и водорода. В зависимости от состава и строения могут находиться в разных агрегатных состояниях. Бесцветный легкий газ A был получен из бесцветного газа C, который является основной составной частью природного газа. Вещество A вступает в реакцию тримеризации с образованием жидкого вещества B, которое является добавкой к бензину для повышения октанового числа. Продукт реакции гидратации вещества A",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "этаналь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "этилен",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "этадиол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "этанол",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещества, в состав которых входит атом углерода, называют органическими. Углеводороды – органические соединения, состоящие только из атомов углерода и водорода. В зависимости от состава и строения могут находиться в разных агрегатных состояниях. Бесцветный легкий газ A был получен из бесцветного газа C, который является основной составной частью природного газа. Вещество A вступает в реакцию тримеризации с образованием жидкого вещества B, которое является добавкой к бензину для повышения октанового числа. Oтносительная плотность вещества по водороду равна 8. Это вещество",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ацетилен",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "этилен",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пропан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "метан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещества, в состав которых входит атом углерода, называют органическими. Углеводороды – органические соединения, состоящие только из атомов углерода и водорода. В зависимости от состава и строения могут находиться в разных агрегатных состояниях. Бесцветный легкий газ A был получен из бесцветного газа C, который является основной составной частью природного газа. Вещество A вступает в реакцию тримеризации с образованием жидкого вещества B, которое является добавкой к бензину для повышения октанового числа. Mасса неорганического продукта (г), если известно, что при освещении смешали 1,344 л хлора и 1,568 л вещества C",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1,4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещества, в состав которых входит атом углерода, называют органическими. Углеводороды – органические соединения, состоящие только из атомов углерода и водорода. В зависимости от состава и строения могут находиться в разных агрегатных состояниях. Бесцветный легкий газ A был получен из бесцветного газа C, который является основной составной частью природного газа. Вещество A вступает в реакцию тримеризации с образованием жидкого вещества B, которое является добавкой к бензину для повышения октанового числа. Hазвание вещества, улучшающего качество бензина",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "метан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пропан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "этилен",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бензол",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bещества, в состав которых входит атом углерода, называют органическими. Углеводороды – органические соединения, состоящие только из атомов углерода и водорода. В зависимости от состава и строения могут находиться в разных агрегатных состояниях. Бесцветный легкий газ A был получен из бесцветного газа C, который является основной составной частью природного газа. Вещество A вступает в реакцию тримеризации с образованием жидкого вещества B, которое является добавкой к бензину для повышения октанового числа. Oбъем вещества A (л), с выходом реакции 80 %, который был получен из 300 г карбида кальция, содержащего 20 % примесей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "56,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "44,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "89,6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "67,2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Пара электронов из четырёх квантовых чисел отличие по значению",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q91_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "магнитное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "главное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "орбитальное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "спиновое",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Продукт взаимодействия гидроксида натрия и серной кислоты в соотношении 1:1",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гидросульфит натрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сульфит натрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сульфат натрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гидросульфат натрия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Cхема реакции восстановления",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q93_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q93_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q93_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q93_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "При обычных условиях быстрее происходит реакция между металлом и водой",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "цинк",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "никель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "железо",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "натрий",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "в растворе",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q95_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q95_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q95_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q95_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q95_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Cостав металлической кристаллической решетки",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "атомы, анионы и электроны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "электроны, анионы и катионы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "атомы, катионы и электроны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "электроны, молекулы и катионы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Электронная конфигурация соответствует атому",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q97_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "радию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "натрию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "таллию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "калию",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Tип связи и тип кристаллической решетки в кристаллическом кремнезёме",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ковалентная полярная связь, атомная кристаллическая решетка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ковалентная неполярная связь, молекулярная кристаллическая решетка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ковалентная неполярная связь, атомная кристаллическая решетка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ковалентная полярная связь, молекулярная кристаллическая решетка",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Вещество, которое образуется при взаимодействии 2 моль аммиака и 1 моль углекислого газа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "карбид азота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "нитрид углерода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "карбамид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "карбонат аммония",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Электроотрицательный халькоген",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "азот",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "фосфор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "кислород",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фтор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Pеактив, для обнаружения хлорид-ионов в растворе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q101_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q101_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q101_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q101_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Cтепень окисления комплексообразователя",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q102_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "+2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "+4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "+3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "+6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "в реакции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q103_0.png",
+          "media/Химия/questions/q103_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "структурное звено",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "димер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мономер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "полимер",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Kонечный продукт кислотного гидролиза целлюлозы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "α - глюкоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "мальтоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "β - глюкоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сахароза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Bодные растворы аминов окрашивают",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "метилоранж в розовый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "лакмус в синий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "метилоранж в оранжевый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "лакмус в красный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Hаименее экологичный метод утилизации пластмасс",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "разложение пластиков бактериями до биологического топлива",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "частичное разложение пластиков в океане",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "разложение пластиков нового поколения до удобрения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "обезвреживание пластиков путём сжигания",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Cкорость реакции изменится, если концентрацию вещества А увеличить в 2 раза, а концентрацию вещества В уменьшить в 2 раза",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q107_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "увеличится в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "увеличится в 2 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "уменьшится в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "уменьшится в 2 раза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Mасса осадка (г), который выпадет в реакции между 16 г сульфата меди (II) и 20 г гидроксида натрия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12,25",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "24,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8,1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "9,8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "B 20% раствор кислоты массой 200 г добавили ещё 40 г кислоты. Концентрация полученного раствора (%)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "16,66",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "33,33",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "30",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Mасса осадка (г), полученного при взаимодействии 1,17 кг 10% раствора сульфида натрия с раствором хлорида алюминия",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "29,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "58,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "78",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Название органического вещества, на нейтрализацию вещества с массой 3,7 г нужно раствора гидроксида калия с массовой долей 40%,",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q111_0.png",
+          "media/Химия/questions/q111_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "уксусная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пентанол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "пропионовая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бутанол",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Mасса осадка (г), образованного при взаимодействии гидроксида бария со вторичным продуктом электролиза раствора сульфата меди (II), если на аноде выделился газ объемом 8,96 л (н.у)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "195,7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "162,9",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "186,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "171,3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Cмесь ацетальдегида и пропаналя массой 134 г (массовая доля уксусного альдегида 16,42%) была окислена аммиачным раствором оксида серебра (I) до выпадения осадка. Масса и количество осадка (г)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "525 г и 4,86 моль",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "56 г и 0,52 моль",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "108 г и 1 моль",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "540 г и 5 моль",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Hа 8 г смеси, состоящей из натрия, меди и кальция (массовая доля кальция равна 42,8%) подействовали водой. Водород, полученный в результате реакций, занимает объём 3,63 л. Массовая доля меди (%) в исходной смеси",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "49,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "35,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "13,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "24,1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Mасса (г) нитробензола, которая образуется при взаимодействии бензола массой 117 г и раствора азотной кислоты объемом 150 мл, плотностью 1,491 и массовой долей кислоты 65%",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Химия/questions/q115_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "369,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "276,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "192,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "184,5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Элементы 2 А группы составляют семейство щелочноземельных металлов. Металл А, необходимый для синтеза АТФ, при окислении разбавленной азотной кислотой образует газ В, который долгое время использовался в медицине для наркоза. Металл С, распространенный макроэлемент, при взаимодействии с водой образует вещество D, которое широко используют в строительстве. Если через вещество D пропустить углекислый газ, образуется вещество E, необходимое для построения скелетов морских организмов. Mеталл A при нагревании может восстановить из оксида",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "фтор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "кремний",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "натрий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "кальций",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Элементы 2 А группы составляют семейство щелочноземельных металлов. Металл А, необходимый для синтеза АТФ, при окислении разбавленной азотной кислотой образует газ В, который долгое время использовался в медицине для наркоза. Металл С, распространенный макроэлемент, при взаимодействии с водой образует вещество D, которое широко используют в строительстве. Если через вещество D пропустить углекислый газ, образуется вещество E, необходимое для построения скелетов морских организмов. Газ B",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q117_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q117_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q117_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q117_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Элементы 2 А группы составляют семейство щелочноземельных металлов. Металл А, необходимый для синтеза АТФ, при окислении разбавленной азотной кислотой образует газ В, который долгое время использовался в медицине для наркоза. Металл С, распространенный макроэлемент, при взаимодействии с водой образует вещество D, которое широко используют в строительстве. Если через вещество D пропустить углекислый газ, образуется вещество E, необходимое для построения скелетов морских организмов. Pеагент для обнаружения вещества E",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q118_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q118_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q118_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Химия/answers/q118_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Элементы 2 А группы составляют семейство щелочноземельных металлов. Металл А, необходимый для синтеза АТФ, при окислении разбавленной азотной кислотой образует газ В, который долгое время использовался в медицине для наркоза. Металл С, распространенный макроэлемент, при взаимодействии с водой образует вещество D, которое широко используют в строительстве. Если через вещество D пропустить углекислый газ, образуется вещество E, необходимое для построения скелетов морских организмов. Oбъем продукта (л) (н.у), образованного при окислении металла А с 36 г азотной кислоты, взятой в виде разбавленного раствора",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2,24",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2,52",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,28",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3,36",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Элементы 2 А группы составляют семейство щелочноземельных металлов. Металл А, необходимый для синтеза АТФ, при окислении разбавленной азотной кислотой образует газ В, который долгое время использовался в медицине для наркоза. Металл С, распространенный макроэлемент, при взаимодействии с водой образует вещество D, которое широко используют в строительстве. Если через вещество D пропустить углекислый газ, образуется вещество E, необходимое для построения скелетов морских организмов. Mассовая доля (%) вещества Е в смеси, если при обработке 22 г смеси вещества Е и вещества Д соляной кислотой, образовалось 28 г соли",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "25",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "75",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "58",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "43",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      }
+    }
+  }
+}

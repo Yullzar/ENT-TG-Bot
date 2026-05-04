@@ -1,0 +1,4596 @@
+{
+  "Всемирная история": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Kак следствие глубочайшего кризиса китайского общества, привело к падению династии Хань восстание",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«сипаев»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«красных гвоздик»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«рисовый бунт»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«желтых повязок»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Дипломат византийского посольства, направленный в Тюркский каганат",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Земарх",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Ромул",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Юстиниан I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Константин I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "«Протестантским Римом» называли город",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Виттенберг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Милан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Венецию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Женеву",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Oткрытые Христофором Колумбом новые земли начали завоевывать",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "итальянцы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "испанцы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "китайцы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "англичане",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Mировой торговый центр в XIX веке",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Париж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Лондон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Рим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Милан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "С XVII по XVIII века самый большой поток переселенцев направлялся из Англии в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Америку",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Испанию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Францию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Германию",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Главным документом второго периода реформ Танзимата стал",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Гюльханехатт-и шериф",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Хатт-и-Хумаюн",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Дар-оль-Фонун",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Гюлистанский договор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Преобладающее требование революции в Германии 1848 г.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "достижение единства страны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "свержение господства финансовой аристократии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "освобождение северной части страны от владычества Габсбургов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "освобождение от национального угентения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Pуководители Германии и Австро-Венгрии решили в 1915 году нанести поражение",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Англии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Испании",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Франции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "России",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Aвтор проекта Декларации прав трудящегося и эксплуатируемого народа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "В. Ленин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Г. Зиновьев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Л. Троцкий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Л. Каменев",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "С 1935 года Чан Кайши начал вести переговоры с Советским Союзом об (-о)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "оказании помощи в отражении японской агрессии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "поддержке государственных банков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "заключении торговых отношений между странами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "присоединении Юго-Восточной части Китая",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Процветание, особенный экономический подъем в США после первой мировой войны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Великая депрессия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Модернизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Экономическое чудо",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Просперити",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Kоренная перестройка аграрного сектора в СССР в 30-е годы XX века",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "урбанизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "коллективизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "приватизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "индустриализация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Cтрана, заключившая с Германией Рапалльский договор в 1922 году",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "США",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Франция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "СССР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Великобритания",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "B 1937 году к Антикоминтерновскому пакту присоединилась",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Италия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Чехословакия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Австрия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Франция",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Cобытие второго этапа Второй мировой войны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Московская битва",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "нападение Японии на Пёрл-Харбол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Курская битва",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "операция «Оверлорд»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oпределите наиболее раннее событие",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Распад СССР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Образование ООН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Берлинский кризис",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Вьетнамская война",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Kлассифицируйте права человека по Декларации прав человека 1948 года А. Право на гражданство; Б. Свобода мирных собраний; B. Равное избирательное право; Г. Право на выезд из страны. I. Гражданские права и свободы; II. Политические права и свободы.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А-I; Б-I; В-II; Г-I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "А-I; Б-II; В-I; Г-II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "А-I; Б-II; В-II; Г-I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "А-II; Б-II; В-I; Г-I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Bыберите событие, связанное с генералом Шарлем де Голлем",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "внедрение политики неоконсерватизма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сохранение однопалатного парламента",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "образование Пятой республики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вступление Франции в СЭВ",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "K первоочередным задачам экономической политики СССР после Великой Отечественной войны относилась",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "девальвация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "конверсия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "либерализация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "приватизация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Политика европейских стран-колонизаторов в конце XVIII-XIX веков",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "способствовала развитию капитализма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "привела к замене капитализма социализмом в Азии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "привела к крушению рабовладения на Востоке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "укрепила позиции феодализма в странах-колониях",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Hовая расстановка политических сил в Европе и утверждение английской гегемонии на морях и в колониях произошла после",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Венского конгресса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Падения Директории",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Созыва Долгого парламента",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Создания Рейнского союза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Bо время революции 1905-1911 годов в Иране впервые появился (-лась)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "школа-лицей",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "печатная газета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "парламент",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "промышленность",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "B начале XIX века Цинская империя продолжала политику",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«изоляции»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«перестройки»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«обновления»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«модернизации»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "II съезд РСДРП в своей программе выдвинул требование установления",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "диктатуры пролетариата",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "парламентской республики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "конституционной монархии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "президентской республики",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите новые независимые государства, образовавшиеся в 1918-1923 гг.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q26_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Германия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Чехословакия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Бельгия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Италия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите историческое событие предшествовавшее изменению карты мира",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q27_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Вторая мировая война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Крымская война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Первая мировая война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Первая Балканская война",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите правильность утверждения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q28_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Франции отошли – Эльзас, Мемель",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "на юге Европы образовалась независимая Италия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Бельгии отошли – Познань, часть Померании",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "часть Восточной Пруссии отошла Польше",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите империю распавшуюся на несколько независимых государств",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q29_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Османская",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Бельгийская",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Французская",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Британская",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите верное утверждение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q30_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "с Австрией был подписан Севрский мирный договр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "с Турцией был подписан Версальский мирный договор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "с Болгарий был подписан Нейиский мирный договор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "с Германией был подписан Сен-Жерменский мирный договор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Знаменитый греческий врач",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Гиппократ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Сократ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Пифагор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Платон",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Год образования государства Киевская Русь",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "945 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "962 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "988 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "882 г.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "B VI веке между византийским императором и тюрками были заключены соглашения против",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Сирии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Ирака",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ирана",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ливии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Cовершил несколько экспедиций и доказал, что открытые Колумбом земли – новый материк, итальянский мореплаватель",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Америго Веспуччи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Васко да Гамма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Фернан Магеллан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Бартоломеу Диаш",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Промышленный переворот в Англии стимулировал рост добычи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "угля",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "серебра",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "золота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "меди",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "B 1607 году первое постоянное английское поселение было основано в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Северной Африке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Северной Америке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Северной Европе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Северной Шотландии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "B начале XIX века территория Османской империи была разделена на",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "области и провинции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "крепости и дистанции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "районы и губернии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "губернии и провинции",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oбогнув Африку в 1498 году Васка да Гама прибыл к индийскому городу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ормуз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Каликут",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Маскат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Дели",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "B начале XX в. в Азии на доминирующую роль претендовала",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Корея",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Япония",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Монголия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Индия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Bолнения рабочих и солдат в феврале 1917 года начались в городе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Казань",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Астрахань",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Оренбург",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Петроград",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Приход к власти кабинета Танаки и его политика были обусловлены",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "снижением темпов экономического развития",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "милитаризацией страны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "модернизацией страны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "жесткостью полицейского давления на граждан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "B 1935 г. в США был принят документ, который расширил права профсоюзов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«План Дауэса»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«О ленд-лизе»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Акт Вагнера»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«План Вильсона»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Во внутренней политике президент К. Кулидж был",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сторонником отмены гражданства американских индейцев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сторонником уничтожения дискриминации афроамериканцев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сторонником законопроекта о помощи фермерам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сторонником дальнейшего ограничения иммиграции",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Cтрана, которая стала первой, где утвердился фашизм",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Италия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Польша",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Германия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Австрия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "В 1937 г. Пекин был под оккупацией",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Японии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "США",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Советского союза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Великобритании",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Bторая мировая война закончилась событием",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "американцы сбросили атомную бомбу на г. Хиросиму",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Япония подписала акт о капитуляции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гитлеровская Германия подписала акт о капитуляции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "состоялась Ялтинская конференция в Крыму",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Tрансформация политических режимов в Восточной Европе 1988-1989 гг. получила название революции",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«бархатных»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«весны»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«достоинства»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«цветных»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "11 сентября 2001 г. произошел самый крупный террористический акт в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Вашингтоне",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Бостоне",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Нью-Йорке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Лос-Анжелесе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Oснователь Пятой республики де Голль придерживался взглядов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "либеральных",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "социалистических",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фашистских",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "консерватиных",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "B годы оттепели в СССР проходил процесс",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "десталинизации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "культурного «ренессанса»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "децентрализации политической власти",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "полная демократизации политической системы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Oбъявил в 1823 году, что США не допустят монархической формы правления и не будет вмешиваться в европейские дела",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Рональд Рейган",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Джеймс Монро",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Джон Кеннеди",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Отто фон Бисмарк",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Созыв первых Генеральных штатов во Франции",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1302 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1309 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1308 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1305 г.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Mустафой Решидом был разработан план новых реформ в Османской империи, целью которых было",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "укрепление власти султана",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "укрепление внешнеполитического положения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сохранить традиционный государственный строй",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "снижение налогов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "18 января 1915 года Япония предъявляет Юань Шикаю ультиматум, получивший название",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«21 условие»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«21 пункт»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«21 вопрос»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«21 требование»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Причина отставания Германии вначале XIX века от ведущих европейских держав",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "увеличение численности армии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "принятие либеральных законов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "политическая раздробленность страны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "милитаризация экономики",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Pоссия в XIX веке Реформы Александра II Восстание декабристов В 1855 г. на российский престол вступил император Александр II, получивший в народе прозвище «Освободитель». Его царствование связано с проведением масштабных реформ. В 1861 г. было отменено крепостное право. Все крестьяне получали личную свободу без выкупа и земельный надел за выкуп. Личная свобода давала бывшим крепостным много возможностей: они могли трудиться на земле, становиться рабочими или предпринимателями, перебираться в города, переходить в другие сословия. За этой важнейшей реформой последовали и другие: земская, судебная, военная и финансовая. K сожалению, процесс реформирования России не был завершен при жизни Александра II. Присяга Николаю I была назначена на 14 декабря 1825 г. На 14 декабря и было назначено выступление членов «Северного общества». С тех пор они стали называться декабристами. Декабристы собирались не допустить присяги солдат новому царю Николаю I. Предполагалось арестовать и заключить в Петропаловскую крепость членов царской семьи. Hа деле все получилось по-другому. Еще утром Сенат присягнул Николаю I, и сенаторы разъехались. Сенатскую площадь оцепили войска. Новый царь предпринял попытку мирным путем добиться прекращения восстания. Но переговоры не удались. Николай I приказал войскам открыть огонь по мятежникам, и выступление было подавлено. Bосстание декабристов было первым в России открытым выступление против самодержавия и крепостничества. Используя контекст, определите императора, вступившего на Российский престол в 1855 г.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Александр II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Николай I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Александр I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Николай II",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Pоссия в XIX веке Реформы Александра II Восстание декабристов В 1855 г. на российский престол вступил император Александр II, получивший в народе прозвище «Освободитель». Его царствование связано с проведением масштабных реформ. В 1861 г. было отменено крепостное право. Все крестьяне получали личную свободу без выкупа и земельный надел за выкуп. Личная свобода давала бывшим крепостным много возможностей: они могли трудиться на земле, становиться рабочими или предпринимателями, перебираться в города, переходить в другие сословия. За этой важнейшей реформой последовали и другие: земская, судебная, военная и финансовая. K сожалению, процесс реформирования России не был завершен при жизни Александра II. Присяга Николаю I была назначена на 14 декабря 1825 г. На 14 декабря и было назначено выступление членов «Северного общества». С тех пор они стали называться декабристами. Декабристы собирались не допустить присяги солдат новому царю Николаю I. Предполагалось арестовать и заключить в Петропаловскую крепость членов царской семьи. Hа деле все получилось по-другому. Еще утром Сенат присягнул Николаю I, и сенаторы разъехались. Сенатскую площадь оцепили войска. Новый царь предпринял попытку мирным путем добиться прекращения восстания. Но переговоры не удались. Николай I приказал войскам открыть огонь по мятежникам, и выступление было подавлено. Bосстание декабристов было первым в России открытым выступление против самодержавия и крепостничества. Используя контекст, определите императора, принявшего присягу на царский трон в 1825 г.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Екатерина II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Николай I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Александр II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Петр III",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Pоссия в XIX веке Реформы Александра II Восстание декабристов В 1855 г. на российский престол вступил император Александр II, получивший в народе прозвище «Освободитель». Его царствование связано с проведением масштабных реформ. В 1861 г. было отменено крепостное право. Все крестьяне получали личную свободу без выкупа и земельный надел за выкуп. Личная свобода давала бывшим крепостным много возможностей: они могли трудиться на земле, становиться рабочими или предпринимателями, перебираться в города, переходить в другие сословия. За этой важнейшей реформой последовали и другие: земская, судебная, военная и финансовая. K сожалению, процесс реформирования России не был завершен при жизни Александра II. Присяга Николаю I была назначена на 14 декабря 1825 г. На 14 декабря и было назначено выступление членов «Северного общества». С тех пор они стали называться декабристами. Декабристы собирались не допустить присяги солдат новому царю Николаю I. Предполагалось арестовать и заключить в Петропаловскую крепость членов царской семьи. Hа деле все получилось по-другому. Еще утром Сенат присягнул Николаю I, и сенаторы разъехались. Сенатскую площадь оцепили войска. Новый царь предпринял попытку мирным путем добиться прекращения восстания. Но переговоры не удались. Николай I приказал войскам открыть огонь по мятежникам, и выступление было подавлено. Bосстание декабристов было первым в России открытым выступление против самодержавия и крепостничества. Проанализируйте контекст и определите важнейшую реформу Александра II",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "налоговая реформа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "денежная реформа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "отмена крепостного права",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "отмена воинской повинности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Pоссия в XIX веке Реформы Александра II Восстание декабристов В 1855 г. на российский престол вступил император Александр II, получивший в народе прозвище «Освободитель». Его царствование связано с проведением масштабных реформ. В 1861 г. было отменено крепостное право. Все крестьяне получали личную свободу без выкупа и земельный надел за выкуп. Личная свобода давала бывшим крепостным много возможностей: они могли трудиться на земле, становиться рабочими или предпринимателями, перебираться в города, переходить в другие сословия. За этой важнейшей реформой последовали и другие: земская, судебная, военная и финансовая. K сожалению, процесс реформирования России не был завершен при жизни Александра II. Присяга Николаю I была назначена на 14 декабря 1825 г. На 14 декабря и было назначено выступление членов «Северного общества». С тех пор они стали называться декабристами. Декабристы собирались не допустить присяги солдат новому царю Николаю I. Предполагалось арестовать и заключить в Петропаловскую крепость членов царской семьи. Hа деле все получилось по-другому. Еще утром Сенат присягнул Николаю I, и сенаторы разъехались. Сенатскую площадь оцепили войска. Новый царь предпринял попытку мирным путем добиться прекращения восстания. Но переговоры не удались. Николай I приказал войскам открыть огонь по мятежникам, и выступление было подавлено. Bосстание декабристов было первым в России открытым выступление против самодержавия и крепостничества. Используя контекст, определите тайное общество, выступившее 14 декабря 1825 г. на Сенатской площади",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«Южное общество»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«Северное общество»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Западное общество»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«Восточное общество»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Pоссия в XIX веке Реформы Александра II Восстание декабристов В 1855 г. на российский престол вступил император Александр II, получивший в народе прозвище «Освободитель». Его царствование связано с проведением масштабных реформ. В 1861 г. было отменено крепостное право. Все крестьяне получали личную свободу без выкупа и земельный надел за выкуп. Личная свобода давала бывшим крепостным много возможностей: они могли трудиться на земле, становиться рабочими или предпринимателями, перебираться в города, переходить в другие сословия. За этой важнейшей реформой последовали и другие: земская, судебная, военная и финансовая. K сожалению, процесс реформирования России не был завершен при жизни Александра II. Присяга Николаю I была назначена на 14 декабря 1825 г. На 14 декабря и было назначено выступление членов «Северного общества». С тех пор они стали называться декабристами. Декабристы собирались не допустить присяги солдат новому царю Николаю I. Предполагалось арестовать и заключить в Петропаловскую крепость членов царской семьи. Hа деле все получилось по-другому. Еще утром Сенат присягнул Николаю I, и сенаторы разъехались. Сенатскую площадь оцепили войска. Новый царь предпринял попытку мирным путем добиться прекращения восстания. Но переговоры не удались. Николай I приказал войскам открыть огонь по мятежникам, и выступление было подавлено. Bосстание декабристов было первым в России открытым выступление против самодержавия и крепостничества. Используя контекст, установите хронологическую последовательность исторических событий I. отмена крепостного права II. вступление на престол Николая I III. вступление на престол Александра II",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I,II,III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II,III,I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "III,I,II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "III,II,I",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Древнейшая в Южной Азии цивилизация возникла в бассейне реки",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Инд",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Нил",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Хуанхэ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Тигр",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Направляясь к кагану Истеми, византийское посольство дошло до реки",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Шу",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Амударьи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Или",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сырдарьи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Установление абсолютной монархии в XVII в. в России связано с именем",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Петра I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Александра I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Николая II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ивана III",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Oткрытые Христофором Колумбом новые земли начали завоевывать",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "итальянцы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "китайцы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "англичане",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "испанцы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "B период промышленного переворота изобрел и усовершенствовал паровую машину",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Д. Уатт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Г.Модсли",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Д. Харгривс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Д. Кей",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "B период Американской революции, первый и второй континентальные конгрессы-Совет представителей колоний проходили в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Мюнхене",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Копенгагене",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Лондоне",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Филадельфии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "B 1853 году в Турции приостановила реформы Танзимата",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Северная война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Вторая мировая война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Первая мировая война",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Крымская война",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Предпосылкой революциип 1848 в Италии стало восстание в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Венеции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Милане",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Сицилии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ломбардии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Pуководители Германии и Австро-Венгрии решили в 1915 году нанести поражение",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Англии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Франции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "России",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Испании",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Mероприятие, проведенное в рамках Новой экономической политики",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "уравнительная оплата труда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "натуральная заработная плата",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ограничение продажи продовольствия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "отмена трудовой мобилизации",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "B годы Первой мировой войны, в Китае ускорился процесс развития",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "капитализма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "социализма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коммунизма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "феодализма",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "B 1936 г. правительство Народного фронта во Франции возглавил",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Л. Блюм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Ф. Франко",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "А. Бриан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Э. Даладье",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "B декабре 1925 года состоялся XIV съезд ВКП(б), взявший курс на",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "компьютеризацию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "индустриализацию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коллективизацию",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "либерализацию",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "14 апреля 1931 года Испания была провозглашена",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "автономией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "конфедерацией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "республикой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "федерацией",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Историческое название Антикоминтерновского пакта",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«Ось Берлин – Рим – Токио»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«Антанта»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«Четверной Союз»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«Священный союз»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Kоренной перелом ходе Второй мировой войны включает в себя",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Тегеранскую и Крымскую конференции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Осада Ленинграда «операция Тайфун»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Создание антифашистской коалиции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Сталинградскую и Курскую битвы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Cоотнесите страны и их достижения I. СССР; II. США. A. запуск первого в мире спутника; Б. первое применение атомной бомбы; B. первая высадка астронавтов на Луну; Г. впервые осуществлён полет человека в космос.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I-Г,В; ІІ-А,Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I-А,В; ІІ-Б,Г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I-Б,В; ІІ-А,Г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I-А,Г; ІІ-Б,В",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Hачало 50-х годов ХХ века в истории арабских стран характеризуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "падением режима апартеида",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ликвидацией диктаторских режимов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "формированием мандатной системы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "подъемом национально – освободительной борьбы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Mодель социально-рыночного хозяйства в послевоенное время была разработана в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Италии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Великобритании",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Западной Германии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Франции",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Cобытие, произошедшее в период пребывания у власти в СССР Н.С. Хрущева",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "появилась первая атомная электростанция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "построена Байкало-Амурская магистраль",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "проведена отмена карточной системы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "был построен Семипалатинский полигон",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Oпределите верные характеристики восстания сипаев в Индии I. Восстание охватило преимущественно южные районы государства; II. Целью восстания было восстановление положения страны до колонизации; III. Поводом к восстанию стало пренебрежение религиозными традициями; IV. Результатом восстания стало усиление Ост-Индской компании.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, III, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "II, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Франция второй половины XVIII века характеризуется как",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "аграрное общество с феодальными отношениями",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "индустриальное общество с феодальными пережитками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "аграрно-индустриальное общество",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "традиционное общество",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "По итогам Крымской войны был подписан договор",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Московский",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Берлинский",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Венский",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Парижский",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Экономика Цинской империи в XIX веке была подорвана в результате",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "торгового соперничества с Японией",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "войны с Джунгарским ханством",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "опиумных войн",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "восстания тайпинов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Pасположите в хронологической последовательности события XIX в. в истории России 1. Восстание декабристов; 2. Отечественная война; 3. Убийство Александра II; 4. Отмена крепостного права.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2,1,4,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1,4,2,3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,2,3,4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2,4,1,3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и исторические знания, определите количество колоний Англии к середине XVIII в.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q86_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "17",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "14",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "13",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "11",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя карту и историчекие знания, определите президента, выкупившего у Наполеона Луизиану",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q87_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Томас Джефферсон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Джорж Монро",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Джорж Вашингтон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Авраам Линкольн",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите тип хозяйства, господствовавшего в южных штатах",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q88_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "рабовладельческое",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "социалистическое",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "капиталистическое",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "феодальное",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите президента, выступившего с посланием, о недопушении распространения монархической формы правления",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q89_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "А. Линкольн",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Т. Джефферсон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Дж. Монро",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Дж. Вашингтон",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя исторические знания, определите верное соответствие I. 1846 г.; II. 1819 г.; III. 1867 г.; IV. 1854 г. A. США купили у России Аляску; Б. Создана Республиканская партия; B. США присоединили себе большую часть Орегона; Г. США принудили Испанию уступить Флориду.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q90_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I-А; II-В; III-Г; IV-Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I-Б; II-А; III-Г; IV-В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I-В; II-Г; III-А; IV-Б",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I-Г; II-А; III-В; IV-Б",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "B середине XIX века европейские страны развернули борьбу за право владения рынком",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "латиноамериканским",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "североафриканским",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "карибским",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ближневосточным",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hа распад Империи Великих Моголов повлияли",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кастовые разногласия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "народные восстания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "социальные революции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вторжения китайских войск",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Политика «изоляционизма» в 30-е годы ХХ века характерна для внешнеполитического курса",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "США по отношению к европейским странам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Великобритании и Франции по отношению к Германии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Японии к государствам Корея и Китай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Советского Союза к странам Восточной Европы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Bыберите верные последствия глобализации I. быстрый экономический рост; II. низкий уровень жизни населения; III. неравенство в распределении богатств; IV. ликвидация вооружённых конфликтов.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Cаманта Смит, Екатерина Лычева стали первыми",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "организаторами «Красного Креста»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "представителями «детской дипломатии»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "деятелями женского профсоюзного движения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "представителями информационной индустрии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "K концу 1860 года в составе Сардинского королевства оказалась вся Италия, кроме",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Генуи",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Венеции",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Неаполя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Милана",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Государство инков было завоевано конкистадорами во главе с",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ф. Писсаро",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "М. Поло",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Э. Кортесом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Х. Колумбом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "В России окончательно утвердился абсолютизм при правлении",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Елизавета I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Петра I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Василия III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Ивана IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Hа XIV съезде ВКП(б) принято решение о проведении в СССР",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "новой экономической политики",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "военного коммунизма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коллективизации",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "индустриализации",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Программа по урегулированию выплаты репараций, предложенная Германии в 20-е годы ХХ века",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "доктрина Трумэна",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "план Маршалла",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "план Юнга",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "модель Эрхарда",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Pоль французской абсолютной монархии характеризуется как прогрессивная в развитии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "системы прямых и косвенных налогов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "капиталистических отношений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "административной системы провинций",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "единого национального государства",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Bысшим органом Российского государства после Февральской революции стало правительство",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Сибирское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Временное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Алашское",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Туркестанское",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Cын султана Османской империи XIX века Махмуда II, при котором вступил в действие Священный указ «Гюльханехатт-и-шериф»",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Мустафа Решид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Абдул Меджид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Абдул Хамид",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Намык Кемаль",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "B начале XX века США предложили своим партнерам в отношении Китая политику",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "«закрытых дверей»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "«кнута и пряника»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "«открытых дверей»",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "«большой дубинки»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Достижение стратегического паритета между СССР и США связано с",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "созданием атомного оружия СССР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "высадкой американских астронавтов на Луну",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "испытанием термоядерной бомбы СССР",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "разработкой новых конструкций самолетов США",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Tридцать первый президент США, возглавлявший страну в период великой депрессии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Ф. Рузвельт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Дж. Никсон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Г. Гувер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "А. Бриан",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Последнее сражение войны Алой и Белой Роз завершилось",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "при Креси",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "близ города Орлеан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "близ города Азенкур",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "под Босвортом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Британская империя признала независимость США по договору",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Трианонскому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Варшавскому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Нанкинскому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Версальскому",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Участники стихийных протестов против внедрения машин в ходе промышленного переворота в Англии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "луддиты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "диггеры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "джентри",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "половники",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Для подготовки военных кадров в Китае была создана офицерская школа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Хуанпу",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Синьхай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Учан",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Чжунго",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Характерные черты развития западных стран во второй половине ХХ века I. переход к неоконсерватизму; II. переход к сепаратизму; III. создание государства благосостояния; IV. создание авторитарного государства.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "III, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "II, III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I, IV",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I, III",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "B апреле 1917 года в Первую мировую войну вступила (-и)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Румыния",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Болгария",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Испания",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "США",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Единственный проконсул, командующий всеми римскими легионами, верховный жрец Римской державы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Гай Юлий Цезарь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Тиберий Гай",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Ромул Августул",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Октавиан Август",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Bо второй половине XIX века основа революционного движения России",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "декабристы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "марксисты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "народники",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "либералы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Декларация трех держав о совместных действиях в войне против фашистской Германии и послевоенном сотрудничестве была принята на конференции в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Вашингтоне",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Москве",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Тегеране",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Берлине",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя рисунок №1, определите пакт против Коммунистического интернационала, подписавшие Германия, Италия, Япония",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q116_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Пакт Молотова- Риббентропа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Антикоминтерновский пакт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Тройственный пакт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Мюнхенский пакт",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя контекст и исторические знания, определите годы Второй мировой войны",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q117_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1931-1944 гг.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1933-1943 гг.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1939-1945 гг.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1941-1945 гг.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя рисунок №2 и исторические знания, определите суть пакта Молотова- Риббентропа",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q118_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "советско-японский пакт о разделе Китая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "советско-финский пакт о ненападении",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "советско-польский пакт о нейтралитете",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "советско-германский пакт о ненападении",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя контекст, определите год нападения Германии на Польшу",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q119_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1939 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1938 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1941 г.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1944 г.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Используя рисунок №4 и исторические знания, определите причину конфликта СССР и Финляндии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Всемирная история/questions/q120_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "желание СССР отодвинуть северную границу дальше от Ленинграда и Мурманска",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "желание присоединить территории Ленинградской области Финляндии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "желание СССР захватить всю территорию Финляндии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "оккупация территории Норвегий Финляндией",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      }
+    }
+  }
+}

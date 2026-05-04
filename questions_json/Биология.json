@@ -1,0 +1,4609 @@
+{
+  "Биология": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Продукт(-ы),богатый(-е) витамином С",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "отруби",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рыба",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "бобы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "шиповник",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Процесс всасывания питательных веществ в основном происходит в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "желудке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пищеводе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "тонком кишечнике",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "железном пузыре",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Передвижение воды и минеральных веществ по растению осуществляется за счет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "корневого давления",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "лубяных волокон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нисходящего потока",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ситовидных трубок",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Bырабатывают антитела, обеспечивают гуморальный и клеточный иммунитет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "нейтрофилы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "моноциты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "лимфоциты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "базофилы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Приводит к учащению дыхания у человека гормон",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "паращитовидной железы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вилочковая железа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "надпочечников",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "поджелудочной железы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Инфекционные заболевания органов дыхания человека",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "корь и краснуха",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "энцефалит и полиомелит",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "бронхит и пневмония",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "холера и чума",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Процесс образования первичной мочи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пиноцитоз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "реабсорбция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фильтрация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фагоцитоз",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Mетод промывания брюшной полости через катетер диализирующим раствором",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гемодиализ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "инфузионная терапия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "перитонеальный диализ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гемоделюция",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Mакроскопическое строение кости",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "остеокласты и компактное вещество",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "остеоциты и компактное вещество",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "остеон и губчатое вещество",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "компактное и губчатое вещество",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Cпособ вегетативного размножения на рисунке",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q10_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "размножение клубнями",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "размножение прививкой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "размножение видоизмененными побегами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "размножение корневыми черенками",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Подготовка клетки к делению",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "интерфаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "метафаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "профаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "анафаза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "B гене зашифрована информация о молекуле",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "липида",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "белка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "углевода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мономера",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Биологический изолирующий фактор видообразования",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "селективное спаривание",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "изменение климата",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "изменение состава почвы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сезонные изменения",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Cвойство воды, позволяющее водомерке бегать по поверхности воды",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "теплопроводность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "теплоемкость воды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "максимальная плотность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "поверхностное натяжение",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Экологическая группа растений по требованию к условиям освещения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "холодостойкие",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "теневыносливые",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "засухоустойчивые",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "влаголюбивые",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Генетический метод основанный на окрашивании и микроскопировании хромосом",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "генеалогический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "цитогенетический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "биохимический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "иммуногенетический",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Bиды активного транспорта",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пиноцитоз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "осмос",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "обменная диффузия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "облегченная диффузия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Железа, гиперфункция гормонов которой является причиной заболевания у мужчины на рисунке",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q18_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "поджелудочная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гипофиз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "щитовидная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "надпочечники",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Mышечное волокно образовано сократительными элементами – саркомерами, состоящими из филаментов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "толстых актина и тонких - тропонина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "толстых - саркомеров и тонких - миозина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "толстых - актина и тонких - миозина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "толстых - миозина и тонких - актина",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Oплодотворение происходит в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "влагалище",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "фолликулах",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "маточных трубах",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "матке",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Фотосинтезирующую функцию выполняют",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "стебли травянистых растений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "цветки и плоды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "молодые корни",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "корнеплоды",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Tип транспорта, при котором в переносе веществ через мембрану участвует транслоказа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "облегченная диффузия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "фагоцитоз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "экзоцитоз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "протонная помпа",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Mолекула, полученная в результате объеденения фрагментов чужеродных ДНК",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "транскрипционная ДНК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "полимеразная ДНК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "репликационная ДНК",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "рекомбинантная ДНК",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "K моносахаридам относятся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "глюкоза, лактоза, крахмал",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рибоза, фруктоза, глюкоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гликоген, хитин, сахароза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "фруктоза, крахмал, целлюлоза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "У кур наследование цвета оперения зависит от присутствия в генотипе гена супрессора (J), который подавляет цветность генов второй пары (C и с). В отсутствии гена J окраска проявляется (jj). При скрещивании двух кур белой окраски с генотипом СсJj, в потомстве гибридов наблюдается расщепление по фенотипу",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12/16 цветные, 4/16 - белые",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "13/16 - цветные, 3/16 - белые",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "13/16 - белые, 3/16 - цветные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "12/16 белые, 4/16 - цветные",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Метод хроматографии Pазделение пигментов по цветам ученый Михаил Цвет сравнивал с разделением солнечного луча в радуге. Полученный таким образом препарат он назвал хроматограммой, а предлагаемую методику — хроматографической, изящно зашифровав в названии собственную фамилию. В хроматографической колонке смесь веществ движется в подвижной фазе (жидкой или газовой) через неподвижную фазу (твердую или жидкую). Молекулы, подобно спортсменам-велогонщикам, одновременно начинают движение от стартовой линии (то есть на входе в хроматографическую колонку) до линии финиша. Когда растворитель поднимается по бумаге, то пигменты разделяются. Оказалось, что листья высших растений содержат хлорофилл a, хлорофилл b, а также каротиноиды (каротин, ксантофилл) – жёлтые и оранжевые пигменты, алифатического строения, производных изопрена. Метод имеет большое практическое значение при изучении растительных пигментов и глубины проникновения света в толще воды. Хроматографический метод основан на",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q26_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "получении большого количества хлорофилла",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "получении органических веществ из листа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выделении фитола и метилового спирта",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "выделении пигментов листа в чистом виде",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Метод хроматографии Pазделение пигментов по цветам ученый Михаил Цвет сравнивал с разделением солнечного луча в радуге. Полученный таким образом препарат он назвал хроматограммой, а предлагаемую методику — хроматографической, изящно зашифровав в названии собственную фамилию. В хроматографической колонке смесь веществ движется в подвижной фазе (жидкой или газовой) через неподвижную фазу (твердую или жидкую). Молекулы, подобно спортсменам-велогонщикам, одновременно начинают движение от стартовой линии (то есть на входе в хроматографическую колонку) до линии финиша. Когда растворитель поднимается по бумаге, то пигменты разделяются. Оказалось, что листья высших растений содержат хлорофилл a, хлорофилл b, а также каротиноиды (каротин, ксантофилл) – жёлтые и оранжевые пигменты, алифатического строения, производных изопрена. Метод имеет большое практическое значение при изучении растительных пигментов и глубины проникновения света в толще воды. Желтые и оранжевые пигменты растений",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q27_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гемоглобины",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "фикобилины",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "каротиноиды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хлорофиллы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Метод хроматографии Pазделение пигментов по цветам ученый Михаил Цвет сравнивал с разделением солнечного луча в радуге. Полученный таким образом препарат он назвал хроматограммой, а предлагаемую методику — хроматографической, изящно зашифровав в названии собственную фамилию. В хроматографической колонке смесь веществ движется в подвижной фазе (жидкой или газовой) через неподвижную фазу (твердую или жидкую). Молекулы, подобно спортсменам-велогонщикам, одновременно начинают движение от стартовой линии (то есть на входе в хроматографическую колонку) до линии финиша. Когда растворитель поднимается по бумаге, то пигменты разделяются. Оказалось, что листья высших растений содержат хлорофилл a, хлорофилл b, а также каротиноиды (каротин, ксантофилл) – жёлтые и оранжевые пигменты, алифатического строения, производных изопрена. Метод имеет большое практическое значение при изучении растительных пигментов и глубины проникновения света в толще воды. У всех высших растений, в отличие от прокариот, содержится",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q28_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "хлорофиллы c, d, e",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "хлорофилл e",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "хлорофилл d",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хлорофиллы a, b",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Метод хроматографии Pазделение пигментов по цветам ученый Михаил Цвет сравнивал с разделением солнечного луча в радуге. Полученный таким образом препарат он назвал хроматограммой, а предлагаемую методику — хроматографической, изящно зашифровав в названии собственную фамилию. В хроматографической колонке смесь веществ движется в подвижной фазе (жидкой или газовой) через неподвижную фазу (твердую или жидкую). Молекулы, подобно спортсменам-велогонщикам, одновременно начинают движение от стартовой линии (то есть на входе в хроматографическую колонку) до линии финиша. Когда растворитель поднимается по бумаге, то пигменты разделяются. Оказалось, что листья высших растений содержат хлорофилл a, хлорофилл b, а также каротиноиды (каротин, ксантофилл) – жёлтые и оранжевые пигменты, алифатического строения, производных изопрена. Метод имеет большое практическое значение при изучении растительных пигментов и глубины проникновения света в толще воды. Перемещение (разделение) смеси веществ, содержащих растительные пигменты, происходит в",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q29_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "колбе Мюллера и Юри",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "разделительной воронке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ультрацентрифуге",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хроматографической колонке",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Метод хроматографии Pазделение пигментов по цветам ученый Михаил Цвет сравнивал с разделением солнечного луча в радуге. Полученный таким образом препарат он назвал хроматограммой, а предлагаемую методику — хроматографической, изящно зашифровав в названии собственную фамилию. В хроматографической колонке смесь веществ движется в подвижной фазе (жидкой или газовой) через неподвижную фазу (твердую или жидкую). Молекулы, подобно спортсменам-велогонщикам, одновременно начинают движение от стартовой линии (то есть на входе в хроматографическую колонку) до линии финиша. Когда растворитель поднимается по бумаге, то пигменты разделяются. Оказалось, что листья высших растений содержат хлорофилл a, хлорофилл b, а также каротиноиды (каротин, ксантофилл) – жёлтые и оранжевые пигменты, алифатического строения, производных изопрена. Метод имеет большое практическое значение при изучении растительных пигментов и глубины проникновения света в толще воды. Порядок распределения пигментов на хроматографической бумаге",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q30_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "хлорофилл b - хлорофилл а – ксантофилл - каротин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "каротин - хлорофилл b - хлорофилл а – ксантофилл",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ксантофилл - хлорофилл b - хлорофилл а –каротин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хлорофилл а - каротин - хлорофилл b - ксантофилл",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Продукты аэробного этапа дыхания",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "39 АТФ, 6СО2, 6Н2О",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2 АТФ, 2С3Н6О3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "36 АТФ, 2С2Н6О3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "36 АТФ, 6СО2, 6Н2О",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Зубы заострённой формы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "большие коренные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "малые коренные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "клыки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "резцы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Большой родничок расположен между костями черепа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "затылочной и теменной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "височной и затылочной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "теменной и височной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "теменной и лобной",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Гормон, повышающий уровень глюкозы в крови",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "тироксин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "инсулин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "глюкагон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "адреналин",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "B составе мышечных волокон собственно сократительным аппаратом мышц является (-ются)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "актин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "миозин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "миофибриллы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сарколемма",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Cкопления тончайших канальцев во внутреннем слое почек",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пирамидки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "клубочек",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "капсула",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "лоханка",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Tерминируют трансляцию биосинтеза белка стоп-кодоны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "УГА, АГА, АЦТ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "УАА, УАГ, УГА",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "УАА, АУА, ГГТ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ААТ, УАА, УГГ",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "У человека карие глаза и темные волосы – доминантные признаки, голубые глаза и светлые волосы рецессивные. Потомство F1 от брака двух дигетерозиготных родителей",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "9/16 голубоглазых светловолосых, 3/16 кареглазых светловолосых, 3/16 голубоглазых темноволосых, 1/16 кареглазых темноволосых",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4/16 кареглазых темноволосых, 4/16 кареглазых светловолосых, 4/16 голубоглазых темноволосых, 4/16 голубоглазых светловолосых",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "9/16 кареглазых темноволосых, 3/16 кареглазых светловолосых, 3/16 голубоглазых темноволосых, 1/16 голубоглазых светловолосых",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "8/16 кареглазых темноволосых, 8/16 голубоглазых светловолосых",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Oсновной современный критерий для описания вида",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "морфологический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "экологический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "генетический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "физиологический",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Биотический фактор",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "действие света",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "изменение рельефа местности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "влияние температуры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "взаимодействие организмов между собой",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Cамые простые суставы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "трёхосные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "двуосные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "одноосные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "многоосные",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Большой и малый круги кровобращения впервые формируются у",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пресмыкающихся",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "земноводных",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "млекопитающих",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "моллюсков",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Причина наследования гемофилии сыновьями – признак передается от",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "отца к сыну через Y-хромосому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "матери к сыну через Х-хромосому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "отца к сыну через Х-хромосому",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "матери к сыну через Y-хромосому",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "У кур простой гребень доминирует над розовидным. Потомство по фенотипу при скрещивании двух гетерозигот по виду гребня",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50 % с простым и 50 % с розовидным",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "25 % с розовидным и 75 % с простым",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "75 % с розовидным и 25% с простым",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "25 % с простым и 50% с розовидным",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Использует ресурсы своего хозяина для размножения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "инфузория туфелька",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "эвглена зеленая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "дрожжевой гриб",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вирус гепатита",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Oсновной фермент слюны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "трипсин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "амилаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "химозин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "липаза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oсновной компонент клеточной стенки грибов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "дезоксирибоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "целлюлоза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "крахмал",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "хитин",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "B живой клетке нейрона при прохождении ионов мембранный потенциал составляет, мВ",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "120",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "100",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "70",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Гуморальная функция крови",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "регулирует температуру тела",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "переносит кислород от легких к тканям",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "регулирует уровень воды в клетках",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "переносит гормоны",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Aуксин вызывает у растений",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пожелтение и опадание листьев растений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "созревание плодов и семян растений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "переход растения в состояние покоя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вытягивание клеток верхушечных меристем",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Pезультат многоступенчатого процесса гликолиза",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "шесть молекул воды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "шесть молекул углекислого газа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "две молекулы фруктозы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "две молекулы пировиноградной кислоты",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Oтдел позвоночника, где находится центр мочеиспускательного рефлекса",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "поясничный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "копчиковый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "грудной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "крестцовый",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Bещества, поступающие в клетку по градиенту концентрации через клеточную мембрану",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кислород, вода",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вода, ионы кальция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ионы натрия и калия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "крупные молекулы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Kариокинез завершается в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "метафазе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "анафазе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "профазе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "телофазе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Oпределите правильную последовательность фаз митоза на рисунке",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q55_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6-1-4-2-3-7-5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "7-3-4-2-6-1-5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1-2-3-4-5-6-7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "7-4-5-2-6-3-1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Живые самолеты Скелет птиц предельно упрощён и образован лёгкими, но прочными костями. Прочность достигается высоким содержанием минеральных солей, наивысшим среди позвоночных. Некоторые отделы скелета приобрели высокую прочность и жёсткость из-за слияния костей и устранения швов. В частности, произошло слияние многих позвонков, отсутствуют швы между костями черепа. Орнитолог Леонид Михайлович Шульпин отметил, что окостенение у птиц происходит по поверхности хряща, а не внутри, как у млекопитающих. Общая масса скелета птиц составляет 8—18 % от массы тела. Доля массы скелета в массе тела не меньше, чем у других наземных позвоночных. Изучение аэродинамики птиц стимулировало изобретение летательных аппаратов и в известной степени прогресс авиации. Ученые и конструкторы получили от птиц много полезных аналогий, использованных далее в практике авиаконструкции. Oсобенности структуры костей птиц, как у шоколада на рисунке, связанные с полетом",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q56_0.png",
+          "media/Биология/questions/q56_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "хорошо развито компактное вещество трубчатых костей,что придает прочность костям",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "пара передних конечностей видоизменена в крылья, задние предназначены для ходьбы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "воздушные мешки, что создает возможность газообмена как на вдохе,так и на выдохе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "воздушные полости костей скелета заполненые воздухом, что облегчает массу птиц",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Живые самолеты Скелет птиц предельно упрощён и образован лёгкими, но прочными костями. Прочность достигается высоким содержанием минеральных солей, наивысшим среди позвоночных. Некоторые отделы скелета приобрели высокую прочность и жёсткость из-за слияния костей и устранения швов. В частности, произошло слияние многих позвонков, отсутствуют швы между костями черепа. Орнитолог Леонид Михайлович Шульпин отметил, что окостенение у птиц происходит по поверхности хряща, а не внутри, как у млекопитающих. Общая масса скелета птиц составляет 8—18 % от массы тела. Доля массы скелета в массе тела не меньше, чем у других наземных позвоночных. Изучение аэродинамики птиц стимулировало изобретение летательных аппаратов и в известной степени прогресс авиации. Ученые и конструкторы получили от птиц много полезных аналогий, использованных далее в практике авиаконструкции. Приспособление(-я) птиц к полету, использованно(-ые) в процессе создания модели самолета",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q57_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "дифференциация перьевого покрова с водоотталкивающей смазкой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "редуцирование левого и функционирование правого яичника у самок",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "трансформация крыла с дополнительной аэродиамической плоскостью",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "отсутствие мочевого пузыря в выделительной системе",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Живые самолеты Скелет птиц предельно упрощён и образован лёгкими, но прочными костями. Прочность достигается высоким содержанием минеральных солей, наивысшим среди позвоночных. Некоторые отделы скелета приобрели высокую прочность и жёсткость из-за слияния костей и устранения швов. В частности, произошло слияние многих позвонков, отсутствуют швы между костями черепа. Орнитолог Леонид Михайлович Шульпин отметил, что окостенение у птиц происходит по поверхности хряща, а не внутри, как у млекопитающих. Общая масса скелета птиц составляет 8—18 % от массы тела. Доля массы скелета в массе тела не меньше, чем у других наземных позвоночных. Изучение аэродинамики птиц стимулировало изобретение летательных аппаратов и в известной степени прогресс авиации. Ученые и конструкторы получили от птиц много полезных аналогий, использованных далее в практике авиаконструкции. B строении задних конечностей птиц есть особенность приспособления к приземлению, речь идет",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q58_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "об образовании летательной поверхности для полета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "о рулевых перьях, регулирующих скорость при посадке",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "об образовании цевки, облегчающей приземление птиц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "о маховых крыльях, облегчающих приземление птиц",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Живые самолеты Скелет птиц предельно упрощён и образован лёгкими, но прочными костями. Прочность достигается высоким содержанием минеральных солей, наивысшим среди позвоночных. Некоторые отделы скелета приобрели высокую прочность и жёсткость из-за слияния костей и устранения швов. В частности, произошло слияние многих позвонков, отсутствуют швы между костями черепа. Орнитолог Леонид Михайлович Шульпин отметил, что окостенение у птиц происходит по поверхности хряща, а не внутри, как у млекопитающих. Общая масса скелета птиц составляет 8—18 % от массы тела. Доля массы скелета в массе тела не меньше, чем у других наземных позвоночных. Изучение аэродинамики птиц стимулировало изобретение летательных аппаратов и в известной степени прогресс авиации. Ученые и конструкторы получили от птиц много полезных аналогий, использованных далее в практике авиаконструкции. Kонструкция самолета, аналогичная части тела у птиц, как приспособление для взлета и приземления",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "форма салона внутри самолета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "наличие грузовых отсеков в задней части самолета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "обтекаемая передняя часть самолета, шипина, длина и масса самолета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "убирающиеся шасси при полете и опускающиеся при посадке, смягчая удары о землю",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Живые самолеты Скелет птиц предельно упрощён и образован лёгкими, но прочными костями. Прочность достигается высоким содержанием минеральных солей, наивысшим среди позвоночных. Некоторые отделы скелета приобрели высокую прочность и жёсткость из-за слияния костей и устранения швов. В частности, произошло слияние многих позвонков, отсутствуют швы между костями черепа. Орнитолог Леонид Михайлович Шульпин отметил, что окостенение у птиц происходит по поверхности хряща, а не внутри, как у млекопитающих. Общая масса скелета птиц составляет 8—18 % от массы тела. Доля массы скелета в массе тела не меньше, чем у других наземных позвоночных. Изучение аэродинамики птиц стимулировало изобретение летательных аппаратов и в известной степени прогресс авиации. Ученые и конструкторы получили от птиц много полезных аналогий, использованных далее в практике авиаконструкции. Cрастание костей скелета, создающее дополнительную плоскость и прочность, облегчающее амортизацию внутренних органов при приземлении",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q60_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сросшиеся кости мозгового, лицевого отдела черепа и наличие больших глазниц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сросшиеся кости запястья,пясти,фалангов пальцев передних конечностей и видоизменение их в крыло",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "сросшиеся кости шейного отдела позвоночника и отсутствие зубов на роговом клюве",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сросшиеся последние грудные,поясничные, крестцовые позвонки с тазовыми костями,образующие сложный крестец",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Хемосинтез характерен для",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "животных",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "растений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "грибов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "бактерий",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Oтдел пищеварительной системы дождевого червя, имеющий складку",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ротовая полость",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "желудок",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "глотка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "пищевод",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Повышает транспирацию у растений",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "высокая влажность воздуха",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "малое количество устьиц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "наличие воскового налёта",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "большая площадь листовой пластинки",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Передвижение воды и минеральных веществ по растению осуществляется за счет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ситовидных трубок",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "корневого давления",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "лубяных волокон",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "нисходящего потока",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "K анаэробам относятся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "лишайники",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "растения",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "насекомые",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "дрожжи",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "У растений наиболее интенсивное дыхание наблюдается в тканях",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "находящихся в состоянии активного роста",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "находящихся в состоянии гутации и покоя",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "запасающих органические вещества",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "проводящих воду и минеральные вещества",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Cредний слой кожи",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "роговой слой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "базальный слой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "эпидермис",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "дерма",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Продукт выделения пресмыкающихся",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "мочевая кислота",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гуанин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мочевина",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "аммиак",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Mышцы, прикрепляющиеся одним концом к костям скелета черепа, а другим к коже",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "внутренние",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "разгибатели",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мимические",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сгибатели",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Гормон прогестерон",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "выделяется андрогенами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "выделяет семенные пузырьки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выделяется желтым телом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "созревают сперматозоиды",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Hа рисунке изображена",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q71_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "анафаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "метафаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "профаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "телофаза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Изменения у человека и животных, определяемые условиями внешней среды",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ненаследственные",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "генетические",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "генотипические",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "наследственные",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Функции зрительных рецепторов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "обеспечивают аккомодацию глаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "преобразуют квант света в нервный импульс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "восприятия слуха",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "работают только от механического воздействия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Значение кальция для организма",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "стимулирует дыхание и фотосинтез",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "участвует в свертывании крови",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "способствует морозоустойчивости",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "входит в состав белков",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Пример первичной сукцессии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "заброшенное поле",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "зарастание водоёма",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "восстановление леса после пожара",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вулканический остров",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Kратное увеличение числа хромосом у особей в результате направленного мутагенеза",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гетерозис",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гибридизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "полиплоидия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "анеуплоидия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Этап энергетического обмена, при котором происходит разложение веществ полимеров на мономеры",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кислородный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "преднулевой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "бескислородный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "подготовительный",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Первичные посредники, участвующие при передаче гормонального сигнала через мембранные рецепторы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гормоны, циклический АМФ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Са2+, диацилглицерол",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "оксид азота II, АТФ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гормоны, цитокины",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Из-за коротких или отсутствующих конечностей в движении пресмыкающихся активно участвует (-ют)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "шея",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "лапы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "хвост",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "голова",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Форма размножения, представленная на рисунке",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q80_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "прививка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "партеногенез",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "фрагментация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "почкование",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Kаркас, матрикс и инкрустирующие вещества- это компоненты",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "цитоплазматической мембраны",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "клеточной стенки грибов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "клеточной стенки растений",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мембраны митохондрий",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Kольцевые вырезки коры у деревьев замедляют рост ствола ниже кольца, это доказательство того, что",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "минеральные вещества передвигаются по коре вниз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "органические вещества передвигаются по ксилеме",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "органические вещества передвигаются по флоэме",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "вода передвигается по флоэме к корням",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Mетод ПЦР в криминалистике основан на",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "клонировании, т.е. генетическом копировании животных, растений и микроорганизмов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "создании праймера ПЦР, соответствующего патогену и сравнение его с исследуемым образцом",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "процессах транскрипции и трансляции биосинтеза белка, используемых в жизнедеятельности клеток",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "расщеплении ДНК на фрагменты с последующей амплификацией и сравнением с образцом генетического материала",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "B зависимости от числа атомов углерода в молекуле среди моносахаридов различают",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "ксилозы, гексозы, фруктозы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "тетрозы, пентозы, гексозы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "триозы, пентозы, мальтозы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мальтозы, рибозы, триозы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Kоличество гамет у особи с генотипом АаВв в результате кроссинговера",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Mаленькие железки большого значения Человек может жить с одним легким, с одной почкой, без желудка, но может погибнуть, если удалить маленькие паращитовидные железы или надпочечники. Всего желез внутренней секреции около десятка и их суммарная масса, у человека составляет около 100 граммов. Уровень сахара в крови контролирует поджелудочная железа. Она выделяет гормон - инсулин. Недостаточное выделение инсулина приводит к заболеванию сахарным диабетом. Организм теряет способность усваивать сахар, накапливается в крови и выводится почками. Часто наблюдается потеря веса. У диабетиков белки расщепляются не полностью, промежуточные продукты токсичны и вызывают самоотравление организма. Tак, нарушение функционирования поджелудочной железы приводит к глубоким сдвигам в обмене веществ. Для лечения больному устанавливают определенную диету и предписывают инъекции инсулина. Он тормозит выделение сахара печенью и улучшает его усвоение клетками всего организма. Поджелудочная железа относится к железам секреции",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "внешней",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "внутренней",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "экзокринной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "смешанной",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Mаленькие железки большого значения Человек может жить с одним легким, с одной почкой, без желудка, но может погибнуть, если удалить маленькие паращитовидные железы или надпочечники. Всего желез внутренней секреции около десятка и их суммарная масса, у человека составляет около 100 граммов. Уровень сахара в крови контролирует поджелудочная железа. Она выделяет гормон - инсулин. Недостаточное выделение инсулина приводит к заболеванию сахарным диабетом. Организм теряет способность усваивать сахар, накапливается в крови и выводится почками. Часто наблюдается потеря веса. У диабетиков белки расщепляются не полностью, промежуточные продукты токсичны и вызывают самоотравление организма. Tак, нарушение функционирования поджелудочной железы приводит к глубоким сдвигам в обмене веществ. Для лечения больному устанавливают определенную диету и предписывают инъекции инсулина. Он тормозит выделение сахара печенью и улучшает его усвоение клетками всего организма. Избыток глюкозы при сахарном диабете выводится с",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "тканевой жидкостью",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "кровью",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "плазмой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мочой",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Mаленькие железки большого значения Человек может жить с одним легким, с одной почкой, без желудка, но может погибнуть, если удалить маленькие паращитовидные железы или надпочечники. Всего желез внутренней секреции около десятка и их суммарная масса, у человека составляет около 100 граммов. Уровень сахара в крови контролирует поджелудочная железа. Она выделяет гормон - инсулин. Недостаточное выделение инсулина приводит к заболеванию сахарным диабетом. Организм теряет способность усваивать сахар, накапливается в крови и выводится почками. Часто наблюдается потеря веса. У диабетиков белки расщепляются не полностью, промежуточные продукты токсичны и вызывают самоотравление организма. Tак, нарушение функционирования поджелудочной железы приводит к глубоким сдвигам в обмене веществ. Для лечения больному устанавливают определенную диету и предписывают инъекции инсулина. Он тормозит выделение сахара печенью и улучшает его усвоение клетками всего организма. Hаибольшую угрозу для организма при сахарном диабете представляют",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "углеводы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "нуклеиновые кислоты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "жиры",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "белки",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Mаленькие железки большого значения Человек может жить с одним легким, с одной почкой, без желудка, но может погибнуть, если удалить маленькие паращитовидные железы или надпочечники. Всего желез внутренней секреции около десятка и их суммарная масса, у человека составляет около 100 граммов. Уровень сахара в крови контролирует поджелудочная железа. Она выделяет гормон - инсулин. Недостаточное выделение инсулина приводит к заболеванию сахарным диабетом. Организм теряет способность усваивать сахар, накапливается в крови и выводится почками. Часто наблюдается потеря веса. У диабетиков белки расщепляются не полностью, промежуточные продукты токсичны и вызывают самоотравление организма. Tак, нарушение функционирования поджелудочной железы приводит к глубоким сдвигам в обмене веществ. Для лечения больному устанавливают определенную диету и предписывают инъекции инсулина. Он тормозит выделение сахара печенью и улучшает его усвоение клетками всего организма. Железы смешанной секреции",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "выделяют гормоны в кровь, а соки в протоки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "выделяют соки в кровь, а гормоны в протоки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "не имеют протоков, и выделяют вещества прямо в кровь",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "выделяют секреты в органы, или на поверхность тела",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Mаленькие железки большого значения Человек может жить с одним легким, с одной почкой, без желудка, но может погибнуть, если удалить маленькие паращитовидные железы или надпочечники. Всего желез внутренней секреции около десятка и их суммарная масса, у человека составляет около 100 граммов. Уровень сахара в крови контролирует поджелудочная железа. Она выделяет гормон - инсулин. Недостаточное выделение инсулина приводит к заболеванию сахарным диабетом. Организм теряет способность усваивать сахар, накапливается в крови и выводится почками. Часто наблюдается потеря веса. У диабетиков белки расщепляются не полностью, промежуточные продукты токсичны и вызывают самоотравление организма. Tак, нарушение функционирования поджелудочной железы приводит к глубоким сдвигам в обмене веществ. Для лечения больному устанавливают определенную диету и предписывают инъекции инсулина. Он тормозит выделение сахара печенью и улучшает его усвоение клетками всего организма. Hа графике представлена кривая изменения концентрации глюкозы в крови человека, больного сахарным диабетом. Cоотнесите",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q90_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "B-съел печенье, C- уколол инсулин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "А-съел печенье, C- уколол инсулин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "А-уколол инсулин, B-съел печенье",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "A-уколол инсулин, D-съел печенье",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Фермент, расщепляющий белки",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "пепсин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "амилаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мальтаза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "липаза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Oсновная функция хлоропластов",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "биосинтез белков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "деление клетки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "биосинтез жиров",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "преобразование световой энергии",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Процесс испарения воды листьями",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "терминация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "транспирация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "транскрипция",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "транслокация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Oтфильтровывает (-ют) вредные вещества, уничтожает (-ют) чужеродные частицы",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "потовые железы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "тканевая жидкость",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "лимфа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "желчь",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "При отщеплении одного остатка фосфорной кислоты из молекулы АТФ выделяется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "АДФ и 61,2 кДж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "АДФ и 30,6 кДж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "АМФ и 61,2 кДж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "АМФ и 30,6 кДж",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "B процессе анаэробного дыхания образуется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 молекулы АТФ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4 молекулы глюкозы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "38 молекул АТФ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2 молекулы крахмала",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Oдноклеточные животные, осуществляют выделение через",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "выделительный канал",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "сократительные вакуоли",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мальпигиевые сосуды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "зеленые железы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Bыделительная система кольчатых червей представлена",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "бобовидными почками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "зелёными железами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выделительными трубочками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "мальпигиевыми сосудами",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Болезненное состояние при малоподвижности мышц",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гипокинезия",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "гипотония",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гиперактивность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гипертония",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Гормон прогестерон",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "созревают сперматозоиды",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "выделяется андрогенами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "выделяет семенные пузырьки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "выделяется желтым телом",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Cосуды древесины и ситовидные клетки луба - это ткань",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "выделительная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "покровная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "механическая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "проводящая",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Hе играет роли в эволюции и не передается следующим поколениям изменчивость",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "мутационная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "наследственая",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "модификационная",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "комбинативная",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Cходство во внешнем и внутреннем строении описывает критерий",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "экологический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "физиологический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "генетический",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "морфологический",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Kоллаген, гемоглобин, актин являются",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "углеводами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "белками",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "нуклеотидами",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "жирами",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Oрганизмы первого трофического уровня в цепях питания",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "потребители",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "редуценты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "продуценты",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "разрушители",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Эффект кодоминирования проявляется в группе крови",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "III",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "II",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "IV",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Болезнь сердечно-сосудистой системы, возникающая из-за нарушений жирового обмена веществ",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гемофилия, инсульт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "тахикардия, тромбоз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "атеросклероз, инфаркт миокарда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гипотония, гипертензия",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "B состав холинорецепторов входят",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "норадреналин, холин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "никотин, мускарин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ацетилхолин, адреналин",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "адреналин, норадреналин",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Прибор для изучения электрической активности клеток мозга",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "электрокардиограмм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "магнитно-резонансный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "электроэнцефалограф",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "спирограф",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Mужские шишки сосны",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "бурые, находятся на кончиках молодых веточек",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "зеленовото-желтые, находятся близ основания веточек",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "одревесиневшие, разбросаны по всей длине веточек",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "красноватые, находятся на кончиках молодых веточек",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Первичное расщепление клетчатки у жвачных животных происходит в отделе",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "сетка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рубец",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "книжка",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "сычуг",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Белки эритроцитов, определяющие группу крови",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "агглютиногены",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "альбумины",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "агглютинины",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "глобулины",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Bозбудитель амебной дизентерии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "размножается под кожей,образуя язвы при прорыве на поверхность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "образует мелкие пузырьки на коже и слизистой оболочке носа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "поражает глотку,дыхательные пути и слизистую оболочку глаз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "проникая в капилляры фагоцитирует клетки крови",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Kоагулирующие антитела по характеру воздействия на антиген",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "вызывают растворение антигена",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "лишают антиген токсичности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "вызывают растворение антител",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "облегчают фагоцитоз",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "При анализирующем скрещивании особь с неизвестным генотипом скрещивают с",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "рецессивной гетерозиготой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "доминантной гетерозиготой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "рецессивной гомозиготой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "доминантной гомозиготой",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Гиподинамия Гиподинамия – это следствие снижения физической активности и нарушения образа жизни, весьма распространенное в современном мире, в связи с урбанизацией и автоматизацией человеческой деятельности. Это патологическое состояние не является заболеванием и не имеет кодировки в МКБ-10, но оно служит фактором риска для развития множества других патологий. Причинами гиподинамии чаще всего является неправильная организация режима труда и отдыха, преимущественно сидячая или стоячая работа, малоподвижный образ жизни. B современном обществе причинами ожирения, нетренерованности сердца и сосудов являются",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q116_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "возбуждение нервной системы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "повседневные физические нагрузки",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "активность обмена веществ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "снижение мышечной активности",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Гиподинамия Гиподинамия – это следствие снижения физической активности и нарушения образа жизни, весьма распространенное в современном мире, в связи с урбанизацией и автоматизацией человеческой деятельности. Это патологическое состояние не является заболеванием и не имеет кодировки в МКБ-10, но оно служит фактором риска для развития множества других патологий. Причинами гиподинамии чаще всего является неправильная организация режима труда и отдыха, преимущественно сидячая или стоячая работа, малоподвижный образ жизни. Долгая работа за компьютером с использованием компьютерной мыши приводит к паталогии кисти - синдрому",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q117_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "тунельному",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Эдвардса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Патау",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Клайнфельтера",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Гиподинамия Гиподинамия – это следствие снижения физической активности и нарушения образа жизни, весьма распространенное в современном мире, в связи с урбанизацией и автоматизацией человеческой деятельности. Это патологическое состояние не является заболеванием и не имеет кодировки в МКБ-10, но оно служит фактором риска для развития множества других патологий. Причинами гиподинамии чаще всего является неправильная организация режима труда и отдыха, преимущественно сидячая или стоячая работа, малоподвижный образ жизни. Длительное нахождение в вынужденном положении (стоя, сидя) у детей и взрослых приводят к",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q118_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "остеохондрозам, радикулитам, сколиозам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "остеопорозам, акромегалии, сколиозам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "гипертонии, гипотонии, гиперкинезии",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "гиперфункции и гипофункции желез",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Гиподинамия Гиподинамия – это следствие снижения физической активности и нарушения образа жизни, весьма распространенное в современном мире, в связи с урбанизацией и автоматизацией человеческой деятельности. Это патологическое состояние не является заболеванием и не имеет кодировки в МКБ-10, но оно служит фактором риска для развития множества других патологий. Причинами гиподинамии чаще всего является неправильная организация режима труда и отдыха, преимущественно сидячая или стоячая работа, малоподвижный образ жизни. Использование с раннего возраста современных гаджетов (телефонов, планшетов, ноутбуков и д.р.) вызывает у детей",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q119_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "улучшение зрения, усиление иммунитета",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "повышение физической активности",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "деменцию, усиление обмена веществ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "расстройство нервной системы, раннее ожирение",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Гиподинамия Гиподинамия – это следствие снижения физической активности и нарушения образа жизни, весьма распространенное в современном мире, в связи с урбанизацией и автоматизацией человеческой деятельности. Это патологическое состояние не является заболеванием и не имеет кодировки в МКБ-10, но оно служит фактором риска для развития множества других патологий. Причинами гиподинамии чаще всего является неправильная организация режима труда и отдыха, преимущественно сидячая или стоячая работа, малоподвижный образ жизни. B традициях казахского народа есть подвижные игры и танцы, способствующие профилактике заболеваний суставов ОДС",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Биология/questions/q120_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "асык, тусаукесер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "тогыз кумалак, тусаукесер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "кыз куу, кыз узату",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "каражорга, камажай",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      }
+    }
+  }
+}

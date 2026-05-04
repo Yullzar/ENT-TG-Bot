@@ -1,0 +1,5141 @@
+{
+  "Физика": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Пружину жесткостью k и длиной L разрезали на две равные части. Жесткость каждого куска пружины",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "k",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3k",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2k",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2k/3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hа стройке Марату необходимо приподнять железобетонную плиту. Клин дающий ему наибольший выигрыш в силе",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q2_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "№ 5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "№ 1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "№ 2 и № 5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "№ 3 и № 1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Пар массой 5 кг, отбирая тепло, конденсируют, полученную воду и охлаждают (см. график). Количество теплоты, выделяющееся при конденсации, по сравнению с количеством теплоты, выделяющимся при охлаждении воды",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q3_0.png",
+          "media/Физика/questions/q3_1.png",
+          "media/Физика/questions/q3_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в 5 раз меньше",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в 10,7 раза больше",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в 5 раз больше",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в 10,7 раза меньше",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Давление идеального газа, находящегося в закрытом сосуде при начальной температуре, увеличилось в 2,5 раза. Конечная температура газа",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q4_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q4_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q4_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q4_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q4_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "B результате электризации на нейтральное тело перешло 200 электронов, вследствие чего заряд тела стал равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q5_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q5_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q5_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q5_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q5_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Электрон движется по горизонтали и влетает между заряженнными пластинами. Рисунок который показывает правильную траекторию электрона и поле между пластинами",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q6_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "C",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "D",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "B",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "A",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Дифракционная решетка, период которой равен , освещается монохроматическим светом с длиной волны 500 нм. Максимальное количество максимумов, которые можно увидеть на экране, равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q7_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "11",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Под действием силы 4 Н пружина удлинилась на 0,02 м. Жесткость пружины",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "200 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "500 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,5 Н/м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Число атомов радиоактивного элемента уменьшилось в 4 раза за 8 дней. Период полураспада равен",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4 дня",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "32 дня",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "8 дней",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2 дня",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Oбщее сопротивление электрической цепи, изображенной на рисунке, между точками a и b",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q10_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "7R/3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5R/7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3R/2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2R/3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Дальнозоркий человек видит четко предметы, расположенные не ближе 2 м от него. Чтобы читать газету, держа ее на расстоянии 25 см от глаз, он нуждается, в очках с линзами",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "рассеивающими, с оптической силой 2 дптр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "рассеивающими, с оптической силой 3,5 дптр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "собирающими, с оптической силой 3,5 дптр",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "собирающими, с оптической силой 2 дптр",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Hезатухающие колебания струны происходят с частотой 5 Гц. Амплитуда колебаний некоторой точки струны 1 мм. Путь этой точки за время 5 с",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "10 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,1 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1000 мм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10 мм",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Eсли масса движущегося с релятивистской скоростью электрона равна , то его кинетическая энергия (масса покоя электрона , )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q13_0.png",
+          "media/Физика/questions/q13_1.png",
+          "media/Физика/questions/q13_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q13_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q13_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q13_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q13_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Давление идеального газа с начальной температурой 420 К изохорно увеличилось в 1,75 раз. Конечная температура газа",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q14_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q14_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q14_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q14_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Pадиоактивный изотоп актиний претерпевает пять В результате чего полученный элемент",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q15_0.png",
+          "media/Физика/questions/q15_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q15_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q15_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q15_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q15_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Hа рисунке ниже представлен движение ракеты в некоторый малый промежуток времени. Сила сопротивления воздуха в данным участке на ракету не действует. Сила тяги двигателей",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q16_0.png",
+          "media/Физика/questions/q16_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50000 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "450000 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "350000 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "400000 Н",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "1 моль идеального двухатомного газа в изохорном процессе получил 1662 Дж теплоты. Температура газа при этом увеличилась на",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q17_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q17_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q17_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q17_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q17_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Чтобы увеличить а) сопротивление цепи и б) увеличить силу тока, надо ползунок реостата в схеме передвинуть",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q18_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Влево, при этом и сопротивление и сила тока увеличатся",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Влево - для увеличения сопротивления, вправо - для увеличения силы тока",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Вправо, при этом и сопротивление и сила тока увеличатся",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Вправо - для увеличения сопротивления, влево - для увеличения силы тока",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Pадиопередатчик, установленный на корабле-спутнике, работал на частоте . Длина волны, на которой работал передатчик ()",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q19_0.png",
+          "media/Физика/questions/q19_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "15 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "6 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "10 м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Bсе вещества по магнитным свойствам условно можно разделить на парамагнетики, диамагнетики и ферромагнетики. Правильным утверждением является",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "для парамагнетиков существует температура Кюри, выше которой парамагнетики становятся ферромагнетиками.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "для парамагнетиков существует температура Кюри, выше которой у них резко возрастает магнитная проницаемость.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "при температурах выше точки Кюри, ферромагнетики становятся парамагнетиками.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "при температурах выше точки Кюри происходит резкое увеличение их магнитной проницаемости.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Электрон движется со релятивистической скоростью масса покоя электрона , волна де Бройла для этого электрона",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q21_0.png",
+          "media/Физика/questions/q21_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q21_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q21_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q21_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q21_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Hа рисунке изображен прямой проводник с током. Направление линий магнитного поля в точках A и В, а также отношение индукций магнитного поля в этих точках",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q22_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "в точке А вправо, в точке В влево, индукция магнитного поля в точке B больше, чем в A",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "в обеих точках влево, индукция магнитного поля в точке B больше, чем в A",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "в обеих точках влево, индукция магнитного поля в точке А больше, чем в В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в точке А влево, в точке В вправо, индукция магнитного поля в точке А больше, чем в В",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Плотность идеального двухатомного газа при нормальных условиях (р=105 Па, Т=273 К) равна. Удельная теплоемкость данного газа при постоянном давлении (R=8,31 Дж/(моль∙К))",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q23_0.png",
+          "media/Физика/questions/q23_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q23_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q23_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q23_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q23_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "B процессе свободных электромагнитных колебаний в идеальном колебательном контуре сила переменного тока увеличивается в два раза. При этом период колебаний",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "увеличивается в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "не изменяется",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "увеличивается в 2 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "увеличивается в раз",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q24_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Чтобы измерить массу линейки на один ее конец расположили груз массой 250 г и начали выдвигать эту часть линейки за край стола. Линейка опрокинулась, как только четверть ее длины оказалась вне стола. Масса линейки ()",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q25_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "200 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "175 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "150 г",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "250 г",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Aтмосферное давление B средние века при строительстве шахт было обнаружено, что насос всасывающего типа не поднимает воду выше, чем на 10 м. Позже Торричелли показал, что ограничение подъема связано с конечным атмосферным давлением, которое не может затолкнуть воду под поршень, когда при его движении вверх под ним образуется пустота. В своих опытах он заполнял ртутью трубку, запаянную с одной стороны, и, зажав отрытый конец трубки рукой, переворачивал ее и погружал в открытый сосуд со ртутью. Ртуть выливалась в сосуд не полностью. Около 760 мм ртутного столба удерживалось атмосферным давлением, воздействующим на поверхность ртути в открытом сосуде. 760 мм рт.ст. стали называть нормальным атмосферным давлением, что соответствует 101300 Па. B 1654 году бургомистр Магдебурга Отто Герике создал первую «машину для создания пустоты» (вакуумный насос) для откачивания воздуха из замкнутых сосудов. С помощью этого насоса он откачал воздух из двух прочных сомкнутых полушарий, после чего 8 пар лошадей не смогли оторвать эти полушария друг от друга. Hормальное атмосферное давление равно",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "670 мм.рт.ст",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "760 мм.рт.ст",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "790 мм.рт.ст",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "720 мм.рт.ст",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Aтмосферное давление B средние века при строительстве шахт было обнаружено, что насос всасывающего типа не поднимает воду выше, чем на 10 м. Позже Торричелли показал, что ограничение подъема связано с конечным атмосферным давлением, которое не может затолкнуть воду под поршень, когда при его движении вверх под ним образуется пустота. В своих опытах он заполнял ртутью трубку, запаянную с одной стороны, и, зажав отрытый конец трубки рукой, переворачивал ее и погружал в открытый сосуд со ртутью. Ртуть выливалась в сосуд не полностью. Около 760 мм ртутного столба удерживалось атмосферным давлением, воздействующим на поверхность ртути в открытом сосуде. 760 мм рт.ст. стали называть нормальным атмосферным давлением, что соответствует 101300 Па. B 1654 году бургомистр Магдебурга Отто Герике создал первую «машину для создания пустоты» (вакуумный насос) для откачивания воздуха из замкнутых сосудов. С помощью этого насоса он откачал воздух из двух прочных сомкнутых полушарий, после чего 8 пар лошадей не смогли оторвать эти полушария друг от друга. Давление 1 мм.рт.ст соответствует давлению",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "112,1 Па",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "760,5 Па",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "176,2 Па",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "133,3 Па",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Aтмосферное давление B средние века при строительстве шахт было обнаружено, что насос всасывающего типа не поднимает воду выше, чем на 10 м. Позже Торричелли показал, что ограничение подъема связано с конечным атмосферным давлением, которое не может затолкнуть воду под поршень, когда при его движении вверх под ним образуется пустота. В своих опытах он заполнял ртутью трубку, запаянную с одной стороны, и, зажав отрытый конец трубки рукой, переворачивал ее и погружал в открытый сосуд со ртутью. Ртуть выливалась в сосуд не полностью. Около 760 мм ртутного столба удерживалось атмосферным давлением, воздействующим на поверхность ртути в открытом сосуде. 760 мм рт.ст. стали называть нормальным атмосферным давлением, что соответствует 101300 Па. B 1654 году бургомистр Магдебурга Отто Герике создал первую «машину для создания пустоты» (вакуумный насос) для откачивания воздуха из замкнутых сосудов. С помощью этого насоса он откачал воздух из двух прочных сомкнутых полушарий, после чего 8 пар лошадей не смогли оторвать эти полушария друг от друга. Cила, с которой воздух действует на горизонтальную поверхность длиной 1м и шириной 50 см при нормальном атмосферном давлении, равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "≈45 кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "≈51кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "≈25 кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "≈78 кН",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Aтмосферное давление B средние века при строительстве шахт было обнаружено, что насос всасывающего типа не поднимает воду выше, чем на 10 м. Позже Торричелли показал, что ограничение подъема связано с конечным атмосферным давлением, которое не может затолкнуть воду под поршень, когда при его движении вверх под ним образуется пустота. В своих опытах он заполнял ртутью трубку, запаянную с одной стороны, и, зажав отрытый конец трубки рукой, переворачивал ее и погружал в открытый сосуд со ртутью. Ртуть выливалась в сосуд не полностью. Около 760 мм ртутного столба удерживалось атмосферным давлением, воздействующим на поверхность ртути в открытом сосуде. 760 мм рт.ст. стали называть нормальным атмосферным давлением, что соответствует 101300 Па. B 1654 году бургомистр Магдебурга Отто Герике создал первую «машину для создания пустоты» (вакуумный насос) для откачивания воздуха из замкнутых сосудов. С помощью этого насоса он откачал воздух из двух прочных сомкнутых полушарий, после чего 8 пар лошадей не смогли оторвать эти полушария друг от друга. Mаксимальное давление столба воды, которую всасывающий насос поднимал при строительстве шахт в средние века (ρ=1000 кг/м3, g=10 м/с2)",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,4 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,2 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,3 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,1 МПа",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Aтмосферное давление B средние века при строительстве шахт было обнаружено, что насос всасывающего типа не поднимает воду выше, чем на 10 м. Позже Торричелли показал, что ограничение подъема связано с конечным атмосферным давлением, которое не может затолкнуть воду под поршень, когда при его движении вверх под ним образуется пустота. В своих опытах он заполнял ртутью трубку, запаянную с одной стороны, и, зажав отрытый конец трубки рукой, переворачивал ее и погружал в открытый сосуд со ртутью. Ртуть выливалась в сосуд не полностью. Около 760 мм ртутного столба удерживалось атмосферным давлением, воздействующим на поверхность ртути в открытом сосуде. 760 мм рт.ст. стали называть нормальным атмосферным давлением, что соответствует 101300 Па. B 1654 году бургомистр Магдебурга Отто Герике создал первую «машину для создания пустоты» (вакуумный насос) для откачивания воздуха из замкнутых сосудов. С помощью этого насоса он откачал воздух из двух прочных сомкнутых полушарий, после чего 8 пар лошадей не смогли оторвать эти полушария друг от друга. Eсли в опыте Герике заменить полушария на кубы, из которых выкачан воздух, со стороной 0,5м без одной грани, то они будут прижиматься друг к другу при атмосферном давлении 760 мм.рт.ст с силой",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "≈ 25 кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "≈ 30 кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "≈ 15 кН",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "≈ 20 кН",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Kамень бросили вертикально вниз с начальной скоростью 5 м/с. Время за которое камень достигнет скорости 55 м/с равно (ускорение свободного падения )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q31_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "60 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "11 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "50 с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "При увеличении плеча силы в 3 раза ее момент",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "уменьшается в 3 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "уменьшается в 9 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "увеличивается в 3 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "увеличивается в 9 раз",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Cкорость с которой двигаются молекулы воздуха в комнате, при температуре (Молярная масса воздуха 29 г/моль, универсальная газовая постоянная",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q33_0.png",
+          "media/Физика/questions/q33_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "637 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "408 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "502 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "494 м/с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Kруговой процесс Карно состоит из",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "двух изотерм и двух адиабат",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "двух изотерм и двух изобар",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "двух изобар и двух изохор",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "двух изотерм и двух изохор",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Чтобы два одноименных точечных заряда по 1 нКл взаимодействовали с силой 0,1 Н, расстояние между ними должно быть",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q35_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,3 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,3 дм",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,3 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,3 мм",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Проводник подключен к источнику тока так как показано на рисунке. Определите направление вектора индукции магнитного поля проводника с током в точке А",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q36_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "влево",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вправо",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "к нам",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "от нас",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Eсли предмет поместить между фокусом и вершиной вогнутого зеркала, то изображение получится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "мнимое, прямое, уменьшенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "действительное, перевернутое, увеличенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мнимое, прямое, увеличенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "действительное, перевернутое, уменьшенное",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Hефть течет по горизонтальной трубе переменного сечения. Скорость течения в широкой её части 0,2 м/с. Известно, что площадь сечения узкой части трубы в 2 раза меньше площади сечения широкой части трубы, скорость течения в узкой части трубы равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,6 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,1 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,8 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0,4 м/с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Чтобы ядро урана превратилось в ядро висмута , ему необходимо испытать",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q39_0.png",
+          "media/Физика/questions/q39_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q39_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q39_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q39_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q39_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Pазряд в воздухе, представляющий собой слабое фиолетовое свечение, сопровождающийся шипением",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "тлеющий",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "дуговой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коронный",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "искровой",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Oптику с покрытиями, уменьшающими долю отраженного света, называют",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "затемненной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "отраженной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "просветленной",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "поглощенной",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Kолебательный контур состоит из конденсатора емкостью 5 мкФ и катушки индуктивностью 5 мкГн. Период колебаний в данном контуре составляет",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q42_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q42_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q42_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q42_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q42_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Cвет от неподвижного источника падает перпендикулярно поверхности зеркала, которое удаляется от источника со скоростью . Скорость отраженного света в инерциальной системе отсчета связанной с зеркалом, будет равна (с – скорость света, падающего на поверхность зеркала)",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q43_0.png",
+          "media/Физика/questions/q43_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q43_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q43_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q43_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q43_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Eдиницы измерения поверхностного натяжения жидкости",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q44_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q44_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q44_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q44_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Eсли работа выхода электронов 2,27 эВ, то красная граница фотоэффекта для натрия равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q45_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q45_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q45_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q45_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q45_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Tело массой 5 кг поднимается в лифте вверх, увеличивая свою скорость от 10 м/с до 15 м/с. Если лифт переместился вверх на 20 м, то вес тела равен (ускорение свободного падения )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q46_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "65,625 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "50,625 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "34,375 Н",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Mетан массой 80 г находится в баллоне объемом 5 л при температуре . При этом давление в баллоне равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q47_0.png",
+          "media/Физика/questions/q47_1.png",
+          "media/Физика/questions/q47_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2,5 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,5 МПа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1 МПа",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Период обращения протона в однородном магнитном поле с индукцией 4 мТл, равен (масса протона , заряд протона )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q48_0.png",
+          "media/Физика/questions/q48_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q48_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q48_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q48_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q48_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Pадиопередатчик, состоящий из открытого колебательного контура, содержит плоский конденсатор, площадь пластин которого , с расстоянием между ними 0,5 см и катушку индуктивностью 1 мкГн. Длина излучаемой радиопередатчиком волны равна (конденсатор заполнен диэлектроком, диэлектрическая проницаемость которого , электрическая постоянная , скорость света в вакууме )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q49_0.png",
+          "media/Физика/questions/q49_1.png",
+          "media/Физика/questions/q49_2.png",
+          "media/Физика/questions/q49_3.png",
+          "media/Физика/questions/q49_4.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q49_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q49_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q49_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q49_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Плата источника тока состоит из элементов указанных на схеме. Сопротивление каждого элемента 2 Ом, при этом сила тока равна 6,25 А. Если источник тока замкнут накоротко, то при ЭДС равной 10 В, ток короткого замыкания составит",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q50_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12,5 А",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,08 А",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,2 А",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "5 А",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Hа атомной станции в сутки выделяется энергии при сгорании ядерного топлива . Если за каждое деление ядра выделяется энергия равная 200 МэВ, то количество делений ядер атома урана за данное время равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q51_0.png",
+          "media/Физика/questions/q51_1.png",
+          "media/Физика/questions/q51_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q51_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q51_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q51_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q51_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "На рисунке показано сплошное металлическое кольцо, которое в первом случае падает на вертикально стоящий полосовой магнит так, что надевается на него. Во втором случае так, что пролетает вблизи магнита мимо него. Плоскость кольца в обоих случаях горизонтальна. Индукционный ток в кольце возникает",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q52_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "только во втором случае",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "ни в одном из случаев",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "только в первом случае",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "в обоих случаях",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Hа рисунке приведен график зависимости температуры воды от количества теплоты, полученного от нагревателя. Масса неиспарившейся воды (удельная теплоемкость воды , удельная теплота парообразования воды )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q53_0.png",
+          "media/Физика/questions/q53_1.png",
+          "media/Физика/questions/q53_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3 кг",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Mатериальная точка совершает колебательное движение, при котором координата по времени изменяется, как показано на рисунке. Уравнение зависимости проекции ускорения от времени имеет вид",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q54_0.png",
+          "media/Физика/questions/q54_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q54_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q54_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q54_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q54_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "За пятую секунду свободного падения тела, массой 2 кг, сила тяжести совершает работу",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q55_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "750 Дж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "450 Дж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "900 Дж",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "225 Дж",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cтроительные инструменты Pабота строительных инструментов (болгарка, шуруповерт, перфоратор), основана на вращательном движении. У болгарок с кругом, диаметром 125 мм, частота вращения составляет до 12 000 об/мин. Время, за которое инструмент достигает максимальных оборотов, составляет в среднем 5 секунд. Период вращения круга составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q56_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q56_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q56_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q56_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cтроительные инструменты Pабота строительных инструментов (болгарка, шуруповерт, перфоратор), основана на вращательном движении. У болгарок с кругом, диаметром 125 мм, частота вращения составляет до 12 000 об/мин. Время, за которое инструмент достигает максимальных оборотов, составляет в среднем 5 секунд. Угловая скорость вращения круга составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q57_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q57_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q57_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q57_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cтроительные инструменты Pабота строительных инструментов (болгарка, шуруповерт, перфоратор), основана на вращательном движении. У болгарок с кругом, диаметром 125 мм, частота вращения составляет до 12 000 об/мин. Время, за которое инструмент достигает максимальных оборотов, составляет в среднем 5 секунд. Угловое ускорение круга составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q58_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q58_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q58_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q58_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cтроительные инструменты Pабота строительных инструментов (болгарка, шуруповерт, перфоратор), основана на вращательном движении. У болгарок с кругом, диаметром 125 мм, частота вращения составляет до 12 000 об/мин. Время, за которое инструмент достигает максимальных оборотов, составляет в среднем 5 секунд. Тангенциальное ускорение круга составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q59_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q59_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q59_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q59_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cтроительные инструменты Pабота строительных инструментов (болгарка, шуруповерт, перфоратор), основана на вращательном движении. У болгарок с кругом, диаметром 125 мм, частота вращения составляет до 12 000 об/мин. Время, за которое инструмент достигает максимальных оборотов, составляет в среднем 5 секунд. Нормальное ускорение круга составляет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q60_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q60_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q60_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q60_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Бетонный шар поднимают со дна бассейна глубиной 2 м на высоту 2 м над водой. Если радиус шара 0,5 м, то работа по подъему шара",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q61_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q61_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q61_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q61_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q61_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hа рисунке изображен график зависимости магнитной проницаемости вещества от внешнего магнитного поля, для",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q62_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "гистерезиса",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "диамагнетиков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "парамагнеттиков",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ферромагнетиков",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Hа рисунке изображен график гармонических колебаний. Уравнение колебательного движения в СИ имеет вид",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q63_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q63_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q63_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q63_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q63_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Eсли у капли имеющей заряд -3е, удалить три электрона, то заряд капли станет равен",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "-6е",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "+3е",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-3е",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Eсли 2 когерентные световые волны в некоторой точке пространства встречаются в противофазе, то результатом интерференции будет",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "максимальное усиление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "частичное усиление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "частичное ослабление",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "максимальное ослабление",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Дан график зависимости модуля силы упругости от удлинения пружины. Жесткость пружины равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q66_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "40 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "20 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "100 Н/м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "200 Н/м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Чтобы длину волны, на которую настроен радиоприемник, уменьшить в 4 раза, необходимо в колебательном контуре емкость конденсатора",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "уменьшить в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "увеличить в 16 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "уменьшить в 16 раз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "увеличить в 4 раза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Физическая величина, равная произведению силы на плечо – это …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "момент силы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "плечо силы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "вес",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "работа",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Энергия покоя кристалла соли массой 2 г равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q69_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q69_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q69_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q69_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q69_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Cпособы изменения внутренней энергии",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "совершение работы и ионизация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "совершение работы и теплопередача",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ионизация и диссоциация",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "теплопередача и ионизация",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Период полураспада некоторого радиоактивного изотопа равен 12,3 года. Из 150 г этого изотопа распадается 140,625 г через время",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "24,3 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "49,2 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "36,9 года",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "48,4 года",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Mеталлическое кольцо радиусом 4,8 см расположено в магнитном поле с индукцией 12 мТл перпендикулярно полю. На его удаление из поля затрачивается 25 мс. Возникающая при этом в кольце средняя ЭДС",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1,2 мВ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2,3 мВ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3,5 мВ",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4,2 мВ",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Источник тока работает в режиме разрядки, выдавая ток 1,2 А. Если ЭДС источника тока 220 В, а внутреннее сопротивление 2 Ом, то отдаваемая им мощность равна",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "266,88 Вт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "528 Вт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "264 Вт",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "261,12 Вт",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Cоставные части транзистора",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "база, коллектор, эмиттер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "база, катод, анод",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "коллектор, диод, эмиттер",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "коллектор, диод, анод",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Eсли луч света падает на границу стекло-вода, то предельный угол полного внутреннего отражения равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q75_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "arccos(0,89)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "arcctg(0,89)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "arcsin(0,89)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "arctg(0,89)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Hа поверхности некоторой планеты тело свободно падая, увеличило свою скорость от до Если тело падало с высоты 160 м, то ускорение свободного падения равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q76_0.png",
+          "media/Физика/questions/q76_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q76_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q76_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q76_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q76_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Mатериальная точка массой 20 г совершает колебания по закону . Уравнение изменения кинетической энергии со временем имеет вид",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q77_0.png",
+          "media/Физика/questions/q77_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q77_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q77_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q77_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q77_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Двухатомный газ находится под давлением при температуре . Если его плотность при этих условиях , то удельная теплоемкость газа для изобарного процесса",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q78_0.png",
+          "media/Физика/questions/q78_1.png",
+          "media/Физика/questions/q78_2.png",
+          "media/Физика/questions/q78_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q78_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q78_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q78_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q78_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Eсли уменьшить силу тока в 2 раза, протекающую по прямолинейному проводнику, то магнитная индукция поля в любой точке пространства",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "увеличится в 2 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "уменьшится в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "увеличится в 4 раза",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "уменьшится в 2 раза",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Bо время выполнения элемента «Мертвая петля», в нижней точке круговой траектории радиусом 200 м летчик массой 65 кг, двигался со скоростью 25 м/с. Если коэффициет трения между сидением и летчиком равен 0,04, то сила трения равна (ускорение свободного падения )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q80_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "26 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "34,125 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "17,875 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "13 кН",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Ядро урана состоит из",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q81_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "92 протонов и 143 нейтронов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "92 нейтронов и 235 протонов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "92 нейтронов и 143 протонов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "92 протонов и 235 нейтронов",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Длина волны де Бройля для электрона больше, чем для частицы. При этом",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q82_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "импульс электрона больше импульса частицы",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q82_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "импульс частицы больше импульса электрона",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q82_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "импульсы частиц одинаковы",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "величина импульса не связана с длиной волной",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Броун, изучая под микроскопом пыльцу растений, заметил хаотическое движение цитоплазматических зерен пыльцы. Никаких видимых воздействий на эти зерна не наблюдалось. Это можно объяснить тем, что",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "на зерна действуют частицы, движение которых мы не видим",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "законы Ньютона неприменимы для этих частиц",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "зерна являютя живыми и двигаются самостоятельно",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "движение зерен вызвано потоками, возникающими при испарении жидкости",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "B закрытом баллоне вместимостью 100 л находятся 0,4 кг водорода и 800 г кислорода при температуре Давление смеси на стенки баллона при этом",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q84_0.png",
+          "media/Физика/questions/q84_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q84_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q84_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q84_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q84_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Bыразите единицу измерения давления, через основные единицы СИ",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q85_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q85_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q85_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q85_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Фотоэлемент Фотоэлемент представляет собой откаченный стеклянный баллон, внутренняя поверхность которого покрыта фоточувствительным слоем, красная граница которого равна 500 нм. Фотоэлемент включается в цепь батареи, ЭДС которой выбирается такой, чтобы обеспечить фототок насыщения. Если поменять полярность батареи, то можно прекратить работу фотоэлемента, подобрав необходимое запирающее напряжение. Запирающее напряжение для фотоэлемента равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q86_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-5 В",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Фотоэлемент Фотоэлемент представляет собой откаченный стеклянный баллон, внутренняя поверхность которого покрыта фоточувствительным слоем, красная граница которого равна 500 нм. Фотоэлемент включается в цепь батареи, ЭДС которой выбирается такой, чтобы обеспечить фототок насыщения. Если поменять полярность батареи, то можно прекратить работу фотоэлемента, подобрав необходимое запирающее напряжение. Tок насыщения для фотоэлемента равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q87_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2 мА",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3 мА",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0 мА",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1 мА",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Фотоэлемент Фотоэлемент представляет собой откаченный стеклянный баллон, внутренняя поверхность которого покрыта фоточувствительным слоем, красная граница которого равна 500 нм. Фотоэлемент включается в цепь батареи, ЭДС которой выбирается такой, чтобы обеспечить фототок насыщения. Если поменять полярность батареи, то можно прекратить работу фотоэлемента, подобрав необходимое запирающее напряжение. Mаксимальная скорость фотоэлектронов при запирающем напряжении равна (заряд электрона , масса электрона )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q88_0.png",
+          "media/Физика/questions/q88_1.png",
+          "media/Физика/questions/q88_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q88_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q88_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q88_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q88_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Фотоэлемент Фотоэлемент представляет собой откаченный стеклянный баллон, внутренняя поверхность которого покрыта фоточувствительным слоем, красная граница которого равна 500 нм. Фотоэлемент включается в цепь батареи, ЭДС которой выбирается такой, чтобы обеспечить фототок насыщения. Если поменять полярность батареи, то можно прекратить работу фотоэлемента, подобрав необходимое запирающее напряжение. Pабота выхода электронов с фоточувствительного слоя равна (постоянная Планка , скорость света в вакууме , )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q89_0.png",
+          "media/Физика/questions/q89_1.png",
+          "media/Физика/questions/q89_2.png",
+          "media/Физика/questions/q89_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q89_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q89_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q89_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q89_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Фотоэлемент Фотоэлемент представляет собой откаченный стеклянный баллон, внутренняя поверхность которого покрыта фоточувствительным слоем, красная граница которого равна 500 нм. Фотоэлемент включается в цепь батареи, ЭДС которой выбирается такой, чтобы обеспечить фототок насыщения. Если поменять полярность батареи, то можно прекратить работу фотоэлемента, подобрав необходимое запирающее напряжение. Фотоэлемент освещают светом с частотой , максимальная скорость фотоэлектронов при этом равна (постоянная Планка , скорость света в вакууме , масса электрона )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q90_0.png",
+          "media/Физика/questions/q90_1.png",
+          "media/Физика/questions/q90_2.png",
+          "media/Физика/questions/q90_3.png",
+          "media/Физика/questions/q90_4.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q90_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q90_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q90_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q90_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Tело бросили под углом к горизонту. Если в самой верхней точке полета скорость тела 18 км/ч, то радиус кривизны равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q91_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1,8 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,5 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3,2 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2,5 м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Физическая величина равная произведению силы на её плечо называется",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "импульс",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "работа",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "мощность",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "момент силы",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Площадь поперечного сечения большого цилиндра гидравлической машины больше площади поперечного сечения меньшего цилиндра в 12 раз. Выигрыш в силе равен",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "144",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "24",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Pабота газа равна нулю на участках",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q94_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2-3 и 4-1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1-2 и 2-3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1-2 и 3-4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3-4 и 4-1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Eсли два одинаковых шарика с зарядами и привести в соприкосновение и снова развести на прежнее расстояние, то заряды шариков станут равны",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q95_0.png",
+          "media/Физика/questions/q95_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q95_A_0.png",
+              "media/Физика/answers/q95_A_1.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q95_B_0.png",
+              "media/Физика/answers/q95_B_1.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q95_C_0.png",
+              "media/Физика/answers/q95_C_1.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q95_D_0.png",
+              "media/Физика/answers/q95_D_1.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Cкользящие контактные кольца и щетки используются в",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "электродвигателе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "генераторе переменного тока",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "трансформаторе",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "генераторе постоянного тока",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Eсли предмет поместить между фокусом и вершиной вогнутого зеркала, то изображение получится",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "мнимое, прямое, увеличенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "мнимое, прямое, уменьшенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "действительное, перевернутое, уменьшенное",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "действительное, перевернутое, увеличенное",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Oпределите скорость полета струи воды из отверстия шприца. На поршень диаметром 4 см, действует сила 25 Н. Площадь отверстия шприца много меньше площади поршня, сопротивлением воздуха пренебречь",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q98_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "10 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "6,9 м/с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6,3 м/с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "При электронном",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q99_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "зарядовое число ядра атома Z уменьшится на единицу заряда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "зарядовое число ядра атома Z увеличится на единицу заряда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "зарядовое число ядра атома Z уменьшится на две единицы заряда",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "зарядовое число ядра атома Z не изменится",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Электрический ток силой 3,2 мА протекает в металлическом проводнике. Площадь поперечного сечения проводника равна , а концентрация электронов внутри проводника . Скорость дрейфа электронов равна (заряд электрона )",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q100_0.png",
+          "media/Физика/questions/q100_1.png",
+          "media/Физика/questions/q100_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q100_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q100_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q100_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q100_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Hа дифракционную решетку с периодом 2,5 мкм нормально падает монохроматический свет с длиной волны 600 нм. Общее число максимумов, даваемое дифракционной решеткой на экране",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Kолебательное движение задается уравнением . Циклическая частота колебаний равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q102_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q102_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q102_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q102_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q102_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Hа фотонной ракете, летящей со скоростью 225000 км/с относительно Земли, установлен ускоритель, разгоняющий электроны до скорости 240000 км/с относительно ракеты в направлении ее движения. Скорость этих электронов относительно Земли",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q103_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q103_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q103_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q103_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q103_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "B капиллярной трубке радиусом 0,5 мм жидкость поднялась на 11 мм. Если коэффициент поверхностного натяжения жидкости 22 мН/м, то плотность данной жидкости",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q104_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q104_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q104_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q104_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q104_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Число вырванных с поверхности вещества электронов прямо пропорционально зависит от",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "кинетической энергии электронов",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "работы выхода металла",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "частоты падающего света",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "интенсивности излучателя",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Hа тонкостенное кольцо, момент инерции которого , действует тормозящий момент . Угловая скорость кольца уменьшилась от до за время равное",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q106_0.png",
+          "media/Физика/questions/q106_1.png",
+          "media/Физика/questions/q106_2.png",
+          "media/Физика/questions/q106_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,26 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "58,8 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "170 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3,825 с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Газ находился под давлением 100 кПа, температуре 200 К и занимал объем . Если через некоторое время давление газа уменьшилось на 25 %, а температура увеличилась на 50 %, то объем газа стал равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q107_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q107_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q107_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q107_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q107_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "По двум проводам текут одинаковые токи, как показано на рисунке. Вектор магнитной индукции поля, созданного токами, в точке А направлен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q108_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "от нас",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "вниз",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "вверх",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "к нам",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Pадиоприемник, находящийся на расстоянии 250 м от передатчика, улавливает волны интенсивностью . Если время хода волны составляет 8 нс, то энергия волны равна",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q109_0.png",
+          "media/Физика/questions/q109_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q109_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q109_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q109_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q109_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Oбщее сопротивление цепи, изображенной на рисунке равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q110_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8R/5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "R/2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5R/8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4R/5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Eсли энергия, выделяющаяся при делении одного ядра урана равна 200 МэВ, то при полном делении 0,02 г этого вещества выделяется энергия",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q111_0.png",
+          "media/Физика/questions/q111_1.png",
+          "media/Физика/questions/q111_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q111_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q111_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q111_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q111_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Kатушка, имеющая сердечник диаметром 4 см, содержит 1000 витков. По обмотке протекает ток, который создает поле с индукцией 1,5 Тл. Если ток уменьшается до нуля за 0,5 мс, то среднее значение ЭДС, возникающей в соленоиде, равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q112_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1507 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2821 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3768 В",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1884 В",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "B закрытом сосуде находится аргона при температуре T = 300 K. Eсли газу сообщить количество теплоты Q = 900 Дж, то давление в сосуде",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q113_0.png",
+          "media/Физика/questions/q113_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "увеличится на 6%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "уменьшится на 4%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "уменьшется на 6%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "увеличится на 4%",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Mатериальная точка совершает колебательное движение, при котором координата по времени изменяется, как показано на рисунке. Уравнение зависимости проекции ускорения от времени имеет вид",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q114_0.png",
+          "media/Физика/questions/q114_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q114_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q114_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q114_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q114_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "При игре в бейсбол, принимающий мяч игрок, отбил его таким образом, что мяч массой 100 грамм полетел под углом к горизонту. Если бита массой 1,5 кг отклонилась в направлении противоположном направлению движения мяча со скоростью 1,2 м/с, то время подъема мяча на максимальную высоту составило перед ударом суммарный импульс биты и мяча считать равным нулю)",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q115_0.png",
+          "media/Физика/questions/q115_1.png",
+          "media/Физика/questions/q115_2.png",
+          "media/Физика/questions/q115_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "2,12 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3,1 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,56 с",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "6,2 с",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bес тела, движущегося с ускорением Oтель «Ритц Карлтон» в Алматы имеет пассажирский лифт грузоподъемностью 15000 Н. Лифт поднимает людей до 41 этажа. Массу одного взрослого человека считать в среднем 80 кг, а массу одного ребенка 25 кг.Увеличение веса, вызванное его ускоренным движением вверх, называют перегрузкой. При десятикратной перегрузке тело движется с ускорением, превышающем ускорение свободного падения в 9 раз. Увеличение веса, превышающее грузоподъемность лифта приводит к аварийным ситуациям C какой силой давят 18 взрослых человек на пол лифта, до начала движения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q116_0.png",
+          "media/Физика/questions/q116_1.png",
+          "media/Физика/questions/q116_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "15800 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "14400 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "13600 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "12400 Н",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bес тела, движущегося с ускорением Oтель «Ритц Карлтон» в Алматы имеет пассажирский лифт грузоподъемностью 15000 Н. Лифт поднимает людей до 41 этажа. Массу одного взрослого человека считать в среднем 80 кг, а массу одного ребенка 25 кг.Увеличение веса, вызванное его ускоренным движением вверх, называют перегрузкой. При десятикратной перегрузке тело движется с ускорением, превышающем ускорение свободного падения в 9 раз. Увеличение веса, превышающее грузоподъемность лифта приводит к аварийным ситуациям Eсли в лифт заходит 12 взрослых человек и он движется с ускорением вверх, вес этих людей равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q117_0.png",
+          "media/Физика/questions/q117_1.png",
+          "media/Физика/questions/q117_2.png",
+          "media/Физика/questions/q117_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "10560 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12540 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "11520 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "13520 Н",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bес тела, движущегося с ускорением Oтель «Ритц Карлтон» в Алматы имеет пассажирский лифт грузоподъемностью 15000 Н. Лифт поднимает людей до 41 этажа. Массу одного взрослого человека считать в среднем 80 кг, а массу одного ребенка 25 кг.Увеличение веса, вызванное его ускоренным движением вверх, называют перегрузкой. При десятикратной перегрузке тело движется с ускорением, превышающем ускорение свободного падения в 9 раз. Увеличение веса, превышающее грузоподъемность лифта приводит к аварийным ситуациям Eсли в лифт заходит 14 взрослых и 4 ребенка и он движется с ускорением вниз, вес тела будет равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q118_0.png",
+          "media/Физика/questions/q118_1.png",
+          "media/Физика/questions/q118_2.png",
+          "media/Физика/questions/q118_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "10370 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12230 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "14130 Н",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "13530 Н",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bес тела, движущегося с ускорением Oтель «Ритц Карлтон» в Алматы имеет пассажирский лифт грузоподъемностью 15000 Н. Лифт поднимает людей до 41 этажа. Массу одного взрослого человека считать в среднем 80 кг, а массу одного ребенка 25 кг.Увеличение веса, вызванное его ускоренным движением вверх, называют перегрузкой. При десятикратной перегрузке тело движется с ускорением, превышающем ускорение свободного падения в 9 раз. Увеличение веса, превышающее грузоподъемность лифта приводит к аварийным ситуациям Kоличество взрослых людей, при движении лифта с ускорением вверх, вызывающей перегрузку равной 18480 Н",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q119_0.png",
+          "media/Физика/questions/q119_1.png",
+          "media/Физика/questions/q119_2.png",
+          "media/Физика/questions/q119_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "28",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "21",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "32",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "30",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Bес тела, движущегося с ускорением Oтель «Ритц Карлтон» в Алматы имеет пассажирский лифт грузоподъемностью 15000 Н. Лифт поднимает людей до 41 этажа. Массу одного взрослого человека считать в среднем 80 кг, а массу одного ребенка 25 кг.Увеличение веса, вызванное его ускоренным движением вверх, называют перегрузкой. При десятикратной перегрузке тело движется с ускорением, превышающем ускорение свободного падения в 9 раз. Увеличение веса, превышающее грузоподъемность лифта приводит к аварийным ситуациям Oпределите формулу, по которой расчитывается перегрузка и значение коэффициента перегрузки, когда в лифт заходит 20 взрослых и 5 детей и он движется вверх с ускорением",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Физика/questions/q120_0.png",
+          "media/Физика/questions/q120_1.png",
+          "media/Физика/questions/q120_2.png",
+          "media/Физика/questions/q120_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q120_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q120_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q120_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Физика/answers/q120_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      }
+    }
+  }
+}

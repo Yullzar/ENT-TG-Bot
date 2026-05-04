@@ -1,0 +1,4566 @@
+{
+  "Английский язык": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Odd word",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "pierced",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "curly",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "straight",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "wavy",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "The correct option They go on holiday … summer.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "every",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "all",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "whole",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "none",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Abstract noun forming suffix",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "-ly",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "-ive",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ness",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-en",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Not a noun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "nurse",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "photographer",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "hairdresser",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "keep",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "The appropriate meaning To show the ropes",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "become involved in sth",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "take time out and rest",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "be the one who is in control",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "explain sth to sb who is new",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "The correct variant Bring me … books which are on the shelf.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "those",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "this",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "these",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "that",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "The sentence with a possessive pronoun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "She did herself.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "The laptop is hers.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "They told her.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "It’s her laptop.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "The correct preposition Dauren was lying … the grass.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "at",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "towards",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "on",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "off",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "The correct modal verb Ardak ______ have gone shopping.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "have to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "had to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "might",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "was",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "The correct preposition Clouds started gathering … the sky.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "in",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "at",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "on",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "to",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "The correct modal verb You _______ keep a secret.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "must",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "have",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "had",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "was able",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "The correct explanation If I hadn’t texted him, I wouldn’t have met him on time.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I didn’t text him and I met him.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "I texted him and I met him.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I texted him and I didn’t meet him.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I didn’t text him and I didn’t meet him.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "The correct 2nd conditional sentence",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "You would have had a car if you were careful.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "He may have regretted it if he had trusted her.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I will be going for a walk unless it is raining.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "He would buy a new car if he won a lottery.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Correct verb Ted … travel abroad next month with his parents.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "will going to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "was going to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "were going to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "is going to",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "The odd one out",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Have you finished?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Whose car is that?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Do you have ICT class today?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Are you at home?",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Sentence with bare infinitive",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Susan tried to finish her work on time.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "She forgot to meet us after work last Friday.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Let’s go for a walk after school.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "He went on talking about what happened.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "The correct option “OK, I’ll go to the party.”",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "He asked to go to the party.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "He agreed to go to the party.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "He offered to go to the party.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "He suggested to go to the party.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "The meaning of both in the sentence Both of them were students.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "two people or things",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "any of the two",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "not the one and not the other",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "more than two people",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "“Quite” means",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "to a high degree",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "the lowest degree",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "less than very",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "more than very",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "The correct prefix to cultural",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "mis-",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "multi-",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "pre-",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "de-",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "The correct suffix to diet",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "dietician",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "dieted",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "dietage",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "dietion",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Correct determiner Two of my friends want to go to the theatre but … wanted to go to the cinema.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "each",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "another",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "others",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "every",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "The correct meaning I’ll never forget visiting London.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "not be able to do sth",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "to recall doing sth",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "to believe in sth",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "not remember to do sth",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Sentence with the same meaning “You always forget to call me!” he said. He complained…him.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "that I always forget to call",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "that I never remember calling",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "to me about my never remembering to call",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "to me that I forgot calling",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "The correct variant After the break, the presenter went on ... the ground rules.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "to be explaining",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "expain",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "to explain",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "explaining",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Your amazing brain Your brain controls everything you do. It makes it possible for you to think, learn, create and feel emotions, to blink and breathe and for your heart to beat. It is so amazing that a famous scientist once called it “the most complex thing we have yet discovered in our universe”. Trying to make sense of the brain isn’t easy. We know it’s the organ that makes us human by giving us the ability to create art and language, make decisions and produce rational thought. It’s also responsible for our personalities, memories, movements and how we understand the world. Can this small grey organ, which weighs less than one and a half kilos, really do so much? Amazingly, your brain contains 100 billion microscopic cells called neurons – it would take you 3,000 years to count them all. Whenever you dream, laugh, think, see or move, it’s because signals are racing between these neurons. Believe it or not, the activity in your brain never stops. Your neurons create and send more messages than all the phones in the world. And also one neuron creates only a very small amount of electricity, all your neurons together can produce enough electricity to power a light bulb. So exactly how fast does your brain work? Well, imagine this: a bee lands on your foot. Neurons in your skin send this information to your brain at a speed of more than 240 kilometres per hour. Your brain then uses other neurons to send the message back to your foot to shake the bee off quickly. These neurons can send this information at more than 320 kilometres per hour. No computer has your brain’s increadible ability to cope with the amount of information coming from your eyes, ears and other sensory organs. How does your brain allow you to learn things that you will use in the future? The structure of your brain changes every time you have a new thought, remember or learn something. For example, riding a bike seems impossible at first, but soon you are able to do it. As you practice, your brain sends ‘bike riding’ messages again and again. Soon, the actions are learnt and you’re able to ride a bike easily from then on. The human brain in the text is compared to… .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "computer",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "universe",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "bee",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "bike riding",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Your amazing brain Your brain controls everything you do. It makes it possible for you to think, learn, create and feel emotions, to blink and breathe and for your heart to beat. It is so amazing that a famous scientist once called it “the most complex thing we have yet discovered in our universe”. Trying to make sense of the brain isn’t easy. We know it’s the organ that makes us human by giving us the ability to create art and language, make decisions and produce rational thought. It’s also responsible for our personalities, memories, movements and how we understand the world. Can this small grey organ, which weighs less than one and a half kilos, really do so much? Amazingly, your brain contains 100 billion microscopic cells called neurons – it would take you 3,000 years to count them all. Whenever you dream, laugh, think, see or move, it’s because signals are racing between these neurons. Believe it or not, the activity in your brain never stops. Your neurons create and send more messages than all the phones in the world. And also one neuron creates only a very small amount of electricity, all your neurons together can produce enough electricity to power a light bulb. So exactly how fast does your brain work? Well, imagine this: a bee lands on your foot. Neurons in your skin send this information to your brain at a speed of more than 240 kilometres per hour. Your brain then uses other neurons to send the message back to your foot to shake the bee off quickly. These neurons can send this information at more than 320 kilometres per hour. No computer has your brain’s increadible ability to cope with the amount of information coming from your eyes, ears and other sensory organs. How does your brain allow you to learn things that you will use in the future? The structure of your brain changes every time you have a new thought, remember or learn something. For example, riding a bike seems impossible at first, but soon you are able to do it. As you practice, your brain sends ‘bike riding’ messages again and again. Soon, the actions are learnt and you’re able to ride a bike easily from then on. Wrong statement Human’s brain … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "is the most complicated object in the world",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "works more slowly than a computer",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "controls all activities of a person",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "deals with amazing amount of information",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Your amazing brain Your brain controls everything you do. It makes it possible for you to think, learn, create and feel emotions, to blink and breathe and for your heart to beat. It is so amazing that a famous scientist once called it “the most complex thing we have yet discovered in our universe”. Trying to make sense of the brain isn’t easy. We know it’s the organ that makes us human by giving us the ability to create art and language, make decisions and produce rational thought. It’s also responsible for our personalities, memories, movements and how we understand the world. Can this small grey organ, which weighs less than one and a half kilos, really do so much? Amazingly, your brain contains 100 billion microscopic cells called neurons – it would take you 3,000 years to count them all. Whenever you dream, laugh, think, see or move, it’s because signals are racing between these neurons. Believe it or not, the activity in your brain never stops. Your neurons create and send more messages than all the phones in the world. And also one neuron creates only a very small amount of electricity, all your neurons together can produce enough electricity to power a light bulb. So exactly how fast does your brain work? Well, imagine this: a bee lands on your foot. Neurons in your skin send this information to your brain at a speed of more than 240 kilometres per hour. Your brain then uses other neurons to send the message back to your foot to shake the bee off quickly. These neurons can send this information at more than 320 kilometres per hour. No computer has your brain’s increadible ability to cope with the amount of information coming from your eyes, ears and other sensory organs. How does your brain allow you to learn things that you will use in the future? The structure of your brain changes every time you have a new thought, remember or learn something. For example, riding a bike seems impossible at first, but soon you are able to do it. As you practice, your brain sends ‘bike riding’ messages again and again. Soon, the actions are learnt and you’re able to ride a bike easily from then on. ‘make sense’ in the 2nd paragraph means …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "understand",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "produce",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "create",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "feel",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Your amazing brain Your brain controls everything you do. It makes it possible for you to think, learn, create and feel emotions, to blink and breathe and for your heart to beat. It is so amazing that a famous scientist once called it “the most complex thing we have yet discovered in our universe”. Trying to make sense of the brain isn’t easy. We know it’s the organ that makes us human by giving us the ability to create art and language, make decisions and produce rational thought. It’s also responsible for our personalities, memories, movements and how we understand the world. Can this small grey organ, which weighs less than one and a half kilos, really do so much? Amazingly, your brain contains 100 billion microscopic cells called neurons – it would take you 3,000 years to count them all. Whenever you dream, laugh, think, see or move, it’s because signals are racing between these neurons. Believe it or not, the activity in your brain never stops. Your neurons create and send more messages than all the phones in the world. And also one neuron creates only a very small amount of electricity, all your neurons together can produce enough electricity to power a light bulb. So exactly how fast does your brain work? Well, imagine this: a bee lands on your foot. Neurons in your skin send this information to your brain at a speed of more than 240 kilometres per hour. Your brain then uses other neurons to send the message back to your foot to shake the bee off quickly. These neurons can send this information at more than 320 kilometres per hour. No computer has your brain’s increadible ability to cope with the amount of information coming from your eyes, ears and other sensory organs. How does your brain allow you to learn things that you will use in the future? The structure of your brain changes every time you have a new thought, remember or learn something. For example, riding a bike seems impossible at first, but soon you are able to do it. As you practice, your brain sends ‘bike riding’ messages again and again. Soon, the actions are learnt and you’re able to ride a bike easily from then on. Neurons… .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "demand electricity to work",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "influence insects like bees",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "can be counted very fast",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "transport messages to our brain",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Your amazing brain Your brain controls everything you do. It makes it possible for you to think, learn, create and feel emotions, to blink and breathe and for your heart to beat. It is so amazing that a famous scientist once called it “the most complex thing we have yet discovered in our universe”. Trying to make sense of the brain isn’t easy. We know it’s the organ that makes us human by giving us the ability to create art and language, make decisions and produce rational thought. It’s also responsible for our personalities, memories, movements and how we understand the world. Can this small grey organ, which weighs less than one and a half kilos, really do so much? Amazingly, your brain contains 100 billion microscopic cells called neurons – it would take you 3,000 years to count them all. Whenever you dream, laugh, think, see or move, it’s because signals are racing between these neurons. Believe it or not, the activity in your brain never stops. Your neurons create and send more messages than all the phones in the world. And also one neuron creates only a very small amount of electricity, all your neurons together can produce enough electricity to power a light bulb. So exactly how fast does your brain work? Well, imagine this: a bee lands on your foot. Neurons in your skin send this information to your brain at a speed of more than 240 kilometres per hour. Your brain then uses other neurons to send the message back to your foot to shake the bee off quickly. These neurons can send this information at more than 320 kilometres per hour. No computer has your brain’s increadible ability to cope with the amount of information coming from your eyes, ears and other sensory organs. How does your brain allow you to learn things that you will use in the future? The structure of your brain changes every time you have a new thought, remember or learn something. For example, riding a bike seems impossible at first, but soon you are able to do it. As you practice, your brain sends ‘bike riding’ messages again and again. Soon, the actions are learnt and you’re able to ride a bike easily from then on. The text is generally about… .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "all stages involved in the process of how our brain creates new neurons",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "the most incredible organ of a human’s body",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "the activities people can do to improve their brain",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "how the brain helps people become more intelligent than computers",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "The correct variant Yesterday she … in London.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "were",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "is",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "was",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "does",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "The correct collocation Do the test carefully, try not to make ... .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "mistakes",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "suggestion",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "sure",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "friends",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Collocation to “make”",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "the bed",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "shopping",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "your best",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "a phone call",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "The correct collocation Make ... you got the keys, before you get out.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "friends",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "mistakes",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "a suggestion",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "sure",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Synonym rapidly",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "quickly",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "gently",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "slowly",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "rarely",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "The correct First Conditional",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "The festival fun-run would go ahead unless it was raining.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "The festival fun-run was gone ahead unless it was raining.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "The festival fun-run go ahead unless it’s raining.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "The festival fun-run will go ahead unless it’s raining.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "The correct modal verb I haven’t decided yet, but I … go the gym.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "need",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "have",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "will",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "might",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "The correct conjunction Raushan is a writer … her brother is a famous pianist.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "whether",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "if only",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "so long as",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "whereas",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "The suitable answer Where is the board?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "It is next to the bank.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "It is under the table.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "It is on a vase.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "It is behind the teacher.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Appropriate preposition There is a big tree in front … my bedroom window.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "on",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "at",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "up",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "of",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Sentence with conjunction",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Can you imagine your own bussiness?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "What job would you like to do when you are getting old?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Do you think about going abroad to study?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Do you really want to be an actor?",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Present passive Flowers … grown in our garden.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "will be",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "are",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "weren’t",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "were",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Correct question How … do you go to the cinema?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "many",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "much",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "often",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "fast",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "The right variant of interrogative sentence",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "How many French lesson you have had this week?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "How long did you studied French?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "How often you have got your French lessons?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "How long have you been studying French?",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Present Simple for laws of nature",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Families relax on Fridays.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "People go skiing on winter holidays.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Autumns are warm in our village.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Water boils at 100°C.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Impersonal passive construction",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "He is said to have lost all his money.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "She is said to have lost all her money.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "It is expected that he will win the contest.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "He is expected to win the contest .",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "The question for “size”",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "How far?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "How old?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "How many?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "How deep?",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "The correct construction It was _____ nice weather _____ we spent the whole day on the beach.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "so, such",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "such, that",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "too, such",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "enough, so",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "A question with a suitable modal verb for offering help: Is it OK if I help you with your project completion? …I help you with your project completion?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Need",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Shall",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Have to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Must",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Irregular plural noun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "peer",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "fear",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "deer",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "seed",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Correct variant If only I … harder for my entrance exam.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "has been studied",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "have studied",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "had studied",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "had being studied",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "The verb followed by both infinitive and -ing form",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "to prevent",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "to remember",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "to promise",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "to appreciate",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Correct determiner He takes his dog for a walk … times a day.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "such",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "one-third",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "three",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "twice",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "The correct meaning of the impersonal sentence It’s your boss.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "time",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "identification",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "weather",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "distance",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "The correct variant Look out! The book ... into the sink.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "will be falling",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "was going to fall",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "is going to fall",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "has fallen",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: The Age of Flight Long before modern science made it possible, people had dreamt of flight as the final means of transport. Thousands of years ago, Daedalus and Icarus attempted to escape imprisonment on Crete using wings made of feathers and wax, but poor Icarus came to a tragic end when he flew too close to the sun and his wings fell to pieces. The story’s only a myth, yet it demonstrates how powerful the idea of flight has always been in our imaginations. The pioneers of modern aviation history were the Wright brothers of the USA, who made the first successful powered and piloted flight in 1903. Whatever hopes they had for their new invention, it’s doubtful that they could have imagined how advanced the science of flying would become. Aircraft are used for all sorts of purposes nowadays. The most advanced are used by the military and for space exploration and research. But what’s most remarkable about modern air travel is how important it’s become for even the most ordinary of people. The beginning of the Jet Age was the mid 1950s, when commercial airline companies started to take people to their destinations at a speed no one had thought possible before. Transatlantic flight meant that instead of taking weeks to get from Europe to the USA, the journey only took a few hours. In the early years of the Jet Age, air travel’s extremely expensive and nowhere near as comfortable as it’s today. Consequently, the number of people who used this new form of transport was quite small. But within twenty years, with the introduction of jumbo jets, all that changed and cheap air travel became available to the masses. Now hundreds of millions of people a year fly across the world. Most of them want to get to far-flung destinations for a holiday. One thing worth remembering, though, is that despite the progress made in air and space travel over the last century, it still has serious consequences for our environment. It uses huge amounts of fuel, causing pollution and contributing to global warming. Hopefully, it won’t be long before these forms of travel become as safe for the environment as they are for people. The myth about Daedalus and Icarus shows … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "people used reliable means of transport in the past",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "a true story about flight",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "that people hadn’t dreamt of flight",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "how long people have thought about flying",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: The Age of Flight Long before modern science made it possible, people had dreamt of flight as the final means of transport. Thousands of years ago, Daedalus and Icarus attempted to escape imprisonment on Crete using wings made of feathers and wax, but poor Icarus came to a tragic end when he flew too close to the sun and his wings fell to pieces. The story’s only a myth, yet it demonstrates how powerful the idea of flight has always been in our imaginations. The pioneers of modern aviation history were the Wright brothers of the USA, who made the first successful powered and piloted flight in 1903. Whatever hopes they had for their new invention, it’s doubtful that they could have imagined how advanced the science of flying would become. Aircraft are used for all sorts of purposes nowadays. The most advanced are used by the military and for space exploration and research. But what’s most remarkable about modern air travel is how important it’s become for even the most ordinary of people. The beginning of the Jet Age was the mid 1950s, when commercial airline companies started to take people to their destinations at a speed no one had thought possible before. Transatlantic flight meant that instead of taking weeks to get from Europe to the USA, the journey only took a few hours. In the early years of the Jet Age, air travel’s extremely expensive and nowhere near as comfortable as it’s today. Consequently, the number of people who used this new form of transport was quite small. But within twenty years, with the introduction of jumbo jets, all that changed and cheap air travel became available to the masses. Now hundreds of millions of people a year fly across the world. Most of them want to get to far-flung destinations for a holiday. One thing worth remembering, though, is that despite the progress made in air and space travel over the last century, it still has serious consequences for our environment. It uses huge amounts of fuel, causing pollution and contributing to global warming. Hopefully, it won’t be long before these forms of travel become as safe for the environment as they are for people. The same meaning The beginning of the Jet Age was the mid 1950s.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "The mid 1950s was the end of the Jet Age airline company.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "People have travelled by air since the middle of 1950s decade.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "The mid 1950s was the start of cheap flights for people.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "People have used airlines since the year 1950.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: The Age of Flight Long before modern science made it possible, people had dreamt of flight as the final means of transport. Thousands of years ago, Daedalus and Icarus attempted to escape imprisonment on Crete using wings made of feathers and wax, but poor Icarus came to a tragic end when he flew too close to the sun and his wings fell to pieces. The story’s only a myth, yet it demonstrates how powerful the idea of flight has always been in our imaginations. The pioneers of modern aviation history were the Wright brothers of the USA, who made the first successful powered and piloted flight in 1903. Whatever hopes they had for their new invention, it’s doubtful that they could have imagined how advanced the science of flying would become. Aircraft are used for all sorts of purposes nowadays. The most advanced are used by the military and for space exploration and research. But what’s most remarkable about modern air travel is how important it’s become for even the most ordinary of people. The beginning of the Jet Age was the mid 1950s, when commercial airline companies started to take people to their destinations at a speed no one had thought possible before. Transatlantic flight meant that instead of taking weeks to get from Europe to the USA, the journey only took a few hours. In the early years of the Jet Age, air travel’s extremely expensive and nowhere near as comfortable as it’s today. Consequently, the number of people who used this new form of transport was quite small. But within twenty years, with the introduction of jumbo jets, all that changed and cheap air travel became available to the masses. Now hundreds of millions of people a year fly across the world. Most of them want to get to far-flung destinations for a holiday. One thing worth remembering, though, is that despite the progress made in air and space travel over the last century, it still has serious consequences for our environment. It uses huge amounts of fuel, causing pollution and contributing to global warming. Hopefully, it won’t be long before these forms of travel become as safe for the environment as they are for people. At the start of Jet Ages … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "people travelled at a speed that nobody had imagined",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "people flew in Jumbo jets",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "it took a few hours to get from Europe to the USA",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "expensive air travel became available to the people",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: The Age of Flight Long before modern science made it possible, people had dreamt of flight as the final means of transport. Thousands of years ago, Daedalus and Icarus attempted to escape imprisonment on Crete using wings made of feathers and wax, but poor Icarus came to a tragic end when he flew too close to the sun and his wings fell to pieces. The story’s only a myth, yet it demonstrates how powerful the idea of flight has always been in our imaginations. The pioneers of modern aviation history were the Wright brothers of the USA, who made the first successful powered and piloted flight in 1903. Whatever hopes they had for their new invention, it’s doubtful that they could have imagined how advanced the science of flying would become. Aircraft are used for all sorts of purposes nowadays. The most advanced are used by the military and for space exploration and research. But what’s most remarkable about modern air travel is how important it’s become for even the most ordinary of people. The beginning of the Jet Age was the mid 1950s, when commercial airline companies started to take people to their destinations at a speed no one had thought possible before. Transatlantic flight meant that instead of taking weeks to get from Europe to the USA, the journey only took a few hours. In the early years of the Jet Age, air travel’s extremely expensive and nowhere near as comfortable as it’s today. Consequently, the number of people who used this new form of transport was quite small. But within twenty years, with the introduction of jumbo jets, all that changed and cheap air travel became available to the masses. Now hundreds of millions of people a year fly across the world. Most of them want to get to far-flung destinations for a holiday. One thing worth remembering, though, is that despite the progress made in air and space travel over the last century, it still has serious consequences for our environment. It uses huge amounts of fuel, causing pollution and contributing to global warming. Hopefully, it won’t be long before these forms of travel become as safe for the environment as they are for people. Correct ending Finally, the author mentions that the progress made in air … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "has severe penalties for our environment",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "isn’t possible without financial contribution",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "means the journey only took a few hours",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "becomes safe for the environment and for people",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: The Age of Flight Long before modern science made it possible, people had dreamt of flight as the final means of transport. Thousands of years ago, Daedalus and Icarus attempted to escape imprisonment on Crete using wings made of feathers and wax, but poor Icarus came to a tragic end when he flew too close to the sun and his wings fell to pieces. The story’s only a myth, yet it demonstrates how powerful the idea of flight has always been in our imaginations. The pioneers of modern aviation history were the Wright brothers of the USA, who made the first successful powered and piloted flight in 1903. Whatever hopes they had for their new invention, it’s doubtful that they could have imagined how advanced the science of flying would become. Aircraft are used for all sorts of purposes nowadays. The most advanced are used by the military and for space exploration and research. But what’s most remarkable about modern air travel is how important it’s become for even the most ordinary of people. The beginning of the Jet Age was the mid 1950s, when commercial airline companies started to take people to their destinations at a speed no one had thought possible before. Transatlantic flight meant that instead of taking weeks to get from Europe to the USA, the journey only took a few hours. In the early years of the Jet Age, air travel’s extremely expensive and nowhere near as comfortable as it’s today. Consequently, the number of people who used this new form of transport was quite small. But within twenty years, with the introduction of jumbo jets, all that changed and cheap air travel became available to the masses. Now hundreds of millions of people a year fly across the world. Most of them want to get to far-flung destinations for a holiday. One thing worth remembering, though, is that despite the progress made in air and space travel over the last century, it still has serious consequences for our environment. It uses huge amounts of fuel, causing pollution and contributing to global warming. Hopefully, it won’t be long before these forms of travel become as safe for the environment as they are for people. Correct ending The writer says that the Wright brothers … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "didn’t realize to what extend flying would develop",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "didn’t know how to make advanced planes",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "weren’t the first people to become pilots",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "completely failed making piloted flights",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "The compound adjective",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "whiteboard",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "red-haired",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "friendship",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "blackboard",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "An odd word",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "a schoolbag",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "a pencil sharpener",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "a pencil case",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "a wild life",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "The correct phrasal verb He had no idea what dangers to look____in the forest.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "over",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "after",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "into",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "out for",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Set expression to ... your goals",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "succeed",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "prosper",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "manage",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "reach",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "The correct abstract noun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "friendship",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "bookcase",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "snooker",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "pencil",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "The correct sentence with fixed arrangements",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Are you flying to San Francisco next week?",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Our flight back will leave on Saturday morning.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I think you are going to like the trip.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "We’re relaxing on a picnic.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Correct conjunction It was … an exciting competition that I forgot to phone you.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "such",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "as",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "if",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "so",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Correct preposition On school days I get up … 7 o’clock.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "at",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "into",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "for",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "The correct Present Perfect They … the new combine this morning.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "have tested",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "had tested",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "are testing",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "were tested",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Correct conjunction She’s … a good player that she could be a professional.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "so",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "too",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "such",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "enough",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "The correct pronoun …. I know enjoys adventure.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Everything",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Anyone",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Everyone",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Anything",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Reported speech “Why are you late?” The teacher asked why….",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "I am late",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "are you late",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "was I late",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "I was late",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "The correct variant ... honest, I didn’t like the course at all.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "To have been",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "To be",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Been",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Be",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "The correct conditional sentence",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "If we’ll turn down the music, we wouldn’t hear the singer.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "My parents will give me their old laptop if they buy a new one.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "I’ll take my tablet to the shop if it will break.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "If I will walk to school, I will be late.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "The correct usage of construction “used to” Marat … spend a lot of money on clothes.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "used to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "don’t use to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "use to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "didn’t used to",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "A question word for possession",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Who",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Whose",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Which",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "What",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "The correct Past Perfect Passive A story … by Olzhas before the beginning of autumn.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "had been written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "has written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "have written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "had written",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Modal verb for asking for advice",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "need to",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "could",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "might",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "shall",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "The correct modal verb You are not allowed to board the plane yet.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "could",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "should",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "mustn’t",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "don’t have",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Compound noun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "a dining room",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "a sharp knife",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "a quick step",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "a clever person",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "The correct verb from adjective",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "tighten",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "lengthen",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "empower",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "enthrone",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "The correct Future Perfect Passive … by the end of the week.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Aidana have planted a tree",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Aidana will have planted a tree",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "A tree will have been planted by Aidana",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "A tree will have planted by Aidana",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Impersonal passive construction",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "She said that she had some problem.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "He is said to be a well-known painter.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "They expect that he will come in time.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "The room was cleaned by my sister",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "The correct item “Put your things over there” he told us.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "He told them to put our things over here.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "He told me to put our things over there.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "He told us to put our things over there.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "He said us to put our things over here.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "The correct variant The university isn’t far. ... a two-kilometre walk from here.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "There is",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "There are",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "It has",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "It’s",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cheating in Sports Cheating in sports is widely condemned, yet the line between fair play and gamesmanship can be blurry. A notable example of cheating occurred when Spain fielded non-disabled athletes in the 2000 Sydney Paralympics basketball team. In contrast, gamesmanship involves bending the rules to gain an advantage without outright cheating. A case of gamesmanship is British cyclist Philip Hindes, who intentionally crashed his bike during the 2012 Olympics to restart a race after a bad start. His team ultimately won gold. Other tactics include faking injuries or wasting time to disrupt opponents, as seen with badminton player Carolina Marins at the 2016 Rio Olympics, who screamed to distract her rival but did not break any rules. Referees play a crucial role in identifying cheating, but they can miss important incidents. In cricket, batters often stay on the field after being hit by the ball, despite knowing they should leave. This behavior is not considered cheating. Diego Maradona’s infamous \"Hand of God\" goal in the 1986 World Cup is a clear example of cheating; he scored using his hand, and the referee missed it. Conversely, Brazilian player Rivaldo faked an injury in the 2002 World Cup and was fined when caught. Sometimes players might even lose on purpose for strategic advantages, as demonstrated by four badminton doubles teams at the 2012 London Olympics, which were disqualified for poor sportsmanship despite breaking no rules. In conclusion, while bending the rules may add intrigue to sports competitions, it raises questions about fairness and integrity. What is an example of cheating mentioned in the text?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "A badminton player distracted the competitor.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Spain fielded non-disabled athletes.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "The team intentionally lost a match.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Philip Hindes crashed his bike.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cheating in Sports Cheating in sports is widely condemned, yet the line between fair play and gamesmanship can be blurry. A notable example of cheating occurred when Spain fielded non-disabled athletes in the 2000 Sydney Paralympics basketball team. In contrast, gamesmanship involves bending the rules to gain an advantage without outright cheating. A case of gamesmanship is British cyclist Philip Hindes, who intentionally crashed his bike during the 2012 Olympics to restart a race after a bad start. His team ultimately won gold. Other tactics include faking injuries or wasting time to disrupt opponents, as seen with badminton player Carolina Marins at the 2016 Rio Olympics, who screamed to distract her rival but did not break any rules. Referees play a crucial role in identifying cheating, but they can miss important incidents. In cricket, batters often stay on the field after being hit by the ball, despite knowing they should leave. This behavior is not considered cheating. Diego Maradona’s infamous \"Hand of God\" goal in the 1986 World Cup is a clear example of cheating; he scored using his hand, and the referee missed it. Conversely, Brazilian player Rivaldo faked an injury in the 2002 World Cup and was fined when caught. Sometimes players might even lose on purpose for strategic advantages, as demonstrated by four badminton doubles teams at the 2012 London Olympics, which were disqualified for poor sportsmanship despite breaking no rules. In conclusion, while bending the rules may add intrigue to sports competitions, it raises questions about fairness and integrity. What tactics did British cyclist Philip Hindes use during the Olympics? He …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "broke his vehicle on purpose to resume the competition",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "distracted his opponents by loud noise",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "pretended to get injuries to disrupt the competition",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "stayed on the field after being hit",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cheating in Sports Cheating in sports is widely condemned, yet the line between fair play and gamesmanship can be blurry. A notable example of cheating occurred when Spain fielded non-disabled athletes in the 2000 Sydney Paralympics basketball team. In contrast, gamesmanship involves bending the rules to gain an advantage without outright cheating. A case of gamesmanship is British cyclist Philip Hindes, who intentionally crashed his bike during the 2012 Olympics to restart a race after a bad start. His team ultimately won gold. Other tactics include faking injuries or wasting time to disrupt opponents, as seen with badminton player Carolina Marins at the 2016 Rio Olympics, who screamed to distract her rival but did not break any rules. Referees play a crucial role in identifying cheating, but they can miss important incidents. In cricket, batters often stay on the field after being hit by the ball, despite knowing they should leave. This behavior is not considered cheating. Diego Maradona’s infamous \"Hand of God\" goal in the 1986 World Cup is a clear example of cheating; he scored using his hand, and the referee missed it. Conversely, Brazilian player Rivaldo faked an injury in the 2002 World Cup and was fined when caught. Sometimes players might even lose on purpose for strategic advantages, as demonstrated by four badminton doubles teams at the 2012 London Olympics, which were disqualified for poor sportsmanship despite breaking no rules. In conclusion, while bending the rules may add intrigue to sports competitions, it raises questions about fairness and integrity. What are referees responsible for?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Deciding the winners of the game",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Detecting fraud and enforcing rules",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Missing important incidents",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Coaching the team during the match",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cheating in Sports Cheating in sports is widely condemned, yet the line between fair play and gamesmanship can be blurry. A notable example of cheating occurred when Spain fielded non-disabled athletes in the 2000 Sydney Paralympics basketball team. In contrast, gamesmanship involves bending the rules to gain an advantage without outright cheating. A case of gamesmanship is British cyclist Philip Hindes, who intentionally crashed his bike during the 2012 Olympics to restart a race after a bad start. His team ultimately won gold. Other tactics include faking injuries or wasting time to disrupt opponents, as seen with badminton player Carolina Marins at the 2016 Rio Olympics, who screamed to distract her rival but did not break any rules. Referees play a crucial role in identifying cheating, but they can miss important incidents. In cricket, batters often stay on the field after being hit by the ball, despite knowing they should leave. This behavior is not considered cheating. Diego Maradona’s infamous \"Hand of God\" goal in the 1986 World Cup is a clear example of cheating; he scored using his hand, and the referee missed it. Conversely, Brazilian player Rivaldo faked an injury in the 2002 World Cup and was fined when caught. Sometimes players might even lose on purpose for strategic advantages, as demonstrated by four badminton doubles teams at the 2012 London Olympics, which were disqualified for poor sportsmanship despite breaking no rules. In conclusion, while bending the rules may add intrigue to sports competitions, it raises questions about fairness and integrity. Which incident involved Diego Maradona during the 1986 World Cup? He …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "was disqualified for breaking the rules",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "lost the match for strategic reasons",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "scored inconspicuous goal using his hand",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "faked the injury to gain a penalty",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Cheating in Sports Cheating in sports is widely condemned, yet the line between fair play and gamesmanship can be blurry. A notable example of cheating occurred when Spain fielded non-disabled athletes in the 2000 Sydney Paralympics basketball team. In contrast, gamesmanship involves bending the rules to gain an advantage without outright cheating. A case of gamesmanship is British cyclist Philip Hindes, who intentionally crashed his bike during the 2012 Olympics to restart a race after a bad start. His team ultimately won gold. Other tactics include faking injuries or wasting time to disrupt opponents, as seen with badminton player Carolina Marins at the 2016 Rio Olympics, who screamed to distract her rival but did not break any rules. Referees play a crucial role in identifying cheating, but they can miss important incidents. In cricket, batters often stay on the field after being hit by the ball, despite knowing they should leave. This behavior is not considered cheating. Diego Maradona’s infamous \"Hand of God\" goal in the 1986 World Cup is a clear example of cheating; he scored using his hand, and the referee missed it. Conversely, Brazilian player Rivaldo faked an injury in the 2002 World Cup and was fined when caught. Sometimes players might even lose on purpose for strategic advantages, as demonstrated by four badminton doubles teams at the 2012 London Olympics, which were disqualified for poor sportsmanship despite breaking no rules. In conclusion, while bending the rules may add intrigue to sports competitions, it raises questions about fairness and integrity. What was the outcome for badminton team at the 2012 London Olympics? They …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "won gold medal for an excellent game",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "received no punishment",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "were disqualified despite breaking no rules",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "were fined for cheating when caught",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Correct quantitative pronoun … is going fine with Ted’s Science presentation.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Everything",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "Everyone",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Nothing",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Everybody",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Appropriate suffix argue",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "-tion",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "-ness",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "-ity",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-ment",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "The correct meaning They stopped being nosey after the warning.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "stop an activity",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "do something as an experiment",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "be sorry about the past",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "pause and do something else",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "The correct adjective If you are …, you want to be very successful.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "selfish",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "arrogant",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "generous",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "ambitious",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Appropriate preposition. To change a page in a book means to turn …",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "away",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "over",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "down",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "into",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "The correct determiner … in the street is the same.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "all thing",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "anything",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "something",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "everything",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "The correct Reported statement «You can feed the animals later» He said … feed the animals later.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "we should have",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "we didn’t need",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "you could",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "we would be able to",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "The correct option I would never … Madina if I …Taraz.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "have meet, had visited",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "have met, hadn’t visited",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "have met, had visit",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "met, hadn’t visit",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "The correct quantative pronoun Madina has very … friends in Astana.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "little",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "many",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "much",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "few",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "The correct verb with the preposition TO",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "depend",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "excuse",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "belong",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "knock",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "The appropriate option ‘I’ll meet you at 4 pm,’ said Peter to Ann. Peter … meet her at 4 pm.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "told Ann that he’d",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "said to Ann that he",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "told Ann that he’ll",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "said Ann that he’d",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "The correct question word … have you known Lisa?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "Who",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "How long",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "When",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "What time",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "The correct modal verb Excuse me, I … understand what it says here.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "could",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "shouldn’t",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "can’t",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "can",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Correct phrasal verb which means “do well in a career”",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "get along",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "get across",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "get ahead",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "get through",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Adjective forming suffix",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "-able",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "-ness",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "-sion",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "-en",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "The correct relative pronoun That is the sports shop … you can buy really cheap trainers there.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "who",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "which",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "that",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "where",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Synonym to the word flat",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "apartment",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "furniture",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "house",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "building",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Complete the sentence The Canterville ghost …. by Oscar Wilde.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "has written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "had written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "was written",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "were written",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Quantifier is used with countable/uncountable nouns",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "a good number of",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "several",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "a couple of",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "plenty of",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Complete the sentence When a person feels phobia, he (she) is … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "motivated",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "interested",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "depressed",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "frightened",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Present Continuous Passive The bridge … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "is being built",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "is being building",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "has been built",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "is building",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "The correct reporting verb He … that the plan would help the animals.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "wondered",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "agreed",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "ordered",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "advised",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "The correct article You can get there by ... bus.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "a",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "no article",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "the",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "an",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Impersonal sentence",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "It looks like your tempo is slow.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "The students closed their books.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "Free healthcare will become a reality.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "Students carried out the research.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Appropriate reported form «I like cooking». She said that she … cooking.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "liking",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "will like",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "liked",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "has liked",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: First Aid First aid is the first and immediate assistance given to people who suddenly get sick (illnesses) or hurt (injuries or body damage). For example, first aid is used at accidents to help an injured person until they get medical treatment (help by doctors, nurses or ambulances). First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care. A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit. Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere. In places far from hospitals, first aid may be the only help possible until the person can be taken to a hospital or clinic. Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives. First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life. The main goals of first aid are called the «Three P’s»: Preserve life – stop the person from dying. Prevent further injury – stop the person from being injured even more. Promote recovery – try to help the person heal their injuries. One of the most common situations at the scene of accident is to find someone lying unconscious on the ground. In this instance, your priority is to call for the emergency services. Next, you must make sure that the area is safe for yourself and others. Check the casualty, and if they are breathing, try to put them in the recovery position and do not adjust the position of their head and neck. The recovery position keeps the victim’s airways open and prevents them from choking while waiting for medical help. The same meaning of “illness”",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "emergency",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "medical care",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "disease",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "medical treatment",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: First Aid First aid is the first and immediate assistance given to people who suddenly get sick (illnesses) or hurt (injuries or body damage). For example, first aid is used at accidents to help an injured person until they get medical treatment (help by doctors, nurses or ambulances). First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care. A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit. Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere. In places far from hospitals, first aid may be the only help possible until the person can be taken to a hospital or clinic. Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives. First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life. The main goals of first aid are called the «Three P’s»: Preserve life – stop the person from dying. Prevent further injury – stop the person from being injured even more. Promote recovery – try to help the person heal their injuries. One of the most common situations at the scene of accident is to find someone lying unconscious on the ground. In this instance, your priority is to call for the emergency services. Next, you must make sure that the area is safe for yourself and others. Check the casualty, and if they are breathing, try to put them in the recovery position and do not adjust the position of their head and neck. The recovery position keeps the victim’s airways open and prevents them from choking while waiting for medical help. The correct relative clause inroduced with a relative pronoun",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "First priority is to call for the emergency services.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "It is the first and immediate assistance given to people.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "It skills are kept on purpose so that people can remember.",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "It is used to help people who suddenly become sick.",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: First Aid First aid is the first and immediate assistance given to people who suddenly get sick (illnesses) or hurt (injuries or body damage). For example, first aid is used at accidents to help an injured person until they get medical treatment (help by doctors, nurses or ambulances). First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care. A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit. Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere. In places far from hospitals, first aid may be the only help possible until the person can be taken to a hospital or clinic. Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives. First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life. The main goals of first aid are called the «Three P’s»: Preserve life – stop the person from dying. Prevent further injury – stop the person from being injured even more. Promote recovery – try to help the person heal their injuries. One of the most common situations at the scene of accident is to find someone lying unconscious on the ground. In this instance, your priority is to call for the emergency services. Next, you must make sure that the area is safe for yourself and others. Check the casualty, and if they are breathing, try to put them in the recovery position and do not adjust the position of their head and neck. The recovery position keeps the victim’s airways open and prevents them from choking while waiting for medical help. The first aid is … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "it’s the immediate assistance given to people who suddenly get sick",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "emergency medical dispatchers are trained in the first aid",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "a package of things useful to give the first aid",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "the main goals of the first aid are called the «Three P’s»",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: First Aid First aid is the first and immediate assistance given to people who suddenly get sick (illnesses) or hurt (injuries or body damage). For example, first aid is used at accidents to help an injured person until they get medical treatment (help by doctors, nurses or ambulances). First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care. A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit. Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere. In places far from hospitals, first aid may be the only help possible until the person can be taken to a hospital or clinic. Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives. First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life. The main goals of first aid are called the «Three P’s»: Preserve life – stop the person from dying. Prevent further injury – stop the person from being injured even more. Promote recovery – try to help the person heal their injuries. One of the most common situations at the scene of accident is to find someone lying unconscious on the ground. In this instance, your priority is to call for the emergency services. Next, you must make sure that the area is safe for yourself and others. Check the casualty, and if they are breathing, try to put them in the recovery position and do not adjust the position of their head and neck. The recovery position keeps the victim’s airways open and prevents them from choking while waiting for medical help. If you see an unconscious person … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "you mustn’t call for the emergency services",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "change the position of their head and neck",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "be convinced of the place is not danderous",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "try to put them in the left position",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: First Aid First aid is the first and immediate assistance given to people who suddenly get sick (illnesses) or hurt (injuries or body damage). For example, first aid is used at accidents to help an injured person until they get medical treatment (help by doctors, nurses or ambulances). First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care. A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit. Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere. In places far from hospitals, first aid may be the only help possible until the person can be taken to a hospital or clinic. Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives. First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life. The main goals of first aid are called the «Three P’s»: Preserve life – stop the person from dying. Prevent further injury – stop the person from being injured even more. Promote recovery – try to help the person heal their injuries. One of the most common situations at the scene of accident is to find someone lying unconscious on the ground. In this instance, your priority is to call for the emergency services. Next, you must make sure that the area is safe for yourself and others. Check the casualty, and if they are breathing, try to put them in the recovery position and do not adjust the position of their head and neck. The recovery position keeps the victim’s airways open and prevents them from choking while waiting for medical help. The main goal of the writer’s view is to … .",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "show the recovery in detail",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "clarify the goals of first aid",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "justify creative help to an injured person",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "discover the efficiency of medical treatment",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      }
+    }
+  }
+}

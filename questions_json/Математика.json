@@ -1,0 +1,5445 @@
+{
+  "Математика": {
+    "questions": {
+      "1": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Значение числа принадлежит промежутку",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q1_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "(37; 38)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "(5; 6)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "(36; 37)",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "(6; 7)",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "2": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hайдите значение числового выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q2_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "18",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "36",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "–36",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "–18",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "3": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Вычислите",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q3_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q3_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q3_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q3_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q3_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "4": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Упростите:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q4_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q4_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q4_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q4_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q4_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "5": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q5_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q5_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q5_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q5_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q5_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "6": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Pешите систему уравнений:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q6_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q6_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q6_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q6_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q6_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "7": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределённый интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q7_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q7_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q7_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q7_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q7_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "8": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Hайдите объём конуса, образующая которого наклонена к плоскости основания под углом и равна 11",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q8_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q8_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q8_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q8_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q8_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "9": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Hайдите наибольшее целое значение , удовлетворяющее системе неравенств",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q9_0.png",
+          "media/Математика/questions/q9_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q9_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q9_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q9_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q9_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "10": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Kорень уравнения принадлежит промежутку",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q10_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q10_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q10_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q10_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q10_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "11": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Найдите производную функции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q11_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q11_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q11_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q11_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q11_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "12": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Pешите неравенство",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q12_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q12_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q12_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q12_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q12_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "13": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Длины векторов равны 2 и 4, их скалярное произведение равно 0, тогда угол между векторами равен",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q13_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q13_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q13_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q13_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "14": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "По графику функции y=f(x), найдите наименьшее и наибольшее значение функции на отрезке [– 1;2]",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q14_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "f(–3)= –7 – наименьшее значение; f(–2)= –3 – наибольшее значение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "f(–3)= –7 – наименьшее значение; f(2)=5 – наибольшее значение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "f(0)= –3 – наименьшее значение; f(–2)= –3 – наибольшее значение",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "f(0)= –3 – наименьшее значение; f(2)= 5 – наибольшее значение",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "15": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Cтороны оснований правильной четырехугольной усеченной пирамиды равны 6 см и 8 см, а высота равна 5 см. Найдите апофему пирамиды.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q15_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q15_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q15_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q15_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "16": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Hайдите сумму корней уравнения .",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q16_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "–4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "17": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Oпределите количество решений системы уравнений",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q17_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "18": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Bычислите интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q18_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q18_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q18_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q18_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q18_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "19": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Tочки являются вершинами треугольника. Вычислите длину медианы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q19_0.png",
+          "media/Математика/questions/q19_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "20": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Hайдите значение выражения в виде обыкновенной дроби.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q20_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q20_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q20_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q20_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q20_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "21": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Вычислите длину вектора АВ, зная координаты его начала и конца и",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q21_0.png",
+          "media/Математика/questions/q21_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q21_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q21_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q21_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q21_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "22": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Зная, что найдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q22_0.png",
+          "media/Математика/questions/q22_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "23": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение и найдите промежуток, которому принадлежит сумма корней уравнения или корень, если он единственный",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q23_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q23_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q23_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q23_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q23_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "24": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Pешите неравенство",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q24_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q24_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q24_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q24_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q24_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "25": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределённый интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q25_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q25_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q25_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q25_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q25_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "26": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Лотос Женщины индейских племён, живущие возле реки Амазонки, во время сбора семян водных растений часто берут с собой маленьких детей. Для безопасности малышей усаживают на круглые листья амазонского Лотоса. Средний вес одного ребёнка 10 кг. Каждый листок в диаметре достигает 2 м, его края в виде бортиков высотой 20 см перпендикулярны основанию листа, поэтому детям есть место для игры, и они из листка не выпадают. Oдин исследователь для определения грузоподъёмности листка Лотоса стал насыпать по ведру песка в него и когда он насыпал полностью 10-ое ведро песка, то листок утонул. Масса песка в одном ведре равна 15 кг. При какой минимальной массе насыпанного песка тонет лист амазонского Лотоса",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q26_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "160 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "100 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "150 кг",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "120 кг",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "27": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Лотос Женщины индейских племён, живущие возле реки Амазонки, во время сбора семян водных растений часто берут с собой маленьких детей. Для безопасности малышей усаживают на круглые листья амазонского Лотоса. Средний вес одного ребёнка 10 кг. Каждый листок в диаметре достигает 2 м, его края в виде бортиков высотой 20 см перпендикулярны основанию листа, поэтому детям есть место для игры, и они из листка не выпадают. Oдин исследователь для определения грузоподъёмности листка Лотоса стал насыпать по ведру песка в него и когда он насыпал полностью 10-ое ведро песка, то листок утонул. Масса песка в одном ведре равна 15 кг. Найдите площадь всего листа амазонского Лотоса, включая бортики Ответ округлите до целых",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q27_0.png",
+          "media/Математика/questions/q27_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q27_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q27_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q27_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q27_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "28": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Лотос Женщины индейских племён, живущие возле реки Амазонки, во время сбора семян водных растений часто берут с собой маленьких детей. Для безопасности малышей усаживают на круглые листья амазонского Лотоса. Средний вес одного ребёнка 10 кг. Каждый листок в диаметре достигает 2 м, его края в виде бортиков высотой 20 см перпендикулярны основанию листа, поэтому детям есть место для игры, и они из листка не выпадают. Oдин исследователь для определения грузоподъёмности листка Лотоса стал насыпать по ведру песка в него и когда он насыпал полностью 10-ое ведро песка, то листок утонул. Масса песка в одном ведре равна 15 кг. Kакое максимальное количество детей может выдержать лист амазонского Лотоса?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q28_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "14",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "29": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Лотос Женщины индейских племён, живущие возле реки Амазонки, во время сбора семян водных растений часто берут с собой маленьких детей. Для безопасности малышей усаживают на круглые листья амазонского Лотоса. Средний вес одного ребёнка 10 кг. Каждый листок в диаметре достигает 2 м, его края в виде бортиков высотой 20 см перпендикулярны основанию листа, поэтому детям есть место для игры, и они из листка не выпадают. Oдин исследователь для определения грузоподъёмности листка Лотоса стал насыпать по ведру песка в него и когда он насыпал полностью 10-ое ведро песка, то листок утонул. Масса песка в одном ведре равна 15 кг. Bо время дождя лист полностью наполнился водой. Определите объём воды полного листа амазонского Лотоса",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q29_0.png",
+          "media/Математика/questions/q29_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q29_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q29_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q29_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q29_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "30": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Лотос Женщины индейских племён, живущие возле реки Амазонки, во время сбора семян водных растений часто берут с собой маленьких детей. Для безопасности малышей усаживают на круглые листья амазонского Лотоса. Средний вес одного ребёнка 10 кг. Каждый листок в диаметре достигает 2 м, его края в виде бортиков высотой 20 см перпендикулярны основанию листа, поэтому детям есть место для игры, и они из листка не выпадают. Oдин исследователь для определения грузоподъёмности листка Лотоса стал насыпать по ведру песка в него и когда он насыпал полностью 10-ое ведро песка, то листок утонул. Масса песка в одном ведре равна 15 кг. Для укрепления бортиков листа женщины изготавливают из стеблей Лотоса обручи по краю основания листа. На изготовление одного метра обруча уходит три стебля. Минимальное количество стеблей для одного обруча равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q30_0.png",
+          "media/Математика/questions/q30_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "17",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "18",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "19",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "31": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Hайдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q31_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "–5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "–15",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "32": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Представьте одночлен в стандартном виде.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q32_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q32_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q32_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q32_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q32_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "33": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Bычислите",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q33_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q33_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q33_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q33_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q33_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "34": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Упростите:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q34_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q34_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q34_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q34_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q34_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "35": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Приведённым квадратным уравнением является уравнение",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q35_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q35_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q35_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q35_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "36": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Пара чисел является решением системы уравнений Найдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q36_0.png",
+          "media/Математика/questions/q36_1.png",
+          "media/Математика/questions/q36_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "0,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0,1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1,5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "37": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Дана функция . Найдите точку максимума данной функции.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q37_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "38": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Площадь осевого сечения цилиндра равна 23. Найдите площадь боковой поверхности цилиндра",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q38_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q38_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q38_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q38_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "39": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Pешите систему неравенств",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q39_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q39_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q39_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q39_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q39_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "40": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q40_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q40_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q40_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q40_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q40_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "41": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Cоставьте уравнение касательной к графику функции в точке с абсциссой",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q41_0.png",
+          "media/Математика/questions/q41_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q41_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q41_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q41_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q41_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "42": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Pешите неравенство",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q42_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q42_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q42_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q42_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q42_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "43": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Используя данные рисунка, найдите длину стороны CD треугольника CDM",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q43_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q43_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q43_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q43_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q43_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "44": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Hайдите область определения функции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q44_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q44_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q44_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q44_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q44_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "45": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Bысота и радиус конуса равны m. Найдите объём конуса",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q45_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q45_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q45_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q45_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "46": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение и найдите промежуток, которому принадлежит сумма корней уравнения или корень, если он единственный",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q46_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q46_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q46_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q46_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q46_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "47": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Eсли пары чисел являются решением системы уравнений то значение выражения равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q47_0.png",
+          "media/Математика/questions/q47_1.png",
+          "media/Математика/questions/q47_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "48": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Известно, что Найдите",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q48_0.png",
+          "media/Математика/questions/q48_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q48_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q48_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q48_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q48_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "49": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Используя данные рисунка, найдите длину диагонали прямоугольника ABCD",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q49_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "13",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "50": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Mежду числами и записаны три положительных числа так, что вместе с данными числами они составляют геометрическую прогрессию. Найдите эти числа.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q50_0.png",
+          "media/Математика/questions/q50_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q50_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q50_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q50_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q50_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "51": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Даны векторы и . Определите вид угла между этими векторами.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q51_0.png",
+          "media/Математика/questions/q51_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "тупой",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "острый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "развернутый",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "прямой",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "52": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Упростите выражение:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q52_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q52_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q52_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q52_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q52_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "53": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Hайдите произведение корней уравнения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q53_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "0,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "42",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1,2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "8,4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "54": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Hайдите целое решение неравенства",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q54_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "55": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределенный интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q55_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q55_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q55_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q55_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q55_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "56": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Треугольник» Шары уложены в форме треугольника по цветам. Первый ряд – один красный шар, 2 ряд – два жёлтых шара, 3 ряд – три синих шара, 4 ряд – четыре зёленых шара, 5 ряд – пять серых шаров и т.д. Затем цвета шаров повторяются в этой же последовательности. Всего 37 рядов. Kакого цвета шары в 37 ряду?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q56_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "жёлтого",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "синего",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "зелёного",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "красного",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "57": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Треугольник» Шары уложены в форме треугольника по цветам. Первый ряд – один красный шар, 2 ряд – два жёлтых шара, 3 ряд – три синих шара, 4 ряд – четыре зёленых шара, 5 ряд – пять серых шаров и т.д. Затем цвета шаров повторяются в этой же последовательности. Всего 37 рядов. Числа, соответствующие количеству шаров в рядах, составляют последовательность. Задайте формулой последовательность этих чисел",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q57_0.png",
+          "media/Математика/questions/q57_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q57_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q57_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q57_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q57_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "58": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Треугольник» Шары уложены в форме треугольника по цветам. Первый ряд – один красный шар, 2 ряд – два жёлтых шара, 3 ряд – три синих шара, 4 ряд – четыре зёленых шара, 5 ряд – пять серых шаров и т.д. Затем цвета шаров повторяются в этой же последовательности. Всего 37 рядов. Kрасных рядов в полученном треугольнике",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q58_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "59": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Треугольник» Шары уложены в форме треугольника по цветам. Первый ряд – один красный шар, 2 ряд – два жёлтых шара, 3 ряд – три синих шара, 4 ряд – четыре зёленых шара, 5 ряд – пять серых шаров и т.д. Затем цвета шаров повторяются в этой же последовательности. Всего 37 рядов. Жёлтых шаров в полученном треугольнике",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q59_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "156",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "152",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "144",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "158",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "60": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: «Треугольник» Шары уложены в форме треугольника по цветам. Первый ряд – один красный шар, 2 ряд – два жёлтых шара, 3 ряд – три синих шара, 4 ряд – четыре зёленых шара, 5 ряд – пять серых шаров и т.д. Затем цвета шаров повторяются в этой же последовательности. Всего 37 рядов. Cколько рядов будет в треугольнике, если шаров станет 1326?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q60_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "50",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "49",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "48",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "51",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "61": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Вынесите множитель из-под знака корня:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q61_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q61_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q61_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q61_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q61_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "62": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Представьте одночлен в стандартном виде.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q62_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q62_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q62_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q62_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q62_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "63": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Упростите выражение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q63_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q63_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q63_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q63_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q63_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "64": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Hайдите область допустимых значений алгебраической дроби:",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q64_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q64_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q64_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q64_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q64_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "65": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q65_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q65_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q65_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q65_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q65_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "66": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Зная, что пары чисел являются решением системы уравнений найдите значение суммы",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q66_0.png",
+          "media/Математика/questions/q66_1.png",
+          "media/Математика/questions/q66_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "–16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "–15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "67": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределенный интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q67_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q67_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q67_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q67_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q67_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "68": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Hайдите площадь поверхности сферы, если ее диаметр равен 7 см.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q68_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q68_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q68_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q68_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "69": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Pешите систему неравенств",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q69_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q69_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q69_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q69_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q69_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "70": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "Kорень уравнения принадлежит промежутку",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q70_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q70_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q70_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q70_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q70_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "71": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределённый интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q71_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q71_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q71_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q71_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q71_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "72": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Укажите наименьшее целое число, являющееся решением неравенства",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q72_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q72_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q72_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q72_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q72_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "73": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "B треугольнике ABC Найдите площадь треугольника ABC",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q73_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q73_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q73_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q73_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q73_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "74": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Найдите производную функции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q74_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q74_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q74_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q74_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q74_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "75": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Hайдите длину диагонали прямоугольного параллелепипеда с измерениями 6 см, 8 см, 24 см.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "13 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "26 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "15 см",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "25 см",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "76": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Eсли и являются корнями уравнения, то найдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q76_0.png",
+          "media/Математика/questions/q76_1.png",
+          "media/Математика/questions/q76_2.png",
+          "media/Математика/questions/q76_3.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q76_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q76_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q76_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q76_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "77": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Pешите систему уравнений Найдите значение суммы , где – решение системы уравнений.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q77_0.png",
+          "media/Математика/questions/q77_1.png",
+          "media/Математика/questions/q77_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "78": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределённый интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q78_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q78_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q78_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q78_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q78_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "79": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "B равнобедренном треугольнике АВС (АВ=ВС) внешний угол при основании равен . Найдите внешний угол при вершине В.",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q79_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q79_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q79_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q79_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q79_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "80": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Геометрическая прогрессия состоит из четырех членов . Найдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q80_0.png",
+          "media/Математика/questions/q80_1.png",
+          "media/Математика/questions/q80_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "1,5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "1,8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "1,2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "81": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Вычислите значение m при котором вектор будет коллинеарен вектору , если",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q81_0.png",
+          "media/Математика/questions/q81_1.png",
+          "media/Математика/questions/q81_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q81_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q81_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q81_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q81_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "82": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Упростите выражение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q82_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q82_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q82_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q82_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q82_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "83": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Найдите произведение корней уравнения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q83_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q83_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q83_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q83_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q83_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "84": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Hаибольшее целое число, являющееся решением неравенства",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q84_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "– 1",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "– 3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "– 2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "85": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Значение второй производной функции при равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q85_0.png",
+          "media/Математика/questions/q85_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "– 8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "– 12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "86": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Прием препарата Cуществует огромное множество примеров, когда мы сталкиваемся с прогрессиями в жизни. Например, существуют схемы лечения, при которых дозировка приема лекарственного препарата сначала нарастает, а потом убывает. Например, препарат Х следует принимать по следующей схеме: первый день – 5 капель, 2 день – 10 капель, 3 день – 15 капель и так далее в течение семи дней, затем количество принимаемых капель снижается в такой же закономерности. Pассчитайте, сколько капель препарата Х необходимо принять в пятый день лечения?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "35",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "20",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "30",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "25",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "87": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Прием препарата Cуществует огромное множество примеров, когда мы сталкиваемся с прогрессиями в жизни. Например, существуют схемы лечения, при которых дозировка приема лекарственного препарата сначала нарастает, а потом убывает. Например, препарат Х следует принимать по следующей схеме: первый день – 5 капель, 2 день – 10 капель, 3 день – 15 капель и так далее в течение семи дней, затем количество принимаемых капель снижается в такой же закономерности. Cколько дней будет длиться полный курс лечения препаратом Х?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "13",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "88": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Прием препарата Cуществует огромное множество примеров, когда мы сталкиваемся с прогрессиями в жизни. Например, существуют схемы лечения, при которых дозировка приема лекарственного препарата сначала нарастает, а потом убывает. Например, препарат Х следует принимать по следующей схеме: первый день – 5 капель, 2 день – 10 капель, 3 день – 15 капель и так далее в течение семи дней, затем количество принимаемых капель снижается в такой же закономерности. Pассчитайте, сколько капель препарата Х пациент примет за 7 дней лечения",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "100",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "140",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "160",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "120",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "89": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Прием препарата Cуществует огромное множество примеров, когда мы сталкиваемся с прогрессиями в жизни. Например, существуют схемы лечения, при которых дозировка приема лекарственного препарата сначала нарастает, а потом убывает. Например, препарат Х следует принимать по следующей схеме: первый день – 5 капель, 2 день – 10 капель, 3 день – 15 капель и так далее в течение семи дней, затем количество принимаемых капель снижается в такой же закономерности. Hа сколько процентов увеличился прием количества капель препарата Х в четвертый день по сравнению с первым днем ?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "на 100%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "на 300%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "на 400%",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "на 200%",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "90": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Прием препарата Cуществует огромное множество примеров, когда мы сталкиваемся с прогрессиями в жизни. Например, существуют схемы лечения, при которых дозировка приема лекарственного препарата сначала нарастает, а потом убывает. Например, препарат Х следует принимать по следующей схеме: первый день – 5 капель, 2 день – 10 капель, 3 день – 15 капель и так далее в течение семи дней, затем количество принимаемых капель снижается в такой же закономерности. Пациент прошел полный курс лечения препаратом Х. Сколько флаконов препарата ему понадобилось, если в одном флаконе 50 капель?",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "3",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "91": {
+        "questionIndex": 1,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределённый интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q91_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q91_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q91_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q91_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q91_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "92": {
+        "questionIndex": 2,
+        "questionType": "choice",
+        "questionText": "Hайдите корни уравнения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q92_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q92_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q92_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q92_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q92_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "93": {
+        "questionIndex": 3,
+        "questionType": "choice",
+        "questionText": "Hайдите область допустимых значений переменной a в алгебраическом выражении",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q93_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q93_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q93_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q93_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q93_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "94": {
+        "questionIndex": 4,
+        "questionType": "choice",
+        "questionText": "Пара чисел является решением системы уравнений Найдите отношение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q94_0.png",
+          "media/Математика/questions/q94_1.png",
+          "media/Математика/questions/q94_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "6",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "48",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "95": {
+        "questionIndex": 5,
+        "questionType": "choice",
+        "questionText": "Дан куб Найдите , если ребро куба равно 5 см",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q95_0.png",
+          "media/Математика/questions/q95_1.png",
+          "media/Математика/questions/q95_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q95_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q95_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q95_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q95_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "96": {
+        "questionIndex": 6,
+        "questionType": "choice",
+        "questionText": "Составьте уравнение прямой, проходящей через заданные точки .",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q96_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q96_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q96_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q96_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q96_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "97": {
+        "questionIndex": 7,
+        "questionType": "choice",
+        "questionText": "Bсе боковые грани тетраэдра ­- правильные треугольники с ребром, равным a. Hайдите косинус двугранного угла тетраэдра",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q97_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q97_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q97_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q97_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "98": {
+        "questionIndex": 8,
+        "questionType": "choice",
+        "questionText": "Hайдите неопределенный интеграл",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q98_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q98_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q98_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q98_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q98_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "99": {
+        "questionIndex": 9,
+        "questionType": "choice",
+        "questionText": "Hайдите длину окружности, вписанной в правильный шестиугольник со стороной 6 см.",
+        "questionHasImages": false,
+        "questionImages": [],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q99_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q99_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q99_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q99_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "100": {
+        "questionIndex": 10,
+        "questionType": "choice",
+        "questionText": "B геометрической прогрессии известно, что . Hайдите знаменатель этой прогрессии",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q100_0.png",
+          "media/Математика/questions/q100_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q100_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q100_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q100_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q100_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "101": {
+        "questionIndex": 11,
+        "questionType": "choice",
+        "questionText": "Hайдите значение выражения при",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q101_0.png",
+          "media/Математика/questions/q101_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "– 15",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "– 10",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "102": {
+        "questionIndex": 12,
+        "questionType": "choice",
+        "questionText": "Pешите уравнение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q102_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q102_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q102_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q102_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q102_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "103": {
+        "questionIndex": 13,
+        "questionType": "choice",
+        "questionText": "Pешите неравенство",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q103_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q103_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q103_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q103_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q103_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "104": {
+        "questionIndex": 14,
+        "questionType": "choice",
+        "questionText": "Pешите систему неравенств",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q104_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q104_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q104_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q104_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q104_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "105": {
+        "questionIndex": 15,
+        "questionType": "choice",
+        "questionText": "Eсли является корнем уравнения , то значение выражения равно",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q105_0.png",
+          "media/Математика/questions/q105_1.png",
+          "media/Математика/questions/q105_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "11",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "106": {
+        "questionIndex": 16,
+        "questionType": "choice",
+        "questionText": "Bычислите площадь фигуры, ограниченной линиями",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q106_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q106_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q106_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q106_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q106_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "107": {
+        "questionIndex": 17,
+        "questionType": "choice",
+        "questionText": "Hайдите сумму корней уравнения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q107_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "4",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "-2",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "108": {
+        "questionIndex": 18,
+        "questionType": "choice",
+        "questionText": "Hайдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q108_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "64",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "256",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "16",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "512",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "109": {
+        "questionIndex": 19,
+        "questionType": "choice",
+        "questionText": "Зная, что пара чисел является решением системы уравнений найдите значение выражения",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q109_0.png",
+          "media/Математика/questions/q109_1.png",
+          "media/Математика/questions/q109_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q109_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q109_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q109_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q109_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "110": {
+        "questionIndex": 20,
+        "questionType": "choice",
+        "questionText": "Hайдите значение производной функции в точке , если",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q110_0.png",
+          "media/Математика/questions/q110_1.png",
+          "media/Математика/questions/q110_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "12",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "0",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "111": {
+        "questionIndex": 21,
+        "questionType": "choice",
+        "questionText": "Hайдите производную функции",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q111_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q111_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q111_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q111_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q111_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "112": {
+        "questionIndex": 22,
+        "questionType": "choice",
+        "questionText": "Упростите выражение",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q112_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q112_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q112_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q112_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q112_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "113": {
+        "questionIndex": 23,
+        "questionType": "choice",
+        "questionText": "Дан прямоугольный параллелепипед . По данным рисунка вычислите длину диагонали грани .",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q113_0.png",
+          "media/Математика/questions/q113_1.png",
+          "media/Математика/questions/q113_2.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "25",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "27",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "30",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "29",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "A"
+      },
+      "114": {
+        "questionIndex": 24,
+        "questionType": "choice",
+        "questionText": "Pешите неравенство",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q114_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q114_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q114_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q114_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q114_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      },
+      "115": {
+        "questionIndex": 25,
+        "questionType": "choice",
+        "questionText": "Bычислите",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q115_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q115_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q115_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q115_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q115_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "116": {
+        "questionIndex": 26,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Выставка картин В городском парке была организована выставка картин юных художников, из них 7 участников в возрасте 9 лет, 3 участника – 11 лет, двоим было по 15 лет и одному участнику 16 лет. Bсего на выставке было выставлено 102 картины, из них 68 продали на аукционе, который был организован по завершению выставки. Длина самой большой картины 2 м, а ширина равна 1,2 м. Cколько всего юных художников в возрасте до 14 лет принимало участие в выставке?",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q116_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "8",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "7",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "10",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "9",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "117": {
+        "questionIndex": 27,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Выставка картин В городском парке была организована выставка картин юных художников, из них 7 участников в возрасте 9 лет, 3 участника – 11 лет, двоим было по 15 лет и одному участнику 16 лет. Bсего на выставке было выставлено 102 картины, из них 68 продали на аукционе, который был организован по завершению выставки. Длина самой большой картины 2 м, а ширина равна 1,2 м. Периметр самой большой картины равен",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q117_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "3,2 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "6,4 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "5,2 м",
+            "hasImage": false,
+            "images": []
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "2 м",
+            "hasImage": false,
+            "images": []
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "118": {
+        "questionIndex": 28,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Выставка картин В городском парке была организована выставка картин юных художников, из них 7 участников в возрасте 9 лет, 3 участника – 11 лет, двоим было по 15 лет и одному участнику 16 лет. Bсего на выставке было выставлено 102 картины, из них 68 продали на аукционе, который был организован по завершению выставки. Длина самой большой картины 2 м, а ширина равна 1,2 м. Bычислите площадь самой большой картины, ответ переведите в .",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q118_0.png",
+          "media/Математика/questions/q118_1.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q118_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q118_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q118_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q118_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "C"
+      },
+      "119": {
+        "questionIndex": 29,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Выставка картин В городском парке была организована выставка картин юных художников, из них 7 участников в возрасте 9 лет, 3 участника – 11 лет, двоим было по 15 лет и одному участнику 16 лет. Bсего на выставке было выставлено 102 картины, из них 68 продали на аукционе, который был организован по завершению выставки. Длина самой большой картины 2 м, а ширина равна 1,2 м. Bычислите квадрат диагонали самой большой картины",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q119_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q119_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q119_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q119_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q119_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "B"
+      },
+      "120": {
+        "questionIndex": 30,
+        "questionType": "choice",
+        "questionText": "Дополнительный материал к заданию: Выставка картин В городском парке была организована выставка картин юных художников, из них 7 участников в возрасте 9 лет, 3 участника – 11 лет, двоим было по 15 лет и одному участнику 16 лет. Bсего на выставке было выставлено 102 картины, из них 68 продали на аукционе, который был организован по завершению выставки. Длина самой большой картины 2 м, а ширина равна 1,2 м. Сколько процентов составляет количество проданных картин от общего числа картин? Ответ округлите до целых",
+        "questionHasImages": true,
+        "questionImages": [
+          "media/Математика/questions/q120_0.png"
+        ],
+        "answers": [
+          {
+            "index": 1,
+            "letter": "A)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q120_A_0.png"
+            ]
+          },
+          {
+            "index": 2,
+            "letter": "B)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q120_B_0.png"
+            ]
+          },
+          {
+            "index": 3,
+            "letter": "C)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q120_C_0.png"
+            ]
+          },
+          {
+            "index": 4,
+            "letter": "D)",
+            "text": "",
+            "hasImage": true,
+            "images": [
+              "media/Математика/answers/q120_D_0.png"
+            ]
+          }
+        ],
+        "correctLetter": "D"
+      }
+    }
+  }
+}
